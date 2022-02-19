@@ -1,5 +1,5 @@
 <?php
-include_once('../config.all.php');
+include_once('config.all.php');
 
 //echo APIKEYBLING;
 
