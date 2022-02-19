@@ -254,16 +254,17 @@ $saveLogs=true;
 function logsys($str){
   global $saveLogs;
   if($saveLogs){
-    $fp = fopen('sys.log.txt', 'a');
+    $fp = fopen('logs/sys.log.txt', 'a');
     fwrite($fp, date('d/m/y - H:i:s').' - '.$str."\n");
     fclose($fp);
   }
   if(isSet($_GET['logclear']) && $_GET['logclear']=='clearll'){
-    $fp = fopen('sys.log.txt', 'w');
+    $fp = fopen('logs/sys.log.txt', 'w');
     fwrite($fp, 'ZERANDO O ARQUIVO: '.date('d/m/y - H:i:s').' - '.$str."\n");
     fclose($fp);
   }
 }
+//function syslog($str){logsys($str);}
 
 
 // funcao helper para acesso de variaveis post, get, session, cookie, data e array

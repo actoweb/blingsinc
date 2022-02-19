@@ -2,6 +2,7 @@
 session_start();
 include_once('config.all.php');
 include_once('functions/functions.all.php');
+include_once('functions/functions.blingsinc.php');
 include_once('functions/functions.db.v3.php');
 
 define('DBHOST','localhost');

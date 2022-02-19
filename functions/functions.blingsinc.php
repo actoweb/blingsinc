@@ -1,21 +1,4 @@
 <?php
-function arrayVar($_ARRAY,$varname='',$default=false){
-  if($varname==''){
-    if(isSet($_ARRAY)){return true;}else{return $default;}
-  }else{
-    if(isSet($_ARRAY[$varname])){
-        if($_ARRAY[$varname]=='' || $_ARRAY[$varname]!=''){
-          return $_ARRAY[$varname];
-        }
-    }
-    else
-    {
-      return $default;
-    }
-  }
-}
-
-
 //funcao para cadastrar ou atualizar notas fiscais na tabela de notas
 function insertNfe($args,$situacao){
 
@@ -28,6 +11,21 @@ function insertNfe($args,$situacao){
 
 
 function sincNotasFiscais($args=array()){
+
+    $pendentes=0;
+    $emitidas=0;
+    $canceladas=0;
+    $agrecibo=0;
+    $rejeitadas=0;
+    $autorizadas=0;
+    $emidanfe=0;
+    $registrada=0;
+    $agprotocolo=0;
+    $denegada=0;
+    $conssitu=0;
+    $bloqueada=0;
+
+    logsys('iniciando sincronizacao das notas fiscais');
 
     $apikey_bling = APIKEYBLING;
 
@@ -48,25 +46,33 @@ function sincNotasFiscais($args=array()){
 
     //SE PROCESSAMENTO FOR PARA NOTAS DE SAIDA
     if($tipoNota=='saida'){
-    $situacao = array();
-    //$situacao[1]  = 'Pendente';
-    // $situacao[2]  = 'Emitida';
-    $situacao[3]  = 'Cancelada';
-    // $situacao[4]  = 'Enviada - Aguardando recibo';
-    // $situacao[5]  = 'Rejeitada';
-    //$situacao[6]  = 'Autorizada';
-    //$situacao[7]  = 'Emitida DANFE';
-    // $situacao[8]  = 'Registrada';
-    // $situacao[9]  = 'Enviada - Aguardando protocolo';
-     $situacao[10] = 'Denegada';
-     $situacao[11] = 'Consultar situação';
-     $situacao[12] = 'Bloqueada';
+     $situacao      = array();
+     $situacao[1]   = 'Pendente';
+     $situacao[2]   = 'Emitida';
+     $situacao[3]   = 'Cancelada';
+     $situacao[4]   = 'Enviada - Aguardando recibo';
+     $situacao[5]   = 'Rejeitada';
+     $situacao[6]   = 'Autorizada';
+     $situacao[7]   = 'Emitida DANFE';
+     $situacao[8]   = 'Registrada';
+     $situacao[9]   = 'Enviada - Aguardando protocolo';
+     $situacao[10]  = 'Denegada';
+     $situacao[11]  = 'Consultar situação';
+     $situacao[12]  = 'Bloqueada';
 
+     $notaProcessada=0;
 
             /* iremos localizar todas as notas fiscais de acordo com os 12 tipo de
             situacao possiveis */
 
             foreach($situacao as $key => $val){
+
+                logsys('Esperando 1 segundo...'.date('H:i:s'));
+                ob_flush();
+                flush();
+                sleep(1);
+                logsys('Ok vamos continuar...'.date('H:i:s'));
+
 
                 //situacao da NFe
                 $situacao_nfe   = $key;
@@ -102,8 +108,6 @@ function sincNotasFiscais($args=array()){
                         //selecionamos o elemento do array com a lista de notas fiscais
                         //$notas_fiscais  =  $array_notas['retorno']['notasfiscais'];
                         $notas_fiscais  =  $array_notas['retorno']['notasfiscais'];
-
-                        //print_r($notas_fiscais);
 
                         //listamos o array para o seu processamento
                         for ($i=0; $i < count($notas_fiscais); $i++) {
@@ -143,16 +147,30 @@ function sincNotasFiscais($args=array()){
                             }else{
                             $insertNFe[$i]['nfe_transportadora']     = 0;
                             }
-                            /* array com os dados dos volumes */
+                            $notaProcessada++;
 
-                            //funcao a ser implentada, vai receber o array $insert e inserir as notas na tabela de dados
-                            //insertNfe($insert);
+
+                            if($key==1){$pendentes++;}
+                            if($key==2){$emitidas++;}
+                            if($key==3){$canceladas++;}
+                            if($key==4){$agrecibo++;}
+                            if($key==5){$rejeitadas++;}
+                            if($key==6){$autorizadas++;}
+                            if($key==7){$emidanfe++;}
+                            if($key==8){$registrada++;}
+                            if($key==9){$agprotocolo++;}
+                            if($key==10){$denegada++;}
+                            if($key==11){$conssitu++;}
+                            if($key==12){$bloqueada++;}
 
                             //print_r para conferencia dos dados
                             print_r($insertNFe);
 
-                            //if($i==99){$process = false;}
                         }
+
+                        logsys('Encontradas '.$i.' notas ('.$situacao[$key].'(s)) prosseguindo para o cadastro no mysql');
+
+                        //funcao a ser implentada, vai receber o array $insert e inserir as notas na tabela de dados
                         //insertNfe($insert,$situacao_nfe);
 
 
@@ -163,7 +181,9 @@ function sincNotasFiscais($args=array()){
                     }
                     $page++;
 
+
             }//end loop while processa==true
+
 
             }
 
@@ -171,6 +191,22 @@ function sincNotasFiscais($args=array()){
     }//final IF notas == SAIDA
 
     $result = $tipoNota;
+
+    logsys('############################################');
+    logsys('Total de notas processadas: '.$notaProcessada);
+    logsys('############################################');
+    logsys('Notas pendentes: '.$pendentes);
+    logsys('Notas emitidas: '.$emitidas);
+    logsys('Notas canceladas: '.$canceladas);
+    logsys('Notas agrecibo: '.$agrecibo);
+    logsys('Notas rejeitadas: '.$rejeitadas);
+    logsys('Notas autorizadas: '.$autorizadas);
+    logsys('Notas emidanfe: '.$emidanfe);
+    logsys('Notas registrada: '.$registrada);
+    logsys('Notas agprotocolo: '.$agprotocolo);
+    logsys('Notas denegada: '.$denegada);
+    logsys('Notas conssitu: '.$conssitu);
+    logsys('Notas bloqueada: '.$bloqueada);
 
     return $result;
 
