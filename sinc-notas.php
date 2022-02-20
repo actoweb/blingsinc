@@ -1,5 +1,8 @@
 <?php
 include_once('config.all.php');
+
+$diaSemana  = date('w');
+if($hora>6 && $hora<19 && $diaSemana <= 5){
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
@@ -28,3 +31,7 @@ sincNotasFiscais(array('tipo'=>'E'));
 
 </body>
 </html>
+
+<?php
+}
+?>
