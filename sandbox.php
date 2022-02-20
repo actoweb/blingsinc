@@ -1,10 +1,28 @@
 <?php
 include_once('config.all.php');
-
-//echo APIKEYBLING;
-
-$args = array('tipo'=>'S');
-sincNotasFiscais($args);
-
-//echo $res;
 ?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>REPORTS GEN</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="generator" content="Geany 1.36" />
+</head>
+<body onload="javascript:window.scrollTo(0,document.body.scrollHeight);">
+
+<?php
+
+sincNotasFiscais(array('tipo'=>'S'));
+
+ob_flush();
+flush();
+sleep(5);
+
+sincNotasFiscais(array('tipo'=>'E'));
+
+?>
+
+</body>
+</html>

@@ -1,51 +1,508 @@
-19/02/22 - 20:29:07 - iniciando sincronizacao das notas fiscais
-19/02/22 - 20:29:07 - Esperando 1 segundo...20:29:07
-19/02/22 - 20:29:08 - Ok vamos continuar...20:29:08
-19/02/22 - 20:29:08 - Encontradas 13 notas (Pendente(s)) prosseguindo para o cadastro no mysql
-19/02/22 - 20:29:09 - Esperando 1 segundo...20:29:09
-19/02/22 - 20:29:10 - Ok vamos continuar...20:29:10
-19/02/22 - 20:29:10 - Esperando 1 segundo...20:29:10
-19/02/22 - 20:29:11 - Ok vamos continuar...20:29:11
-19/02/22 - 20:29:11 - Encontradas 45 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
-19/02/22 - 20:29:11 - Esperando 1 segundo...20:29:11
-19/02/22 - 20:29:12 - Ok vamos continuar...20:29:12
-19/02/22 - 20:29:13 - Esperando 1 segundo...20:29:13
-19/02/22 - 20:29:14 - Ok vamos continuar...20:29:14
-19/02/22 - 20:29:14 - Encontradas 1 notas (Rejeitada(s)) prosseguindo para o cadastro no mysql
-19/02/22 - 20:29:14 - Esperando 1 segundo...20:29:14
-19/02/22 - 20:29:15 - Ok vamos continuar...20:29:15
-19/02/22 - 20:29:16 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
-19/02/22 - 20:29:16 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
-19/02/22 - 20:29:17 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
-19/02/22 - 20:29:17 - Encontradas 3 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
-19/02/22 - 20:29:17 - Esperando 1 segundo...20:29:17
-19/02/22 - 20:29:18 - Ok vamos continuar...20:29:18
-19/02/22 - 20:29:18 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
-19/02/22 - 20:29:19 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
-19/02/22 - 20:29:19 - Encontradas 91 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
-19/02/22 - 20:29:20 - Esperando 1 segundo...20:29:20
-19/02/22 - 20:29:21 - Ok vamos continuar...20:29:21
-19/02/22 - 20:29:21 - Esperando 1 segundo...20:29:21
-19/02/22 - 20:29:22 - Ok vamos continuar...20:29:22
-19/02/22 - 20:29:23 - Encontradas 2 notas (Enviada - Aguardando protocolo(s)) prosseguindo para o cadastro no mysql
-19/02/22 - 20:29:23 - Esperando 1 segundo...20:29:23
-19/02/22 - 20:29:24 - Ok vamos continuar...20:29:24
-19/02/22 - 20:29:24 - Esperando 1 segundo...20:29:24
-19/02/22 - 20:29:25 - Ok vamos continuar...20:29:25
-19/02/22 - 20:29:25 - Esperando 1 segundo...20:29:25
-19/02/22 - 20:29:26 - Ok vamos continuar...20:29:26
-19/02/22 - 20:29:27 - ############################################
-19/02/22 - 20:29:27 - Total de notas processadas: 655
-19/02/22 - 20:29:27 - ############################################
-19/02/22 - 20:29:27 - Notas pendentes: 13
-19/02/22 - 20:29:27 - Notas emitidas: 0
-19/02/22 - 20:29:27 - Notas canceladas: 45
-19/02/22 - 20:29:27 - Notas agrecibo: 0
-19/02/22 - 20:29:27 - Notas rejeitadas: 1
-19/02/22 - 20:29:27 - Notas autorizadas: 303
-19/02/22 - 20:29:27 - Notas emidanfe: 291
-19/02/22 - 20:29:27 - Notas registrada: 0
-19/02/22 - 20:29:27 - Notas agprotocolo: 2
-19/02/22 - 20:29:27 - Notas denegada: 0
-19/02/22 - 20:29:27 - Notas conssitu: 0
-19/02/22 - 20:29:27 - Notas bloqueada: 0
+20/02/22 - 14:58:21 - iniciando sincronizacao das notas fiscais
+20/02/22 - 14:58:21 - Esperando 1 segundo...14:58:21
+20/02/22 - 14:58:22 - Ok vamos continuar...14:58:22
+20/02/22 - 14:58:22 - Encontradas 13 notas (Pendente(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:23 - Esperando 1 segundo...14:58:23
+20/02/22 - 14:58:24 - Ok vamos continuar...14:58:24
+20/02/22 - 14:58:24 - Esperando 1 segundo...14:58:24
+20/02/22 - 14:58:25 - Ok vamos continuar...14:58:25
+20/02/22 - 14:58:26 - Encontradas 45 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:26 - Esperando 1 segundo...14:58:26
+20/02/22 - 14:58:27 - Ok vamos continuar...14:58:27
+20/02/22 - 14:58:27 - Esperando 1 segundo...14:58:27
+20/02/22 - 14:58:28 - Ok vamos continuar...14:58:28
+20/02/22 - 14:58:29 - Encontradas 1 notas (Rejeitada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:29 - Esperando 1 segundo...14:58:29
+20/02/22 - 14:58:30 - Ok vamos continuar...14:58:30
+20/02/22 - 14:58:31 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:33 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:34 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:34 - Encontradas 3 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:35 - Esperando 1 segundo...14:58:35
+20/02/22 - 14:58:36 - Ok vamos continuar...14:58:36
+20/02/22 - 14:58:37 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:39 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:40 - Encontradas 91 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:40 - Esperando 1 segundo...14:58:40
+20/02/22 - 14:58:41 - Ok vamos continuar...14:58:41
+20/02/22 - 14:58:42 - Esperando 1 segundo...14:58:42
+20/02/22 - 14:58:43 - Ok vamos continuar...14:58:43
+20/02/22 - 14:58:43 - Encontradas 2 notas (Enviada - Aguardando protocolo(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:43 - Esperando 1 segundo...14:58:43
+20/02/22 - 14:58:44 - Ok vamos continuar...14:58:44
+20/02/22 - 14:58:44 - Esperando 1 segundo...14:58:44
+20/02/22 - 14:58:45 - Ok vamos continuar...14:58:45
+20/02/22 - 14:58:46 - Esperando 1 segundo...14:58:46
+20/02/22 - 14:58:47 - Ok vamos continuar...14:58:47
+20/02/22 - 14:58:47 - ############################################
+20/02/22 - 14:58:47 - Total de notas processadas: 655
+20/02/22 - 14:58:47 - ############################################
+20/02/22 - 14:58:47 - Notas pendentes: 13
+20/02/22 - 14:58:47 - Notas emitidas: 0
+20/02/22 - 14:58:47 - Notas canceladas: 45
+20/02/22 - 14:58:47 - Notas agrecibo: 0
+20/02/22 - 14:58:47 - Notas rejeitadas: 1
+20/02/22 - 14:58:47 - Notas autorizadas: 303
+20/02/22 - 14:58:47 - Notas emidanfe: 291
+20/02/22 - 14:58:47 - Notas registrada: 0
+20/02/22 - 14:58:47 - Notas agprotocolo: 2
+20/02/22 - 14:58:47 - Notas denegada: 0
+20/02/22 - 14:58:47 - Notas conssitu: 0
+20/02/22 - 14:58:47 - Notas bloqueada: 0
+20/02/22 - 14:58:52 - iniciando sincronizacao das notas fiscais
+20/02/22 - 14:58:52 - Esperando 1 segundo...14:58:52
+20/02/22 - 14:58:53 - Ok vamos continuar...14:58:53
+20/02/22 - 14:58:54 - Encontradas 2 notas (Pendente(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:54 - Esperando 1 segundo...14:58:54
+20/02/22 - 14:58:55 - Ok vamos continuar...14:58:55
+20/02/22 - 14:58:55 - Esperando 1 segundo...14:58:55
+20/02/22 - 14:58:56 - Ok vamos continuar...14:58:56
+20/02/22 - 14:58:56 - Encontradas 6 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:58:57 - Esperando 1 segundo...14:58:57
+20/02/22 - 14:58:58 - Ok vamos continuar...14:58:58
+20/02/22 - 14:58:58 - Esperando 1 segundo...14:58:58
+20/02/22 - 14:58:59 - Ok vamos continuar...14:58:59
+20/02/22 - 14:58:59 - Esperando 1 segundo...14:58:59
+20/02/22 - 14:59:00 - Ok vamos continuar...14:59:00
+20/02/22 - 14:59:01 - Encontradas 41 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:59:01 - Esperando 1 segundo...14:59:01
+20/02/22 - 14:59:02 - Ok vamos continuar...14:59:02
+20/02/22 - 14:59:08 - Encontradas 53 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:59:08 - Esperando 1 segundo...14:59:08
+20/02/22 - 14:59:09 - Ok vamos continuar...14:59:09
+20/02/22 - 14:59:10 - Encontradas 100 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:59:11 - Encontradas 100 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:59:12 - Encontradas 33 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 14:59:12 - Esperando 1 segundo...14:59:12
+20/02/22 - 14:59:13 - Ok vamos continuar...14:59:13
+20/02/22 - 14:59:13 - Esperando 1 segundo...14:59:13
+20/02/22 - 14:59:14 - Ok vamos continuar...14:59:14
+20/02/22 - 14:59:14 - Esperando 1 segundo...14:59:14
+20/02/22 - 14:59:15 - Ok vamos continuar...14:59:15
+20/02/22 - 14:59:16 - Esperando 1 segundo...14:59:16
+20/02/22 - 14:59:17 - Ok vamos continuar...14:59:17
+20/02/22 - 14:59:17 - ############################################
+20/02/22 - 14:59:17 - Total de notas processadas: 335
+20/02/22 - 14:59:17 - ############################################
+20/02/22 - 14:59:17 - Notas pendentes: 2
+20/02/22 - 14:59:17 - Notas emitidas: 0
+20/02/22 - 14:59:17 - Notas canceladas: 6
+20/02/22 - 14:59:17 - Notas agrecibo: 0
+20/02/22 - 14:59:17 - Notas rejeitadas: 0
+20/02/22 - 14:59:17 - Notas autorizadas: 41
+20/02/22 - 14:59:17 - Notas emidanfe: 53
+20/02/22 - 14:59:17 - Notas registrada: 233
+20/02/22 - 14:59:17 - Notas agprotocolo: 0
+20/02/22 - 14:59:17 - Notas denegada: 0
+20/02/22 - 14:59:17 - Notas conssitu: 0
+20/02/22 - 14:59:17 - Notas bloqueada: 0
+20/02/22 - 15:01:30 - iniciando sincronizacao das notas fiscais
+20/02/22 - 15:01:30 - Esperando 1 segundo...15:01:30
+20/02/22 - 15:01:31 - Ok vamos continuar...15:01:31
+20/02/22 - 15:01:31 - Encontradas 13 notas (Pendente(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:01:31 - Esperando 1 segundo...15:01:31
+20/02/22 - 15:01:32 - Ok vamos continuar...15:01:32
+20/02/22 - 15:01:38 - Esperando 1 segundo...15:01:38
+20/02/22 - 15:01:39 - Ok vamos continuar...15:01:39
+20/02/22 - 15:01:39 - Encontradas 45 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:01:40 - Esperando 1 segundo...15:01:40
+20/02/22 - 15:01:41 - Ok vamos continuar...15:01:41
+20/02/22 - 15:01:41 - Esperando 1 segundo...15:01:41
+20/02/22 - 15:01:42 - Ok vamos continuar...15:01:42
+20/02/22 - 15:01:42 - Encontradas 1 notas (Rejeitada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:01:42 - Esperando 1 segundo...15:01:42
+20/02/22 - 15:01:43 - Ok vamos continuar...15:01:43
+20/02/22 - 15:01:45 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:01:46 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:01:47 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:01:47 - Encontradas 3 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:01:48 - Esperando 1 segundo...15:01:48
+20/02/22 - 15:01:49 - Ok vamos continuar...15:01:49
+20/02/22 - 15:01:50 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:01:51 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:01:53 - Encontradas 91 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:01:53 - Esperando 1 segundo...15:01:53
+20/02/22 - 15:01:54 - Ok vamos continuar...15:01:54
+20/02/22 - 15:01:54 - Esperando 1 segundo...15:01:54
+20/02/22 - 15:01:55 - Ok vamos continuar...15:01:55
+20/02/22 - 15:01:55 - Encontradas 2 notas (Enviada - Aguardando protocolo(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:01:56 - Esperando 1 segundo...15:01:56
+20/02/22 - 15:01:57 - Ok vamos continuar...15:01:57
+20/02/22 - 15:01:57 - Esperando 1 segundo...15:01:57
+20/02/22 - 15:01:58 - Ok vamos continuar...15:01:58
+20/02/22 - 15:01:58 - Esperando 1 segundo...15:01:58
+20/02/22 - 15:01:59 - Ok vamos continuar...15:01:59
+20/02/22 - 15:01:59 - ############################################
+20/02/22 - 15:01:59 - Total de notas processadas: 655
+20/02/22 - 15:01:59 - ############################################
+20/02/22 - 15:01:59 - Notas pendentes: 13
+20/02/22 - 15:01:59 - Notas emitidas: 0
+20/02/22 - 15:01:59 - Notas canceladas: 45
+20/02/22 - 15:01:59 - Notas agrecibo: 0
+20/02/22 - 15:01:59 - Notas rejeitadas: 1
+20/02/22 - 15:01:59 - Notas autorizadas: 303
+20/02/22 - 15:01:59 - Notas emidanfe: 291
+20/02/22 - 15:01:59 - Notas registrada: 0
+20/02/22 - 15:01:59 - Notas agprotocolo: 2
+20/02/22 - 15:01:59 - Notas denegada: 0
+20/02/22 - 15:01:59 - Notas conssitu: 0
+20/02/22 - 15:01:59 - Notas bloqueada: 0
+20/02/22 - 15:02:04 - iniciando sincronizacao das notas fiscais
+20/02/22 - 15:02:04 - Esperando 1 segundo...15:02:04
+20/02/22 - 15:02:05 - Ok vamos continuar...15:02:05
+20/02/22 - 15:02:06 - Encontradas 2 notas (Pendente(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:02:06 - Esperando 1 segundo...15:02:06
+20/02/22 - 15:02:07 - Ok vamos continuar...15:02:07
+20/02/22 - 15:02:08 - Esperando 1 segundo...15:02:08
+20/02/22 - 15:02:09 - Ok vamos continuar...15:02:09
+20/02/22 - 15:02:09 - Encontradas 6 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:02:09 - Esperando 1 segundo...15:02:09
+20/02/22 - 15:02:10 - Ok vamos continuar...15:02:10
+20/02/22 - 15:02:11 - Esperando 1 segundo...15:02:11
+20/02/22 - 15:02:12 - Ok vamos continuar...15:02:12
+20/02/22 - 15:02:12 - Esperando 1 segundo...15:02:12
+20/02/22 - 15:02:13 - Ok vamos continuar...15:02:13
+20/02/22 - 15:02:14 - Encontradas 41 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:02:14 - Esperando 1 segundo...15:02:14
+20/02/22 - 15:02:15 - Ok vamos continuar...15:02:15
+20/02/22 - 15:02:16 - Encontradas 53 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:02:16 - Esperando 1 segundo...15:02:16
+20/02/22 - 15:02:17 - Ok vamos continuar...15:02:17
+20/02/22 - 15:02:19 - Encontradas 100 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:02:21 - Encontradas 100 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:02:22 - Encontradas 33 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:02:22 - Esperando 1 segundo...15:02:22
+20/02/22 - 15:02:23 - Ok vamos continuar...15:02:23
+20/02/22 - 15:02:23 - Esperando 1 segundo...15:02:23
+20/02/22 - 15:02:24 - Ok vamos continuar...15:02:24
+20/02/22 - 15:02:25 - Esperando 1 segundo...15:02:25
+20/02/22 - 15:02:26 - Ok vamos continuar...15:02:26
+20/02/22 - 15:02:26 - Esperando 1 segundo...15:02:26
+20/02/22 - 15:02:27 - Ok vamos continuar...15:02:27
+20/02/22 - 15:02:27 - ############################################
+20/02/22 - 15:02:27 - Total de notas processadas: 335
+20/02/22 - 15:02:27 - ############################################
+20/02/22 - 15:02:27 - Notas pendentes: 2
+20/02/22 - 15:02:27 - Notas emitidas: 0
+20/02/22 - 15:02:27 - Notas canceladas: 6
+20/02/22 - 15:02:27 - Notas agrecibo: 0
+20/02/22 - 15:02:27 - Notas rejeitadas: 0
+20/02/22 - 15:02:27 - Notas autorizadas: 41
+20/02/22 - 15:02:27 - Notas emidanfe: 53
+20/02/22 - 15:02:27 - Notas registrada: 233
+20/02/22 - 15:02:27 - Notas agprotocolo: 0
+20/02/22 - 15:02:27 - Notas denegada: 0
+20/02/22 - 15:02:27 - Notas conssitu: 0
+20/02/22 - 15:02:27 - Notas bloqueada: 0
+20/02/22 - 15:08:51 - iniciando sincronizacao das notas fiscais
+20/02/22 - 15:08:51 - Esperando 1 segundo...15:08:51
+20/02/22 - 15:08:52 - Ok vamos continuar...15:08:52
+20/02/22 - 15:08:52 - Encontradas 13 notas (Pendente(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:08:52 - Esperando 1 segundo...15:08:52
+20/02/22 - 15:08:53 - Ok vamos continuar...15:08:53
+20/02/22 - 15:08:54 - Esperando 1 segundo...15:08:54
+20/02/22 - 15:08:55 - Ok vamos continuar...15:08:55
+20/02/22 - 15:08:55 - Encontradas 45 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:08:56 - Esperando 1 segundo...15:08:56
+20/02/22 - 15:08:57 - Ok vamos continuar...15:08:57
+20/02/22 - 15:08:57 - Esperando 1 segundo...15:08:57
+20/02/22 - 15:08:58 - Ok vamos continuar...15:08:58
+20/02/22 - 15:08:58 - Encontradas 1 notas (Rejeitada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:08:58 - Esperando 1 segundo...15:08:58
+20/02/22 - 15:08:59 - Ok vamos continuar...15:08:59
+20/02/22 - 15:09:01 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:02 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:03 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:03 - Encontradas 3 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:04 - Esperando 1 segundo...15:09:04
+20/02/22 - 15:09:05 - Ok vamos continuar...15:09:05
+20/02/22 - 15:09:06 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:07 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:08 - Encontradas 91 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:09 - Esperando 1 segundo...15:09:09
+20/02/22 - 15:09:10 - Ok vamos continuar...15:09:10
+20/02/22 - 15:09:10 - Esperando 1 segundo...15:09:10
+20/02/22 - 15:09:11 - Ok vamos continuar...15:09:11
+20/02/22 - 15:09:11 - Encontradas 2 notas (Enviada - Aguardando protocolo(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:11 - Esperando 1 segundo...15:09:11
+20/02/22 - 15:09:12 - Ok vamos continuar...15:09:12
+20/02/22 - 15:09:13 - Esperando 1 segundo...15:09:13
+20/02/22 - 15:09:14 - Ok vamos continuar...15:09:14
+20/02/22 - 15:09:14 - Esperando 1 segundo...15:09:14
+20/02/22 - 15:09:15 - Ok vamos continuar...15:09:15
+20/02/22 - 15:09:15 - ############################################
+20/02/22 - 15:09:15 - Total de notas processadas: 655
+20/02/22 - 15:09:15 - ############################################
+20/02/22 - 15:09:15 - Notas pendentes: 13
+20/02/22 - 15:09:15 - Notas emitidas: 0
+20/02/22 - 15:09:15 - Notas canceladas: 45
+20/02/22 - 15:09:15 - Notas agrecibo: 0
+20/02/22 - 15:09:15 - Notas rejeitadas: 1
+20/02/22 - 15:09:15 - Notas autorizadas: 303
+20/02/22 - 15:09:15 - Notas emidanfe: 291
+20/02/22 - 15:09:15 - Notas registrada: 0
+20/02/22 - 15:09:15 - Notas agprotocolo: 2
+20/02/22 - 15:09:15 - Notas denegada: 0
+20/02/22 - 15:09:15 - Notas conssitu: 0
+20/02/22 - 15:09:15 - Notas bloqueada: 0
+20/02/22 - 15:09:20 - iniciando sincronizacao das notas fiscais
+20/02/22 - 15:09:20 - Esperando 1 segundo...15:09:20
+20/02/22 - 15:09:21 - Ok vamos continuar...15:09:21
+20/02/22 - 15:09:21 - Encontradas 2 notas (Pendente(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:22 - Esperando 1 segundo...15:09:22
+20/02/22 - 15:09:23 - Ok vamos continuar...15:09:23
+20/02/22 - 15:09:23 - Esperando 1 segundo...15:09:23
+20/02/22 - 15:09:24 - Ok vamos continuar...15:09:24
+20/02/22 - 15:09:24 - Encontradas 6 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:24 - Esperando 1 segundo...15:09:24
+20/02/22 - 15:09:25 - Ok vamos continuar...15:09:25
+20/02/22 - 15:09:26 - Esperando 1 segundo...15:09:26
+20/02/22 - 15:09:27 - Ok vamos continuar...15:09:27
+20/02/22 - 15:09:27 - Esperando 1 segundo...15:09:27
+20/02/22 - 15:09:28 - Ok vamos continuar...15:09:28
+20/02/22 - 15:09:29 - Encontradas 41 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:29 - Esperando 1 segundo...15:09:29
+20/02/22 - 15:09:30 - Ok vamos continuar...15:09:30
+20/02/22 - 15:09:31 - Encontradas 53 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:31 - Esperando 1 segundo...15:09:31
+20/02/22 - 15:09:32 - Ok vamos continuar...15:09:32
+20/02/22 - 15:09:34 - Encontradas 100 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:35 - Encontradas 100 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:36 - Encontradas 33 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:09:36 - Esperando 1 segundo...15:09:36
+20/02/22 - 15:09:37 - Ok vamos continuar...15:09:37
+20/02/22 - 15:09:37 - Esperando 1 segundo...15:09:37
+20/02/22 - 15:09:38 - Ok vamos continuar...15:09:38
+20/02/22 - 15:09:38 - Esperando 1 segundo...15:09:38
+20/02/22 - 15:09:39 - Ok vamos continuar...15:09:39
+20/02/22 - 15:09:40 - Esperando 1 segundo...15:09:40
+20/02/22 - 15:09:41 - Ok vamos continuar...15:09:41
+20/02/22 - 15:09:41 - ############################################
+20/02/22 - 15:09:41 - Total de notas processadas: 335
+20/02/22 - 15:09:41 - ############################################
+20/02/22 - 15:09:41 - Notas pendentes: 2
+20/02/22 - 15:09:41 - Notas emitidas: 0
+20/02/22 - 15:09:41 - Notas canceladas: 6
+20/02/22 - 15:09:41 - Notas agrecibo: 0
+20/02/22 - 15:09:41 - Notas rejeitadas: 0
+20/02/22 - 15:09:41 - Notas autorizadas: 41
+20/02/22 - 15:09:41 - Notas emidanfe: 53
+20/02/22 - 15:09:41 - Notas registrada: 233
+20/02/22 - 15:09:41 - Notas agprotocolo: 0
+20/02/22 - 15:09:41 - Notas denegada: 0
+20/02/22 - 15:09:41 - Notas conssitu: 0
+20/02/22 - 15:09:41 - Notas bloqueada: 0
+20/02/22 - 15:14:43 - iniciando sincronizacao das notas fiscais
+20/02/22 - 15:14:43 - Esperando 1 segundo...15:14:43
+20/02/22 - 15:14:44 - Ok vamos continuar...15:14:44
+20/02/22 - 15:14:44 - Encontradas 13 notas (Pendente(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:14:44 - Esperando 1 segundo...15:14:44
+20/02/22 - 15:14:45 - Ok vamos continuar...15:14:45
+20/02/22 - 15:14:45 - Esperando 1 segundo...15:14:45
+20/02/22 - 15:14:46 - Ok vamos continuar...15:14:46
+20/02/22 - 15:14:47 - Encontradas 45 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:14:47 - Esperando 1 segundo...15:14:47
+20/02/22 - 15:14:48 - Ok vamos continuar...15:14:48
+20/02/22 - 15:14:49 - Esperando 1 segundo...15:14:49
+20/02/22 - 15:14:50 - Ok vamos continuar...15:14:50
+20/02/22 - 15:14:50 - Encontradas 1 notas (Rejeitada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:14:50 - Esperando 1 segundo...15:14:50
+20/02/22 - 15:14:51 - Ok vamos continuar...15:14:51
+20/02/22 - 15:14:52 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:14:53 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:14:55 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:14:55 - Encontradas 3 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:14:55 - Esperando 1 segundo...15:14:55
+20/02/22 - 15:14:56 - Ok vamos continuar...15:14:56
+20/02/22 - 15:14:57 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:14:59 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:15:00 - Encontradas 91 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:15:00 - Esperando 1 segundo...15:15:00
+20/02/22 - 15:15:01 - Ok vamos continuar...15:15:01
+20/02/22 - 15:15:01 - Esperando 1 segundo...15:15:01
+20/02/22 - 15:15:03 - Ok vamos continuar...15:15:03
+20/02/22 - 15:15:03 - Encontradas 2 notas (Enviada - Aguardando protocolo(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:15:03 - Esperando 1 segundo...15:15:03
+20/02/22 - 15:15:04 - Ok vamos continuar...15:15:04
+20/02/22 - 15:15:04 - Esperando 1 segundo...15:15:04
+20/02/22 - 15:15:05 - Ok vamos continuar...15:15:05
+20/02/22 - 15:15:06 - Esperando 1 segundo...15:15:06
+20/02/22 - 15:15:07 - Ok vamos continuar...15:15:07
+20/02/22 - 15:15:07 - ############################################
+20/02/22 - 15:15:07 - Total de notas processadas: 655
+20/02/22 - 15:15:07 - ############################################
+20/02/22 - 15:15:07 - Notas pendentes: 13
+20/02/22 - 15:15:07 - Notas emitidas: 0
+20/02/22 - 15:15:07 - Notas canceladas: 45
+20/02/22 - 15:15:07 - Notas agrecibo: 0
+20/02/22 - 15:15:07 - Notas rejeitadas: 1
+20/02/22 - 15:15:07 - Notas autorizadas: 303
+20/02/22 - 15:15:07 - Notas emidanfe: 291
+20/02/22 - 15:15:07 - Notas registrada: 0
+20/02/22 - 15:15:07 - Notas agprotocolo: 2
+20/02/22 - 15:15:07 - Notas denegada: 0
+20/02/22 - 15:15:07 - Notas conssitu: 0
+20/02/22 - 15:15:07 - Notas bloqueada: 0
+20/02/22 - 15:15:12 - iniciando sincronizacao das notas fiscais
+20/02/22 - 15:15:12 - Esperando 1 segundo...15:15:12
+20/02/22 - 15:15:13 - Ok vamos continuar...15:15:13
+20/02/22 - 15:15:13 - Encontradas 2 notas (Pendente(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:15:13 - Esperando 1 segundo...15:15:13
+20/02/22 - 15:15:14 - Ok vamos continuar...15:15:14
+20/02/22 - 15:15:15 - Esperando 1 segundo...15:15:15
+20/02/22 - 15:15:16 - Ok vamos continuar...15:15:16
+20/02/22 - 15:15:16 - Encontradas 6 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:15:16 - Esperando 1 segundo...15:15:16
+20/02/22 - 15:15:17 - Ok vamos continuar...15:15:17
+20/02/22 - 15:15:17 - Esperando 1 segundo...15:15:17
+20/02/22 - 15:15:18 - Ok vamos continuar...15:15:18
+20/02/22 - 15:15:19 - Esperando 1 segundo...15:15:19
+20/02/22 - 15:15:20 - Ok vamos continuar...15:15:20
+20/02/22 - 15:15:20 - Encontradas 41 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:15:21 - Esperando 1 segundo...15:15:21
+20/02/22 - 15:15:22 - Ok vamos continuar...15:15:22
+20/02/22 - 15:15:23 - Encontradas 53 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:15:23 - Esperando 1 segundo...15:15:23
+20/02/22 - 15:15:24 - Ok vamos continuar...15:15:24
+20/02/22 - 15:15:26 - Encontradas 100 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:15:32 - Encontradas 100 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:15:38 - Encontradas 33 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:15:38 - Esperando 1 segundo...15:15:38
+20/02/22 - 15:15:39 - Ok vamos continuar...15:15:39
+20/02/22 - 15:15:40 - Esperando 1 segundo...15:15:40
+20/02/22 - 15:15:41 - Ok vamos continuar...15:15:41
+20/02/22 - 15:15:41 - Esperando 1 segundo...15:15:41
+20/02/22 - 15:15:42 - Ok vamos continuar...15:15:42
+20/02/22 - 15:15:42 - Esperando 1 segundo...15:15:42
+20/02/22 - 15:15:43 - Ok vamos continuar...15:15:43
+20/02/22 - 15:15:43 - ############################################
+20/02/22 - 15:15:43 - Total de notas processadas: 335
+20/02/22 - 15:15:43 - ############################################
+20/02/22 - 15:15:43 - Notas pendentes: 2
+20/02/22 - 15:15:43 - Notas emitidas: 0
+20/02/22 - 15:15:43 - Notas canceladas: 6
+20/02/22 - 15:15:43 - Notas agrecibo: 0
+20/02/22 - 15:15:43 - Notas rejeitadas: 0
+20/02/22 - 15:15:43 - Notas autorizadas: 41
+20/02/22 - 15:15:43 - Notas emidanfe: 53
+20/02/22 - 15:15:43 - Notas registrada: 233
+20/02/22 - 15:15:43 - Notas agprotocolo: 0
+20/02/22 - 15:15:43 - Notas denegada: 0
+20/02/22 - 15:15:43 - Notas conssitu: 0
+20/02/22 - 15:15:43 - Notas bloqueada: 0
+20/02/22 - 15:48:53 - iniciando sincronizacao das notas fiscais
+20/02/22 - 15:48:53 - Esperando 1 segundo...15:48:53
+20/02/22 - 15:48:54 - Ok vamos continuar...15:48:54
+20/02/22 - 15:48:54 - Encontradas 13 notas (Pendente(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:48:54 - Esperando 1 segundo...15:48:54
+20/02/22 - 15:48:55 - Ok vamos continuar...15:48:55
+20/02/22 - 15:48:56 - Esperando 1 segundo...15:48:56
+20/02/22 - 15:48:57 - Ok vamos continuar...15:48:57
+20/02/22 - 15:49:18 - Encontradas 45 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:49:18 - Esperando 1 segundo...15:49:18
+20/02/22 - 15:49:19 - Ok vamos continuar...15:49:19
+20/02/22 - 15:49:19 - Esperando 1 segundo...15:49:19
+20/02/22 - 15:49:20 - Ok vamos continuar...15:49:20
+20/02/22 - 15:49:22 - Encontradas 1 notas (Rejeitada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:49:22 - Esperando 1 segundo...15:49:22
+20/02/22 - 15:49:23 - Ok vamos continuar...15:49:23
+20/02/22 - 15:50:13 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:51:12 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:52:11 - iniciando sincronizacao das notas fiscais
+20/02/22 - 15:52:11 - Esperando 1 segundo...15:52:11
+20/02/22 - 15:52:12 - Ok vamos continuar...15:52:12
+20/02/22 - 15:52:13 - Encontradas 13 notas (Pendente(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:52:13 - Esperando 1 segundo...15:52:13
+20/02/22 - 15:52:14 - Ok vamos continuar...15:52:14
+20/02/22 - 15:52:14 - Esperando 1 segundo...15:52:14
+20/02/22 - 15:52:15 - Ok vamos continuar...15:52:15
+20/02/22 - 15:52:49 - Encontradas 45 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:52:49 - Esperando 1 segundo...15:52:49
+20/02/22 - 15:52:50 - Ok vamos continuar...15:52:50
+20/02/22 - 15:52:51 - Esperando 1 segundo...15:52:51
+20/02/22 - 15:52:52 - Ok vamos continuar...15:52:52
+20/02/22 - 15:52:53 - Encontradas 1 notas (Rejeitada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:52:53 - Esperando 1 segundo...15:52:53
+20/02/22 - 15:52:54 - Ok vamos continuar...15:52:54
+20/02/22 - 15:53:53 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:55:03 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:55:56 - Encontradas 100 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:55:59 - Encontradas 3 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:55:59 - Esperando 1 segundo...15:55:59
+20/02/22 - 15:56:00 - Ok vamos continuar...15:56:00
+20/02/22 - 15:56:56 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:58:07 - Encontradas 100 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:58:56 - Encontradas 91 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:58:56 - Esperando 1 segundo...15:58:56
+20/02/22 - 15:58:57 - Ok vamos continuar...15:58:57
+20/02/22 - 15:58:57 - Esperando 1 segundo...15:58:57
+20/02/22 - 15:58:58 - Ok vamos continuar...15:58:58
+20/02/22 - 15:59:00 - Encontradas 2 notas (Enviada - Aguardando protocolo(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:59:00 - Esperando 1 segundo...15:59:00
+20/02/22 - 15:59:01 - Ok vamos continuar...15:59:01
+20/02/22 - 15:59:01 - Esperando 1 segundo...15:59:01
+20/02/22 - 15:59:02 - Ok vamos continuar...15:59:02
+20/02/22 - 15:59:03 - Esperando 1 segundo...15:59:03
+20/02/22 - 15:59:04 - Ok vamos continuar...15:59:04
+20/02/22 - 15:59:04 - ############################################
+20/02/22 - 15:59:04 - Total de notas processadas: 655
+20/02/22 - 15:59:04 - ############################################
+20/02/22 - 15:59:04 - Notas pendentes: 13
+20/02/22 - 15:59:04 - Notas emitidas: 0
+20/02/22 - 15:59:04 - Notas canceladas: 45
+20/02/22 - 15:59:04 - Notas agrecibo: 0
+20/02/22 - 15:59:04 - Notas rejeitadas: 1
+20/02/22 - 15:59:04 - Notas autorizadas: 303
+20/02/22 - 15:59:04 - Notas emidanfe: 291
+20/02/22 - 15:59:04 - Notas registrada: 0
+20/02/22 - 15:59:04 - Notas agprotocolo: 2
+20/02/22 - 15:59:04 - Notas denegada: 0
+20/02/22 - 15:59:04 - Notas conssitu: 0
+20/02/22 - 15:59:04 - Notas bloqueada: 0
+20/02/22 - 15:59:09 - iniciando sincronizacao das notas fiscais
+20/02/22 - 15:59:09 - Esperando 1 segundo...15:59:09
+20/02/22 - 15:59:10 - Ok vamos continuar...15:59:10
+20/02/22 - 15:59:10 - Encontradas 2 notas (Pendente(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:59:10 - Esperando 1 segundo...15:59:10
+20/02/22 - 15:59:11 - Ok vamos continuar...15:59:11
+20/02/22 - 15:59:12 - Esperando 1 segundo...15:59:12
+20/02/22 - 15:59:13 - Ok vamos continuar...15:59:13
+20/02/22 - 15:59:16 - Encontradas 6 notas (Cancelada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:59:16 - Esperando 1 segundo...15:59:16
+20/02/22 - 15:59:17 - Ok vamos continuar...15:59:17
+20/02/22 - 15:59:18 - Esperando 1 segundo...15:59:18
+20/02/22 - 15:59:19 - Ok vamos continuar...15:59:19
+20/02/22 - 15:59:19 - Esperando 1 segundo...15:59:19
+20/02/22 - 15:59:20 - Ok vamos continuar...15:59:20
+20/02/22 - 15:59:44 - Encontradas 41 notas (Autorizada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 15:59:44 - Esperando 1 segundo...15:59:44
+20/02/22 - 15:59:45 - Ok vamos continuar...15:59:45
+20/02/22 - 16:00:23 - Encontradas 53 notas (Emitida DANFE(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 16:00:23 - Esperando 1 segundo...16:00:23
+20/02/22 - 16:00:24 - Ok vamos continuar...16:00:24
+20/02/22 - 16:00:26 - Encontradas 100 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 16:01:02 - Encontradas 100 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 16:01:26 - Encontradas 33 notas (Registrada(s)) prosseguindo para o cadastro no mysql
+20/02/22 - 16:01:26 - Esperando 1 segundo...16:01:26
+20/02/22 - 16:01:27 - Ok vamos continuar...16:01:27
+20/02/22 - 16:01:27 - Esperando 1 segundo...16:01:27
+20/02/22 - 16:01:28 - Ok vamos continuar...16:01:28
+20/02/22 - 16:01:28 - Esperando 1 segundo...16:01:28
+20/02/22 - 16:01:29 - Ok vamos continuar...16:01:29
+20/02/22 - 16:01:30 - Esperando 1 segundo...16:01:30
+20/02/22 - 16:01:31 - Ok vamos continuar...16:01:31
+20/02/22 - 16:01:31 - ############################################
+20/02/22 - 16:01:31 - Total de notas processadas: 335
+20/02/22 - 16:01:31 - ############################################
+20/02/22 - 16:01:31 - Notas pendentes: 2
+20/02/22 - 16:01:31 - Notas emitidas: 0
+20/02/22 - 16:01:31 - Notas canceladas: 6
+20/02/22 - 16:01:31 - Notas agrecibo: 0
+20/02/22 - 16:01:31 - Notas rejeitadas: 0
+20/02/22 - 16:01:31 - Notas autorizadas: 41
+20/02/22 - 16:01:31 - Notas emidanfe: 53
+20/02/22 - 16:01:31 - Notas registrada: 233
+20/02/22 - 16:01:31 - Notas agprotocolo: 0
+20/02/22 - 16:01:31 - Notas denegada: 0
+20/02/22 - 16:01:31 - Notas conssitu: 0
+20/02/22 - 16:01:31 - Notas bloqueada: 0

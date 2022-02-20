@@ -1,13 +1,121 @@
 <?php
 //funcao para cadastrar ou atualizar notas fiscais na tabela de notas
-function insertNfe($args,$situacao){
+function insertNfe($args=array()){
 
+  if(count($args)>0){
 
+  //consulta se nota ja esta cadastrada
+  $numero_nota    = $args[':nfe_numero'];//numero da NFE
+  $nfe_tipo       = $args[':nfe_tipo'];//tipo nfe E entrada ou S saida
+  $documento_nota = $args[':nfe_doc'];//numero do documento CPF ou CNPJ (sem pontuacao)
+  $nfe_xml_link   = $args[':nfe_linkXml'];//endereco do xml da nota fiscal
 
+  //retorna o xml da nota fiscal
+  $xmlnota='';
+  if($nfe_xml_link!=''){$xmlnota = file_get_contents($nfe_xml_link);}
+  if($xmlnota!=''){
+  $args[':nfe_xml_nota'] = $xmlnota;
+  }else{
+  $args[':nfe_xml_nota'] = '0';
+  }
 
+  $checkNota = dbf('SELECT * FROM bs_notas
+                  WHERE
+                  nfe_numero  = :nfe_numero AND
+                  nfe_tipo    = :nfe_tipo AND
+                  nfe_doc     = :nfe_doc',array(
+                  ':nfe_numero' =>$numero_nota,
+                  ':nfe_tipo'   =>$nfe_tipo,
+                  ':nfe_doc'    =>$documento_nota),'num');
 
+    if($checkNota==0){//caso nota nao esteja cadastrada em cadastra ela
+
+      //cadastra nota na tabela de dados
+      $insert = dbf('INSERT bs_notas SET
+      nfe_serie              = :nfe_serie,
+      nfe_numero             = :nfe_numero,
+      nfe_numeroPedidoLoja   = :nfe_numeroPedidoLoja,
+      nfe_tipo               = :nfe_tipo,
+      nfe_loja               = :nfe_loja,
+      nfe_situacao           = :nfe_situacao,
+      nfe_nome               = :nfe_nome,
+      nfe_doc                = :nfe_doc,
+      nfe_cep                = :nfe_cep,
+      nfe_uf                 = :nfe_uf,
+      nfe_email              = :nfe_email,
+      nfe_fone               = :nfe_fone,
+      nfe_dataEmissao        = :nfe_dataEmissao,
+      nfe_valorNota          = :nfe_valorNota,
+      nfe_chaveAcesso        = :nfe_chaveAcesso,
+      nfe_linkXml            = :nfe_linkXml,
+      nfe_xml_nota           = :nfe_xml_nota,
+      nfe_json_nota          = :nfe_json_nota,
+      nfe_linkDanfe          = :nfe_linkDanfe,
+      nfe_linkPDF            = :nfe_linkPDF,
+      nfe_tipoIntegracao     = :nfe_tipoIntegracao,
+      nfe_cfops              = :nfe_cfops,
+      nfe_transportadora     = :nfe_transportadora',$args);
+
+      var_dump($insert);
+
+    }//end if checkNota == 0 (ROTINA DE CADASTRO)
+    else
+    {//caso nota ja exista entao atualiza ela na tabela de dados
+
+      //cadastra nota na tabela de dados
+      $update = dbf('UPDATE bs_notas SET
+      nfe_serie              = :nfe_serie,
+      nfe_numero             = :nfe_numero,
+      nfe_numeroPedidoLoja   = :nfe_numeroPedidoLoja,
+      nfe_tipo               = :nfe_tipo,
+      nfe_loja               = :nfe_loja,
+      nfe_situacao           = :nfe_situacao,
+      nfe_nome               = :nfe_nome,
+      nfe_doc                = :nfe_doc,
+      nfe_cep                = :nfe_cep,
+      nfe_uf                 = :nfe_uf,
+      nfe_email              = :nfe_email,
+      nfe_fone               = :nfe_fone,
+      nfe_dataEmissao        = :nfe_dataEmissao,
+      nfe_valorNota          = :nfe_valorNota,
+      nfe_chaveAcesso        = :nfe_chaveAcesso,
+      nfe_linkXml            = :nfe_linkXml,
+      nfe_xml_nota           = :nfe_xml_nota,
+      nfe_json_nota          = :nfe_json_nota,
+      nfe_linkDanfe          = :nfe_linkDanfe,
+      nfe_linkPDF            = :nfe_linkPDF,
+      nfe_tipoIntegracao     = :nfe_tipoIntegracao,
+      nfe_cfops              = :nfe_cfops,
+      nfe_transportadora     = :nfe_transportadora
+      WHERE
+      nfe_numero  = :nfe_numero AND
+      nfe_tipo    = :nfe_tipo   AND
+      nfe_doc     = :nfe_doc',$args);
+
+      var_dump($update);
+
+    }//end if checkNota != 0 (ROTINA DE ATUALIZACAO)
+  }
 }
 
+function executeGetFiscalDocuments($url, $apikey){
+    $curl_handle = curl_init();
+    curl_setopt($curl_handle, CURLOPT_URL, $url . '&apikey=' . $apikey);
+    curl_setopt($curl_handle, CURLOPT_RETURNTRANSFER, TRUE);
+    $response = curl_exec($curl_handle);
+    curl_close($curl_handle);
+
+    echo '<h3>* '.$url . '&apikey=' . $apikey.'</h3>';
+    return $response;
+}
+
+function str2int($str=''){
+  if($str!=''){
+  $str  = str_replace('"','',$str);
+  $int  = (int) $str;
+  }else{$int = '';}
+  return $int;
+}
 
 
 function sincNotasFiscais($args=array()){
@@ -29,23 +137,17 @@ function sincNotasFiscais($args=array()){
 
     $apikey_bling = APIKEYBLING;
 
-    function executeGetFiscalDocuments($url, $apikey){
-        $curl_handle = curl_init();
-        curl_setopt($curl_handle, CURLOPT_URL, $url . '&apikey=' . $apikey);
-        curl_setopt($curl_handle, CURLOPT_RETURNTRANSFER, TRUE);
-        $response = curl_exec($curl_handle);
-        curl_close($curl_handle);
+/*
+ * antiga doca da funcao executeGetFiscalDocuments()
+ * */
 
-        echo '<h3>* '.$url . '&apikey=' . $apikey.'</h3>';
-        return $response;
-    }
-
-    $tipoNota = '';
-    if($args['tipo']=='S'){$tipoNota = 'saida';}
-    if($args['tipo']=='E'){$tipoNota = 'entrada';}
+    $tipoNota     = '';
+    $filtroTipo   = '';
+    if($args['tipo']=='S'){$tipoNota = 'saida'; $filtroTipo = ';tipo[S]';}
+    if($args['tipo']=='E'){$tipoNota = 'entrada'; $filtroTipo = ';tipo[E]';}
 
     //SE PROCESSAMENTO FOR PARA NOTAS DE SAIDA
-    if($tipoNota=='saida'){
+    //if($tipoNota=='entrada'){
      $situacao      = array();
      $situacao[1]   = 'Pendente';
      $situacao[2]   = 'Emitida';
@@ -60,7 +162,9 @@ function sincNotasFiscais($args=array()){
      $situacao[11]  = 'Consultar situação';
      $situacao[12]  = 'Bloqueada';
 
+
      $notaProcessada=0;
+     $nc=1;//counter notas processadas
 
             /* iremos localizar todas as notas fiscais de acordo com os 12 tipo de
             situacao possiveis */
@@ -76,7 +180,7 @@ function sincNotasFiscais($args=array()){
 
                 //situacao da NFe
                 $situacao_nfe   = $key;
-                echo '<h1> status:: '.$situacao[$key].'('.$situacao_nfe.')</h1>';
+                //echo '<h1> status:: '.$situacao[$key].'('.$situacao_nfe.')</h1>';
 
                 //chave de controle para o loop while
                 $processa       = true;
@@ -90,7 +194,7 @@ function sincNotasFiscais($args=array()){
                     //abrimos uma conexao CURL com o bling para requisitar as notas com essa situacao
                     $outputType = "json";
 
-                    $url            = 'https://bling.com.br/Api/v2/notasfiscais/page='.$page.'/'. $outputType .'/?filters=situacao['.$situacao_nfe.']';
+                    $url            = 'https://bling.com.br/Api/v2/notasfiscais/page='.$page.'/'. $outputType .'/?filters=situacao['.$situacao_nfe.']'.$filtroTipo;
 
                     $retorno        = executeGetFiscalDocuments($url, $apikey_bling);
 
@@ -109,43 +213,53 @@ function sincNotasFiscais($args=array()){
                         //$notas_fiscais  =  $array_notas['retorno']['notasfiscais'];
                         $notas_fiscais  =  $array_notas['retorno']['notasfiscais'];
 
+
                         //listamos o array para o seu processamento
                         for ($i=0; $i < count($notas_fiscais); $i++) {
 
                             //linha de dados do array
-                            $drow = $notas_fiscais[$i]['notafiscal'];
+                            $drow           = $notas_fiscais[$i]['notafiscal'];
+                            $nfe_json_nota  = json_encode($drow);
 
                             echo '<h1>Nota num: '.$drow['numero'].'</h1>';
 
                             $insertNFe = array();
 
                             //obtemos os dados basicos para o cadastro na tabela de dados
-                            $insertNFe[$i]['nfe_serie']              = $drow['serie'];
-                            $insertNFe[$i]['nfe_numero']             = $drow['numero'];
-                            $insertNFe[$i]['nfe_numeroPedidoLoja']   = $drow['numeroPedidoLoja'];
-                            $insertNFe[$i]['nfe_tipo']               = $drow['tipo'];
-                            $insertNFe[$i]['nfe_loja']               = $drow['loja'];
-                            $insertNFe[$i]['nfe_situacao']           = $drow['situacao'];
-                            $insertNFe[$i]['nfe_nome']               = $drow['cliente']['nome'];
-                            $insertNFe[$i]['nfe_doc']                = $drow['cliente']['cnpj'];
-                            $insertNFe[$i]['nfe_cep']                = $drow['cliente']['cep'];
-                            $insertNFe[$i]['nfe_uf']                 = $drow['cliente']['uf'];
-                            $insertNFe[$i]['nfe_email']              = $drow['cliente']['email'];
-                            $insertNFe[$i]['nfe_fone']               = $drow['cliente']['fone'];
-                            $insertNFe[$i]['nfe_dataEmissao']        = $drow['dataEmissao'];
-                            $insertNFe[$i]['nfe_valorNota']          = $drow['valorNota'];
-                            $insertNFe[$i]['nfe_chaveAcesso']        = $drow['chaveAcesso'];
-                            $insertNFe[$i]['nfe_linkXml']            = $drow['xml'];
-                            $insertNFe[$i]['nfe_linkDanfe']          = $drow['linkDanfe'];
-                            $insertNFe[$i]['nfe_linkPDF']            = $drow['linkPDF'];
-                            if(isSet($drow['tipoIntegracao'])){
-                            $insertNFe[$i]['nfe_tipoIntegracao']     = arrayVar($drow,'tipoIntegracao',0);
-                            }
-                            $insertNFe['nfe_cfops']                  = $drow['cfops'][0];
-                            if(isSet($drow['transporte']['transportadora'])){
-                            $insertNFe[$i]['nfe_transportadora']     = $drow['transporte']['transportadora'];
+                            //$insertNFe[$i]['counter']                = $nc;
+                            $insertNFe[$i][':nfe_serie']              = str2int($drow['serie']);
+                            $insertNFe[$i][':nfe_numero']             = str2int($drow['numero']);
+                            $insertNFe[$i][':nfe_numeroPedidoLoja']   = $drow['numeroPedidoLoja'];
+                            $insertNFe[$i][':nfe_tipo']               = $drow['tipo'];
+                            $insertNFe[$i][':nfe_loja']               = $drow['loja'];
+                            $insertNFe[$i][':nfe_situacao']           = $drow['situacao'];
+                            $insertNFe[$i][':nfe_nome']               = $drow['cliente']['nome'];
+                            $insertNFe[$i][':nfe_doc']                = $drow['cliente']['cnpj'];
+                            $insertNFe[$i][':nfe_cep']                = $drow['cliente']['cep'];
+                            $insertNFe[$i][':nfe_uf']                 = $drow['cliente']['uf'];
+                            $insertNFe[$i][':nfe_email']              = $drow['cliente']['email'];
+                            $insertNFe[$i][':nfe_fone']               = $drow['cliente']['fone'];
+                            $insertNFe[$i][':nfe_dataEmissao']        = $drow['dataEmissao'];
+                            $insertNFe[$i][':nfe_valorNota']          = $drow['valorNota'];
+                            if(!isSet($drow['chaveAcesso'])||strlen($drow['chaveAcesso'])<40){
+                            $insertNFe[$i][':nfe_chaveAcesso']        = '0';
                             }else{
-                            $insertNFe[$i]['nfe_transportadora']     = 0;
+                            $insertNFe[$i][':nfe_chaveAcesso']        = $drow['chaveAcesso'];
+                            }
+                            $insertNFe[$i][':nfe_linkXml']            = $drow['xml'];
+                            $insertNFe[$i][':nfe_json_nota']          = $nfe_json_nota;
+                            $insertNFe[$i][':nfe_linkDanfe']          = $drow['linkDanfe'];
+                            $insertNFe[$i][':nfe_linkPDF']            = $drow['linkPDF'];
+                            if(isSet($drow['tipoIntegracao'])){
+                            $insertNFe[$i][':nfe_tipoIntegracao']     = arrayVar($drow,'tipoIntegracao',0);
+                            }else{
+                            $insertNFe[$i][':nfe_tipoIntegracao']     = 0;
+                            }
+                            $insertNFe[$i][':nfe_cfops']              = str2int($drow['cfops'][0]);
+                            if(isSet($drow['transporte']['transportadora'])){
+                            $insertNFe[$i][':nfe_transportadora']     = $drow['transporte']['transportadora'];
+                            }else{
+                            $insertNFe[$i][':nfe_transportadora']     = 0;
                             }
                             $notaProcessada++;
 
@@ -163,9 +277,13 @@ function sincNotasFiscais($args=array()){
                             if($key==11){$conssitu++;}
                             if($key==12){$bloqueada++;}
 
-                            //print_r para conferencia dos dados
-                            print_r($insertNFe);
+                            $dbNota = $insertNFe[$i];
+                            insertNfe($dbNota);
 
+                            //print_r para conferencia dos dados
+                            print_r($dbNota);
+
+                        $nc++;
                         }
 
                         logsys('Encontradas '.$i.' notas ('.$situacao[$key].'(s)) prosseguindo para o cadastro no mysql');
@@ -185,10 +303,14 @@ function sincNotasFiscais($args=array()){
             }//end loop while processa==true
 
 
-            }
+            echo '<h1> status:: '.$situacao[$key].'('.$situacao_nfe.')</h1>';
 
 
-    }//final IF notas == SAIDA
+
+            }//end loop for SITUACOES
+
+
+    //}//final IF notas == SAIDA
 
     $result = $tipoNota;
 
