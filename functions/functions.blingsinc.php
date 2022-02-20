@@ -2,7 +2,11 @@
 //funcao para cadastrar ou atualizar notas fiscais na tabela de notas
 function insertNfe($args=array()){
 
+  logsys('Iniciando cadastro na tabela de dados (insertNfe)');
+
   if(count($args)>0){
+
+  logsys('...recebido dados para cadastro ($args)');
 
   //consulta se nota ja esta cadastrada
   $numero_nota    = $args[':nfe_numero'];//numero da NFE
@@ -10,15 +14,7 @@ function insertNfe($args=array()){
   $documento_nota = $args[':nfe_doc'];//numero do documento CPF ou CNPJ (sem pontuacao)
   $nfe_xml_link   = $args[':nfe_linkXml'];//endereco do xml da nota fiscal
 
-  //retorna o xml da nota fiscal
-  $xmlnota='';
-  if($nfe_xml_link!=''){$xmlnota = file_get_contents($nfe_xml_link);}
-  if($xmlnota!=''){
-  $args[':nfe_xml_nota'] = $xmlnota;
-  }else{
-  $args[':nfe_xml_nota'] = '0';
-  }
-
+  logsys('...consultando se nota ja esta cadastrada...');
   $checkNota = dbf('SELECT * FROM bs_notas
                   WHERE
                   nfe_numero  = :nfe_numero AND
@@ -26,10 +22,22 @@ function insertNfe($args=array()){
                   nfe_doc     = :nfe_doc',array(
                   ':nfe_numero' =>$numero_nota,
                   ':nfe_tipo'   =>$nfe_tipo,
-                  ':nfe_doc'    =>$documento_nota),'num');
+                  ':nfe_doc'    =>$documento_nota),'fetch');
 
-    if($checkNota==0){//caso nota nao esteja cadastrada em cadastra ela
+    if(count($checkNota)==0){//caso nota nao esteja cadastrada entao cadastra
+      logsys('...nota nova! Deve ser cadastrada, cadastrando');
 
+      logsys('...baixando XML da nota para cadastro...');
+      //retorna o xml da nota fiscal
+      $xmlnota='';
+      if($nfe_xml_link!=''){$xmlnota = file_get_contents($nfe_xml_link);}
+      if($xmlnota!=''){
+      $args[':nfe_xml_nota'] = $xmlnota;
+      }else{
+      $args[':nfe_xml_nota'] = '0';
+      }
+
+      logsys('...iniciando INSERT...');
       //cadastra nota na tabela de dados
       $insert = dbf('INSERT bs_notas SET
       nfe_serie              = :nfe_serie,
@@ -54,15 +62,37 @@ function insertNfe($args=array()){
       nfe_linkPDF            = :nfe_linkPDF,
       nfe_tipoIntegracao     = :nfe_tipoIntegracao,
       nfe_cfops              = :nfe_cfops,
-      nfe_transportadora     = :nfe_transportadora',$args);
+      nfe_transportadora     = :nfe_transportadora,
+      nfe_hash_md5           = :nfe_hash_md5',$args);
 
-      var_dump($insert);
+      logsys('...RESULTADO DO INSERT: ( '.$insert.' )');
+      //var_dump($insert);
 
     }//end if checkNota == 0 (ROTINA DE CADASTRO)
     else
     {//caso nota ja exista entao atualiza ela na tabela de dados
 
-      //cadastra nota na tabela de dados
+      logsys('...NOTA JA CADASTRADA! Conferindo HASH nota: '.$checkNota[0]['nfe_numero']);
+
+      //obtem o hash do registro cadastrado
+      $hash_cadastrado = $checkNota[0]['nfe_hash_md5'];
+
+      //caso o hash armazenado seja diferente do hash recebido em $args['nfe_hash_md5'] entao atualiza
+      if($hash_cadastrado!=$args[':nfe_hash_md5']){
+      logsys('...HASH diferente atualizacao necessaria');
+
+      logsys('...baixando XML da nota para ATUALIZACAO...');
+      //retorna o xml da nota fiscal
+      $xmlnota='';
+      if($nfe_xml_link!=''){$xmlnota = file_get_contents($nfe_xml_link);}
+      if($xmlnota!=''){
+      $args[':nfe_xml_nota'] = $xmlnota;
+      }else{
+      $args[':nfe_xml_nota'] = '0';
+      }
+
+      logsys('...iniciando UPDATE...');
+      //ATUALIZA nota na tabela de dados
       $update = dbf('UPDATE bs_notas SET
       nfe_serie              = :nfe_serie,
       nfe_numero             = :nfe_numero,
@@ -86,26 +116,30 @@ function insertNfe($args=array()){
       nfe_linkPDF            = :nfe_linkPDF,
       nfe_tipoIntegracao     = :nfe_tipoIntegracao,
       nfe_cfops              = :nfe_cfops,
-      nfe_transportadora     = :nfe_transportadora
+      nfe_transportadora     = :nfe_transportadora,
+      nfe_hash_md5           = :nfe_hash_md5
       WHERE
       nfe_numero  = :nfe_numero AND
       nfe_tipo    = :nfe_tipo   AND
       nfe_doc     = :nfe_doc',$args);
 
-      var_dump($update);
+      //var_dump($update);
+      logsys('...RESULTADO DO UPDATE: ( '.$update.' )');
+      }
 
     }//end if checkNota != 0 (ROTINA DE ATUALIZACAO)
   }
+  logsys('*#*#*#*#*#*#*# END INSERT / UPDATE #*#*#');
 }
 
 function executeGetFiscalDocuments($url, $apikey){
+    logsys('...recuperando dados da nota via CURL...');
     $curl_handle = curl_init();
     curl_setopt($curl_handle, CURLOPT_URL, $url . '&apikey=' . $apikey);
     curl_setopt($curl_handle, CURLOPT_RETURNTRANSFER, TRUE);
     $response = curl_exec($curl_handle);
     curl_close($curl_handle);
-
-    echo '<h3>* '.$url . '&apikey=' . $apikey.'</h3>';
+    ////// echo '<h3>* '.$url . '&apikey=' . $apikey.'</h3>';
     return $response;
 }
 
@@ -120,20 +154,20 @@ function str2int($str=''){
 
 function sincNotasFiscais($args=array()){
 
-    $pendentes=0;
-    $emitidas=0;
-    $canceladas=0;
-    $agrecibo=0;
-    $rejeitadas=0;
-    $autorizadas=0;
-    $emidanfe=0;
-    $registrada=0;
-    $agprotocolo=0;
-    $denegada=0;
-    $conssitu=0;
-    $bloqueada=0;
+    $pendentes    = 0;
+    $emitidas     = 0;
+    $canceladas   = 0;
+    $agrecibo     = 0;
+    $rejeitadas   = 0;
+    $autorizadas  = 0;
+    $emidanfe     = 0;
+    $registrada   = 0;
+    $agprotocolo  = 0;
+    $denegada     = 0;
+    $conssitu     = 0;
+    $bloqueada    = 0;
 
-    logsys('iniciando sincronizacao das notas fiscais');
+
 
     $apikey_bling = APIKEYBLING;
 
@@ -145,6 +179,12 @@ function sincNotasFiscais($args=array()){
     $filtroTipo   = '';
     if($args['tipo']=='S'){$tipoNota = 'saida'; $filtroTipo = ';tipo[S]';}
     if($args['tipo']=='E'){$tipoNota = 'entrada'; $filtroTipo = ';tipo[E]';}
+
+    logsys('*********************************************************');
+    logsys('*********************************************************');
+    logsys('PROCESSANDO NOTAS DE: '.strtoupper($tipoNota));
+    logsys('*********************************************************');
+    logsys('*********************************************************');
 
     //SE PROCESSAMENTO FOR PARA NOTAS DE SAIDA
     //if($tipoNota=='entrada'){
@@ -221,12 +261,11 @@ function sincNotasFiscais($args=array()){
                             $drow           = $notas_fiscais[$i]['notafiscal'];
                             $nfe_json_nota  = json_encode($drow);
 
-                            echo '<h1>Nota num: '.$drow['numero'].'</h1>';
+                            ////// echo '<h1>Nota num: '.$drow['numero'].'</h1>';
 
                             $insertNFe = array();
 
                             //obtemos os dados basicos para o cadastro na tabela de dados
-                            //$insertNFe[$i]['counter']                = $nc;
                             $insertNFe[$i][':nfe_serie']              = str2int($drow['serie']);
                             $insertNFe[$i][':nfe_numero']             = str2int($drow['numero']);
                             $insertNFe[$i][':nfe_numeroPedidoLoja']   = $drow['numeroPedidoLoja'];
@@ -261,6 +300,7 @@ function sincNotasFiscais($args=array()){
                             }else{
                             $insertNFe[$i][':nfe_transportadora']     = 0;
                             }
+                            $insertNFe[$i][':nfe_hash_md5']           = md5($nfe_json_nota);
                             $notaProcessada++;
 
 
@@ -281,7 +321,7 @@ function sincNotasFiscais($args=array()){
                             insertNfe($dbNota);
 
                             //print_r para conferencia dos dados
-                            print_r($dbNota);
+                            ////// print_r($dbNota);
 
                         $nc++;
                         }
@@ -303,7 +343,7 @@ function sincNotasFiscais($args=array()){
             }//end loop while processa==true
 
 
-            echo '<h1> status:: '.$situacao[$key].'('.$situacao_nfe.')</h1>';
+            ////// echo '<h1> status:: '.$situacao[$key].'('.$situacao_nfe.')</h1>';
 
 
 
@@ -317,18 +357,18 @@ function sincNotasFiscais($args=array()){
     logsys('############################################');
     logsys('Total de notas processadas: '.$notaProcessada);
     logsys('############################################');
-    logsys('Notas pendentes: '.$pendentes);
-    logsys('Notas emitidas: '.$emitidas);
-    logsys('Notas canceladas: '.$canceladas);
-    logsys('Notas agrecibo: '.$agrecibo);
-    logsys('Notas rejeitadas: '.$rejeitadas);
-    logsys('Notas autorizadas: '.$autorizadas);
-    logsys('Notas emidanfe: '.$emidanfe);
-    logsys('Notas registrada: '.$registrada);
-    logsys('Notas agprotocolo: '.$agprotocolo);
-    logsys('Notas denegada: '.$denegada);
-    logsys('Notas conssitu: '.$conssitu);
-    logsys('Notas bloqueada: '.$bloqueada);
+    logsys('Notas Pendentes: '.$pendentes);
+    logsys('Notas Emitidas: '.$emitidas);
+    logsys('Notas Canceladas: '.$canceladas);
+    logsys('Notas Aguardando recibo: '.$agrecibo);
+    logsys('Notas Rejeitadas: '.$rejeitadas);
+    logsys('Notas Autorizadas: '.$autorizadas);
+    logsys('Notas Emitida Danfe: '.$emidanfe);
+    logsys('Notas Registradas: '.$registrada);
+    logsys('Notas Aguardando Protocolo: '.$agprotocolo);
+    logsys('Notas Denegada(s): '.$denegada);
+    logsys('Notas Consultar situacao: '.$conssitu);
+    logsys('Notas Bloqueadas: '.$bloqueada);
 
     return $result;
 

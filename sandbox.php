@@ -14,6 +14,8 @@ include_once('config.all.php');
 
 <?php
 
+logsys('iniciando sincronizacao das notas fiscais',true);
+
 sincNotasFiscais(array('tipo'=>'S'));
 
 ob_flush();
