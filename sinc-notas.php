@@ -27,6 +27,21 @@ sleep(5);
 
 sincNotasFiscais(array('tipo'=>'E'));
 
+ob_flush();
+flush();
+sleep(5);
+
+logsys('Processando itens da SAIDAS',true,'logsitens');
+processaItensNotas('S');
+
+ob_flush();
+flush();
+sleep(5);
+
+logsys('Processando itens da ENTRADAS',false,'logsitens');
+processaItensNotas('E');
+
+
 ?>
 
 </body>
