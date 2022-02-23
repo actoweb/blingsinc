@@ -1,8 +1,9 @@
 <?php
 include_once('config.all.php');
-
+$hr         = date('H');
+$hora       = (int)$hr;
 $diaSemana  = date('w');
-if($hora>6 && $hora<19 && $diaSemana <= 5){
+if($hora>6 && $hora<=19 && $diaSemana <= 5){
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
@@ -11,9 +12,8 @@ if($hora>6 && $hora<19 && $diaSemana <= 5){
 <head>
 	<title>REPORTS GEN</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-	<meta name="generator" content="Geany 1.36" />
 </head>
-<body onload="javascript:window.scrollTo(0,document.body.scrollHeight);">
+<body>
 
 <?php
 

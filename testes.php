@@ -1,6 +1,6 @@
 <?php
 include_once('config.all.php');
-
+/*
 function itensDoPedido($args=array()){
 
   $notaID               = $args['nota_id'];
@@ -237,7 +237,7 @@ function processaItensNotas($tipoNota='S'){
 
   }
 }
-
+*/
 
 logsys('Processando itens da SAIDAS',true,'logsitens');
 processaItensNotas('S');

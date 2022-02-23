@@ -1,0 +1,2852 @@
+ZERANDO O ARQUIVO: 23/02/22 - 01:31:32 - Iniciando atualizacao relatorios REDECARD
+23/02/22 - 01:31:32 - Consultando se pedido(01641) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01641) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01640) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01640) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01639) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01639) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01636) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01636) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01635) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01635) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01630) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01630) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01629) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01629) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01628) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01628) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01627) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01627) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01624) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01624) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01622) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01622) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01620) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01620) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01619) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01619) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01615) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01615) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01614) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01614) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01613) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01613) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01612) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01612) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01611) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01611) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01610) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01610) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01609) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01609) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01607) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01607) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01606) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01606) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01603) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01603) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01601) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01601) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01600) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01600) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01598) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01598) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01597) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01597) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01596) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01596) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01595) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01595) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01594) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01594) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01592) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01592) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01591) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01591) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01590) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01590) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01589) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01589) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01585) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01585) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01583) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01583) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01581) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01581) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01580) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01580) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01578) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01578) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01577) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01577) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01574) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01574) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01573) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01573) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01572) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01572) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01571) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01571) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01568) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01568) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01567) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01567) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01565) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01565) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01563) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01563) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01562) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01562) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01561) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01561) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01560) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01560) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01556) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01556) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01554) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01554) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01553) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01553) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01552) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01552) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01548) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01548) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01547) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01547) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01546) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01546) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01545) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01545) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01544) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01544) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01543) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01543) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01542) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01542) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01541) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01541) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01539) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01539) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01537) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01537) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01536) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01536) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01535) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01535) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01534) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01534) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01531) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01531) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01527) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01527) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01525) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01525) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01524) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01524) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01523) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01523) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - Consultando se pedido(01518) item ja consta na tabela atual
+23/02/22 - 01:31:32 - Pedido(01518) existe, atualizacao necessaria
+23/02/22 - 01:31:32 - ATUALIZANDO dados da REDECARD item(0) ref ped(00006) na nota fisca em bs_notas
+23/02/22 - 01:31:32 - Resultado da atualizacao: (SE PEDIDO = 00006) 0
+23/02/22 - 01:31:33 - GERANDO PARCELAS PARA O PEDIDO (00006)
+23/02/22 - 01:31:33 - ATUALIZANDO dados da REDECARD item(1) ref ped(00008) na nota fisca em bs_notas
+23/02/22 - 01:31:33 - Resultado da atualizacao: (SE PEDIDO = 00008) 0
+23/02/22 - 01:31:33 - GERANDO PARCELAS PARA O PEDIDO (00008)
+23/02/22 - 01:31:33 - ATUALIZANDO dados da REDECARD item(2) ref ped(00009) na nota fisca em bs_notas
+23/02/22 - 01:31:34 - Resultado da atualizacao: (SE PEDIDO = 00009) 0
+23/02/22 - 01:31:34 - GERANDO PARCELAS PARA O PEDIDO (00009)
+23/02/22 - 01:31:34 - ATUALIZANDO dados da REDECARD item(3) ref ped(00011) na nota fisca em bs_notas
+23/02/22 - 01:31:35 - Resultado da atualizacao: (SE PEDIDO = 00011) 0
+23/02/22 - 01:31:35 - GERANDO PARCELAS PARA O PEDIDO (00011)
+23/02/22 - 01:31:35 - ATUALIZANDO dados da REDECARD item(4) ref ped(00005) na nota fisca em bs_notas
+23/02/22 - 01:31:35 - Resultado da atualizacao: (SE PEDIDO = 00005) 0
+23/02/22 - 01:31:35 - GERANDO PARCELAS PARA O PEDIDO (00005)
+23/02/22 - 01:31:35 - ATUALIZANDO dados da REDECARD item(5) ref ped(00012) na nota fisca em bs_notas
+23/02/22 - 01:31:36 - Resultado da atualizacao: (SE PEDIDO = 00012) 0
+23/02/22 - 01:31:36 - GERANDO PARCELAS PARA O PEDIDO (00012)
+23/02/22 - 01:31:36 - ATUALIZANDO dados da REDECARD item(6) ref ped(00013) na nota fisca em bs_notas
+23/02/22 - 01:31:37 - Resultado da atualizacao: (SE PEDIDO = 00013) 0
+23/02/22 - 01:31:37 - GERANDO PARCELAS PARA O PEDIDO (00013)
+23/02/22 - 01:31:37 - ATUALIZANDO dados da REDECARD item(7) ref ped(01011) na nota fisca em bs_notas
+23/02/22 - 01:31:38 - Resultado da atualizacao: (SE PEDIDO = 01011) 0
+23/02/22 - 01:31:38 - GERANDO PARCELAS PARA O PEDIDO (01011)
+23/02/22 - 01:31:38 - ATUALIZANDO dados da REDECARD item(8) ref ped(01010) na nota fisca em bs_notas
+23/02/22 - 01:31:39 - Resultado da atualizacao: (SE PEDIDO = 01010) 0
+23/02/22 - 01:31:39 - GERANDO PARCELAS PARA O PEDIDO (01010)
+23/02/22 - 01:31:39 - Total de parcelas: 2
+23/02/22 - 01:31:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:39 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:31:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:39 - ATUALIZANDO dados da REDECARD item(9) ref ped(01009) na nota fisca em bs_notas
+23/02/22 - 01:31:40 - Resultado da atualizacao: (SE PEDIDO = 01009) 0
+23/02/22 - 01:31:40 - GERANDO PARCELAS PARA O PEDIDO (01009)
+23/02/22 - 01:31:40 - Total de parcelas: 4
+23/02/22 - 01:31:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:40 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:31:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:40 - ATUALIZANDO dados da REDECARD item(10) ref ped(01021) na nota fisca em bs_notas
+23/02/22 - 01:31:40 - Resultado da atualizacao: (SE PEDIDO = 01021) 0
+23/02/22 - 01:31:40 - GERANDO PARCELAS PARA O PEDIDO (01021)
+23/02/22 - 01:31:40 - Total de parcelas: 3
+23/02/22 - 01:31:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:40 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:31:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:40 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:31:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:40 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:31:40 - ATUALIZANDO dados da REDECARD item(11) ref ped(01020) na nota fisca em bs_notas
+23/02/22 - 01:31:41 - Resultado da atualizacao: (SE PEDIDO = 01020) 0
+23/02/22 - 01:31:41 - GERANDO PARCELAS PARA O PEDIDO (01020)
+23/02/22 - 01:31:41 - Total de parcelas: 3
+23/02/22 - 01:31:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:41 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:31:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:41 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:31:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:41 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:31:41 - ATUALIZANDO dados da REDECARD item(12) ref ped(01014) na nota fisca em bs_notas
+23/02/22 - 01:31:42 - Resultado da atualizacao: (SE PEDIDO = 01014) 0
+23/02/22 - 01:31:42 - GERANDO PARCELAS PARA O PEDIDO (01014)
+23/02/22 - 01:31:42 - Total de parcelas: 2
+23/02/22 - 01:31:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:42 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:31:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:42 - ATUALIZANDO dados da REDECARD item(13) ref ped(01015) na nota fisca em bs_notas
+23/02/22 - 01:31:43 - Resultado da atualizacao: (SE PEDIDO = 01015) 0
+23/02/22 - 01:31:43 - GERANDO PARCELAS PARA O PEDIDO (01015)
+23/02/22 - 01:31:43 - Total de parcelas: 4
+23/02/22 - 01:31:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:43 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:31:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:43 - ATUALIZANDO dados da REDECARD item(14) ref ped(01007) na nota fisca em bs_notas
+23/02/22 - 01:31:44 - Resultado da atualizacao: (SE PEDIDO = 01007) 0
+23/02/22 - 01:31:44 - GERANDO PARCELAS PARA O PEDIDO (01007)
+23/02/22 - 01:31:44 - ATUALIZANDO dados da REDECARD item(15) ref ped(01022) na nota fisca em bs_notas
+23/02/22 - 01:31:45 - Resultado da atualizacao: (SE PEDIDO = 01022) 0
+23/02/22 - 01:31:45 - GERANDO PARCELAS PARA O PEDIDO (01022)
+23/02/22 - 01:31:45 - ATUALIZANDO dados da REDECARD item(16) ref ped(01016) na nota fisca em bs_notas
+23/02/22 - 01:31:46 - Resultado da atualizacao: (SE PEDIDO = 01016) 0
+23/02/22 - 01:31:46 - GERANDO PARCELAS PARA O PEDIDO (01016)
+23/02/22 - 01:31:46 - Total de parcelas: 3
+23/02/22 - 01:31:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:46 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:31:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:46 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:31:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:46 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:31:46 - ATUALIZANDO dados da REDECARD item(17) ref ped(01023) na nota fisca em bs_notas
+23/02/22 - 01:31:47 - Resultado da atualizacao: (SE PEDIDO = 01023) 0
+23/02/22 - 01:31:47 - GERANDO PARCELAS PARA O PEDIDO (01023)
+23/02/22 - 01:31:47 - Total de parcelas: 4
+23/02/22 - 01:31:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:47 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:31:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:47 - ATUALIZANDO dados da REDECARD item(18) ref ped(01027) na nota fisca em bs_notas
+23/02/22 - 01:31:49 - Resultado da atualizacao: (SE PEDIDO = 01027) 0
+23/02/22 - 01:31:49 - GERANDO PARCELAS PARA O PEDIDO (01027)
+23/02/22 - 01:31:49 - ATUALIZANDO dados da REDECARD item(19) ref ped(01028) na nota fisca em bs_notas
+23/02/22 - 01:31:50 - Resultado da atualizacao: (SE PEDIDO = 01028) 0
+23/02/22 - 01:31:50 - GERANDO PARCELAS PARA O PEDIDO (01028)
+23/02/22 - 01:31:50 - ATUALIZANDO dados da REDECARD item(20) ref ped(01035) na nota fisca em bs_notas
+23/02/22 - 01:31:51 - Resultado da atualizacao: (SE PEDIDO = 01035) 0
+23/02/22 - 01:31:51 - GERANDO PARCELAS PARA O PEDIDO (01035)
+23/02/22 - 01:31:51 - ATUALIZANDO dados da REDECARD item(21) ref ped(01039) na nota fisca em bs_notas
+23/02/22 - 01:31:52 - Resultado da atualizacao: (SE PEDIDO = 01039) 0
+23/02/22 - 01:31:52 - GERANDO PARCELAS PARA O PEDIDO (01039)
+23/02/22 - 01:31:52 - Total de parcelas: 2
+23/02/22 - 01:31:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:52 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:31:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:52 - ATUALIZANDO dados da REDECARD item(22) ref ped(01031) na nota fisca em bs_notas
+23/02/22 - 01:31:53 - Resultado da atualizacao: (SE PEDIDO = 01031) 0
+23/02/22 - 01:31:53 - GERANDO PARCELAS PARA O PEDIDO (01031)
+23/02/22 - 01:31:53 - Total de parcelas: 2
+23/02/22 - 01:31:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:53 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:31:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:53 - ATUALIZANDO dados da REDECARD item(23) ref ped(01034) na nota fisca em bs_notas
+23/02/22 - 01:31:54 - Resultado da atualizacao: (SE PEDIDO = 01034) 0
+23/02/22 - 01:31:54 - GERANDO PARCELAS PARA O PEDIDO (01034)
+23/02/22 - 01:31:54 - Total de parcelas: 2
+23/02/22 - 01:31:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:54 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:31:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:54 - ATUALIZANDO dados da REDECARD item(24) ref ped(01030) na nota fisca em bs_notas
+23/02/22 - 01:31:55 - Resultado da atualizacao: (SE PEDIDO = 01030) 0
+23/02/22 - 01:31:55 - GERANDO PARCELAS PARA O PEDIDO (01030)
+23/02/22 - 01:31:55 - Total de parcelas: 3
+23/02/22 - 01:31:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:55 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:31:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:55 - ATUALIZANDO dados da REDECARD item(25) ref ped(01043) na nota fisca em bs_notas
+23/02/22 - 01:31:56 - Resultado da atualizacao: (SE PEDIDO = 01043) 0
+23/02/22 - 01:31:56 - GERANDO PARCELAS PARA O PEDIDO (01043)
+23/02/22 - 01:31:56 - Total de parcelas: 2
+23/02/22 - 01:31:56 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:56 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:31:56 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:56 - ATUALIZANDO dados da REDECARD item(26) ref ped(01044) na nota fisca em bs_notas
+23/02/22 - 01:31:57 - Resultado da atualizacao: (SE PEDIDO = 01044) 0
+23/02/22 - 01:31:57 - GERANDO PARCELAS PARA O PEDIDO (01044)
+23/02/22 - 01:31:57 - Total de parcelas: 3
+23/02/22 - 01:31:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:57 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:31:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:57 - ATUALIZANDO dados da REDECARD item(27) ref ped(01046) na nota fisca em bs_notas
+23/02/22 - 01:31:57 - Resultado da atualizacao: (SE PEDIDO = 01046) 0
+23/02/22 - 01:31:57 - GERANDO PARCELAS PARA O PEDIDO (01046)
+23/02/22 - 01:31:57 - Total de parcelas: 2
+23/02/22 - 01:31:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:57 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:31:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:57 - ATUALIZANDO dados da REDECARD item(28) ref ped(01048) na nota fisca em bs_notas
+23/02/22 - 01:31:58 - Resultado da atualizacao: (SE PEDIDO = 01048) 0
+23/02/22 - 01:31:58 - GERANDO PARCELAS PARA O PEDIDO (01048)
+23/02/22 - 01:31:58 - Total de parcelas: 3
+23/02/22 - 01:31:58 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:58 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:31:58 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:58 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:31:58 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:58 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:31:58 - ATUALIZANDO dados da REDECARD item(29) ref ped(01052) na nota fisca em bs_notas
+23/02/22 - 01:31:59 - Resultado da atualizacao: (SE PEDIDO = 01052) 0
+23/02/22 - 01:31:59 - GERANDO PARCELAS PARA O PEDIDO (01052)
+23/02/22 - 01:31:59 - Total de parcelas: 3
+23/02/22 - 01:31:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:59 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:31:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:31:59 - ATUALIZANDO dados da REDECARD item(30) ref ped(01054) na nota fisca em bs_notas
+23/02/22 - 01:32:00 - Resultado da atualizacao: (SE PEDIDO = 01054) 0
+23/02/22 - 01:32:00 - GERANDO PARCELAS PARA O PEDIDO (01054)
+23/02/22 - 01:32:00 - Total de parcelas: 4
+23/02/22 - 01:32:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:00 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:32:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:00 - ATUALIZANDO dados da REDECARD item(31) ref ped(01053) na nota fisca em bs_notas
+23/02/22 - 01:32:01 - Resultado da atualizacao: (SE PEDIDO = 01053) 0
+23/02/22 - 01:32:01 - GERANDO PARCELAS PARA O PEDIDO (01053)
+23/02/22 - 01:32:01 - Total de parcelas: 2
+23/02/22 - 01:32:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:01 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:01 - ATUALIZANDO dados da REDECARD item(32) ref ped(01058) na nota fisca em bs_notas
+23/02/22 - 01:32:02 - Resultado da atualizacao: (SE PEDIDO = 01058) 0
+23/02/22 - 01:32:02 - GERANDO PARCELAS PARA O PEDIDO (01058)
+23/02/22 - 01:32:02 - ATUALIZANDO dados da REDECARD item(33) ref ped(01056) na nota fisca em bs_notas
+23/02/22 - 01:32:03 - Resultado da atualizacao: (SE PEDIDO = 01056) 0
+23/02/22 - 01:32:03 - GERANDO PARCELAS PARA O PEDIDO (01056)
+23/02/22 - 01:32:03 - ATUALIZANDO dados da REDECARD item(34) ref ped(01059) na nota fisca em bs_notas
+23/02/22 - 01:32:03 - Resultado da atualizacao: (SE PEDIDO = 01059) 0
+23/02/22 - 01:32:03 - GERANDO PARCELAS PARA O PEDIDO (01059)
+23/02/22 - 01:32:03 - Total de parcelas: 2
+23/02/22 - 01:32:03 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:03 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:03 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:03 - ATUALIZANDO dados da REDECARD item(35) ref ped(01071) na nota fisca em bs_notas
+23/02/22 - 01:32:04 - Resultado da atualizacao: (SE PEDIDO = 01071) 0
+23/02/22 - 01:32:04 - GERANDO PARCELAS PARA O PEDIDO (01071)
+23/02/22 - 01:32:04 - Total de parcelas: 3
+23/02/22 - 01:32:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:04 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:04 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:04 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:04 - ATUALIZANDO dados da REDECARD item(36) ref ped(01070) na nota fisca em bs_notas
+23/02/22 - 01:32:05 - Resultado da atualizacao: (SE PEDIDO = 01070) 0
+23/02/22 - 01:32:05 - GERANDO PARCELAS PARA O PEDIDO (01070)
+23/02/22 - 01:32:05 - Total de parcelas: 2
+23/02/22 - 01:32:05 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:05 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:05 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:05 - ATUALIZANDO dados da REDECARD item(37) ref ped(01063) na nota fisca em bs_notas
+23/02/22 - 01:32:06 - Resultado da atualizacao: (SE PEDIDO = 01063) 0
+23/02/22 - 01:32:06 - GERANDO PARCELAS PARA O PEDIDO (01063)
+23/02/22 - 01:32:06 - Total de parcelas: 2
+23/02/22 - 01:32:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:06 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:06 - ATUALIZANDO dados da REDECARD item(38) ref ped(01062) na nota fisca em bs_notas
+23/02/22 - 01:32:07 - Resultado da atualizacao: (SE PEDIDO = 01062) 0
+23/02/22 - 01:32:07 - GERANDO PARCELAS PARA O PEDIDO (01062)
+23/02/22 - 01:32:07 - Total de parcelas: 2
+23/02/22 - 01:32:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:07 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:07 - ATUALIZANDO dados da REDECARD item(39) ref ped(01061) na nota fisca em bs_notas
+23/02/22 - 01:32:08 - Resultado da atualizacao: (SE PEDIDO = 01061) 0
+23/02/22 - 01:32:08 - GERANDO PARCELAS PARA O PEDIDO (01061)
+23/02/22 - 01:32:08 - Total de parcelas: 3
+23/02/22 - 01:32:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:08 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:08 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:08 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:08 - ATUALIZANDO dados da REDECARD item(40) ref ped(01072) na nota fisca em bs_notas
+23/02/22 - 01:32:09 - Resultado da atualizacao: (SE PEDIDO = 01072) 0
+23/02/22 - 01:32:09 - GERANDO PARCELAS PARA O PEDIDO (01072)
+23/02/22 - 01:32:09 - Total de parcelas: 2
+23/02/22 - 01:32:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:09 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:09 - ATUALIZANDO dados da REDECARD item(41) ref ped(01073) na nota fisca em bs_notas
+23/02/22 - 01:32:09 - Resultado da atualizacao: (SE PEDIDO = 01073) 0
+23/02/22 - 01:32:09 - GERANDO PARCELAS PARA O PEDIDO (01073)
+23/02/22 - 01:32:09 - ATUALIZANDO dados da REDECARD item(42) ref ped(01076) na nota fisca em bs_notas
+23/02/22 - 01:32:10 - Resultado da atualizacao: (SE PEDIDO = 01076) 0
+23/02/22 - 01:32:10 - GERANDO PARCELAS PARA O PEDIDO (01076)
+23/02/22 - 01:32:10 - Total de parcelas: 2
+23/02/22 - 01:32:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:10 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:10 - ATUALIZANDO dados da REDECARD item(43) ref ped(01077) na nota fisca em bs_notas
+23/02/22 - 01:32:12 - Resultado da atualizacao: (SE PEDIDO = 01077) 0
+23/02/22 - 01:32:12 - GERANDO PARCELAS PARA O PEDIDO (01077)
+23/02/22 - 01:32:12 - ATUALIZANDO dados da REDECARD item(44) ref ped(01079) na nota fisca em bs_notas
+23/02/22 - 01:32:12 - Resultado da atualizacao: (SE PEDIDO = 01079) 0
+23/02/22 - 01:32:12 - GERANDO PARCELAS PARA O PEDIDO (01079)
+23/02/22 - 01:32:12 - ATUALIZANDO dados da REDECARD item(45) ref ped(01080) na nota fisca em bs_notas
+23/02/22 - 01:32:13 - Resultado da atualizacao: (SE PEDIDO = 01080) 0
+23/02/22 - 01:32:13 - GERANDO PARCELAS PARA O PEDIDO (01080)
+23/02/22 - 01:32:13 - ATUALIZANDO dados da REDECARD item(46) ref ped(01078) na nota fisca em bs_notas
+23/02/22 - 01:32:14 - Resultado da atualizacao: (SE PEDIDO = 01078) 0
+23/02/22 - 01:32:14 - GERANDO PARCELAS PARA O PEDIDO (01078)
+23/02/22 - 01:32:14 - ATUALIZANDO dados da REDECARD item(47) ref ped(01081) na nota fisca em bs_notas
+23/02/22 - 01:32:15 - Resultado da atualizacao: (SE PEDIDO = 01081) 0
+23/02/22 - 01:32:15 - GERANDO PARCELAS PARA O PEDIDO (01081)
+23/02/22 - 01:32:15 - Total de parcelas: 3
+23/02/22 - 01:32:15 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:15 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:15 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:15 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:15 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:15 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:15 - ATUALIZANDO dados da REDECARD item(48) ref ped(01097) na nota fisca em bs_notas
+23/02/22 - 01:32:16 - Resultado da atualizacao: (SE PEDIDO = 01097) 0
+23/02/22 - 01:32:16 - GERANDO PARCELAS PARA O PEDIDO (01097)
+23/02/22 - 01:32:16 - Total de parcelas: 2
+23/02/22 - 01:32:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:16 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:16 - ATUALIZANDO dados da REDECARD item(49) ref ped(01098) na nota fisca em bs_notas
+23/02/22 - 01:32:17 - Resultado da atualizacao: (SE PEDIDO = 01098) 0
+23/02/22 - 01:32:17 - GERANDO PARCELAS PARA O PEDIDO (01098)
+23/02/22 - 01:32:17 - ATUALIZANDO dados da REDECARD item(50) ref ped(01099) na nota fisca em bs_notas
+23/02/22 - 01:32:18 - Resultado da atualizacao: (SE PEDIDO = 01099) 0
+23/02/22 - 01:32:18 - GERANDO PARCELAS PARA O PEDIDO (01099)
+23/02/22 - 01:32:18 - ATUALIZANDO dados da REDECARD item(51) ref ped(01100) na nota fisca em bs_notas
+23/02/22 - 01:32:18 - Resultado da atualizacao: (SE PEDIDO = 01100) 0
+23/02/22 - 01:32:18 - GERANDO PARCELAS PARA O PEDIDO (01100)
+23/02/22 - 01:32:18 - Total de parcelas: 2
+23/02/22 - 01:32:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:18 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:18 - ATUALIZANDO dados da REDECARD item(52) ref ped(01101) na nota fisca em bs_notas
+23/02/22 - 01:32:19 - Resultado da atualizacao: (SE PEDIDO = 01101) 0
+23/02/22 - 01:32:19 - GERANDO PARCELAS PARA O PEDIDO (01101)
+23/02/22 - 01:32:19 - Total de parcelas: 3
+23/02/22 - 01:32:19 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:19 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:19 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:19 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:19 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:19 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:19 - ATUALIZANDO dados da REDECARD item(53) ref ped(01102) na nota fisca em bs_notas
+23/02/22 - 01:32:20 - Resultado da atualizacao: (SE PEDIDO = 01102) 0
+23/02/22 - 01:32:20 - GERANDO PARCELAS PARA O PEDIDO (01102)
+23/02/22 - 01:32:20 - ATUALIZANDO dados da REDECARD item(54) ref ped(01104) na nota fisca em bs_notas
+23/02/22 - 01:32:21 - Resultado da atualizacao: (SE PEDIDO = 01104) 0
+23/02/22 - 01:32:21 - GERANDO PARCELAS PARA O PEDIDO (01104)
+23/02/22 - 01:32:21 - Total de parcelas: 3
+23/02/22 - 01:32:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:21 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:21 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:21 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:21 - ATUALIZANDO dados da REDECARD item(55) ref ped(01105) na nota fisca em bs_notas
+23/02/22 - 01:32:22 - Resultado da atualizacao: (SE PEDIDO = 01105) 0
+23/02/22 - 01:32:22 - GERANDO PARCELAS PARA O PEDIDO (01105)
+23/02/22 - 01:32:22 - Total de parcelas: 2
+23/02/22 - 01:32:22 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:22 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:22 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:22 - ATUALIZANDO dados da REDECARD item(56) ref ped(01107) na nota fisca em bs_notas
+23/02/22 - 01:32:22 - Resultado da atualizacao: (SE PEDIDO = 01107) 0
+23/02/22 - 01:32:22 - GERANDO PARCELAS PARA O PEDIDO (01107)
+23/02/22 - 01:32:22 - ATUALIZANDO dados da REDECARD item(57) ref ped(01121) na nota fisca em bs_notas
+23/02/22 - 01:32:23 - Resultado da atualizacao: (SE PEDIDO = 01121) 0
+23/02/22 - 01:32:23 - GERANDO PARCELAS PARA O PEDIDO (01121)
+23/02/22 - 01:32:23 - ATUALIZANDO dados da REDECARD item(58) ref ped(01122) na nota fisca em bs_notas
+23/02/22 - 01:32:24 - Resultado da atualizacao: (SE PEDIDO = 01122) 0
+23/02/22 - 01:32:24 - GERANDO PARCELAS PARA O PEDIDO (01122)
+23/02/22 - 01:32:24 - Total de parcelas: 4
+23/02/22 - 01:32:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:24 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:32:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:24 - ATUALIZANDO dados da REDECARD item(59) ref ped(01123) na nota fisca em bs_notas
+23/02/22 - 01:32:25 - Resultado da atualizacao: (SE PEDIDO = 01123) 0
+23/02/22 - 01:32:25 - GERANDO PARCELAS PARA O PEDIDO (01123)
+23/02/22 - 01:32:25 - Total de parcelas: 2
+23/02/22 - 01:32:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:25 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:25 - ATUALIZANDO dados da REDECARD item(60) ref ped(01124) na nota fisca em bs_notas
+23/02/22 - 01:32:26 - Resultado da atualizacao: (SE PEDIDO = 01124) 0
+23/02/22 - 01:32:26 - GERANDO PARCELAS PARA O PEDIDO (01124)
+23/02/22 - 01:32:26 - Total de parcelas: 3
+23/02/22 - 01:32:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:26 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:26 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:26 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:26 - ATUALIZANDO dados da REDECARD item(61) ref ped(01120) na nota fisca em bs_notas
+23/02/22 - 01:32:27 - Resultado da atualizacao: (SE PEDIDO = 01120) 0
+23/02/22 - 01:32:27 - GERANDO PARCELAS PARA O PEDIDO (01120)
+23/02/22 - 01:32:27 - Total de parcelas: 2
+23/02/22 - 01:32:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:27 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:27 - ATUALIZANDO dados da REDECARD item(62) ref ped(01119) na nota fisca em bs_notas
+23/02/22 - 01:32:28 - Resultado da atualizacao: (SE PEDIDO = 01119) 0
+23/02/22 - 01:32:28 - GERANDO PARCELAS PARA O PEDIDO (01119)
+23/02/22 - 01:32:28 - ATUALIZANDO dados da REDECARD item(63) ref ped(01117) na nota fisca em bs_notas
+23/02/22 - 01:32:28 - Resultado da atualizacao: (SE PEDIDO = 01117) 0
+23/02/22 - 01:32:28 - GERANDO PARCELAS PARA O PEDIDO (01117)
+23/02/22 - 01:32:28 - ATUALIZANDO dados da REDECARD item(64) ref ped(01115) na nota fisca em bs_notas
+23/02/22 - 01:32:29 - Resultado da atualizacao: (SE PEDIDO = 01115) 0
+23/02/22 - 01:32:29 - GERANDO PARCELAS PARA O PEDIDO (01115)
+23/02/22 - 01:32:29 - Total de parcelas: 5
+23/02/22 - 01:32:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:29 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:32:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:29 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:32:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:29 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:32:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:29 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:32:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:29 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:32:29 - ATUALIZANDO dados da REDECARD item(65) ref ped(01114) na nota fisca em bs_notas
+23/02/22 - 01:32:30 - Resultado da atualizacao: (SE PEDIDO = 01114) 0
+23/02/22 - 01:32:30 - GERANDO PARCELAS PARA O PEDIDO (01114)
+23/02/22 - 01:32:30 - Total de parcelas: 2
+23/02/22 - 01:32:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:30 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:30 - ATUALIZANDO dados da REDECARD item(66) ref ped(01127) na nota fisca em bs_notas
+23/02/22 - 01:32:31 - Resultado da atualizacao: (SE PEDIDO = 01127) 0
+23/02/22 - 01:32:31 - GERANDO PARCELAS PARA O PEDIDO (01127)
+23/02/22 - 01:32:31 - Total de parcelas: 3
+23/02/22 - 01:32:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:31 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:31 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:31 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:31 - ATUALIZANDO dados da REDECARD item(67) ref ped(01126) na nota fisca em bs_notas
+23/02/22 - 01:32:32 - Resultado da atualizacao: (SE PEDIDO = 01126) 0
+23/02/22 - 01:32:32 - GERANDO PARCELAS PARA O PEDIDO (01126)
+23/02/22 - 01:32:32 - Total de parcelas: 2
+23/02/22 - 01:32:32 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:32 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:32 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:32 - ATUALIZANDO dados da REDECARD item(68) ref ped(01125) na nota fisca em bs_notas
+23/02/22 - 01:32:33 - Resultado da atualizacao: (SE PEDIDO = 01125) 0
+23/02/22 - 01:32:33 - GERANDO PARCELAS PARA O PEDIDO (01125)
+23/02/22 - 01:32:33 - Total de parcelas: 3
+23/02/22 - 01:32:33 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:33 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:33 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:33 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:33 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:33 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:33 - ATUALIZANDO dados da REDECARD item(69) ref ped(01128) na nota fisca em bs_notas
+23/02/22 - 01:32:34 - Resultado da atualizacao: (SE PEDIDO = 01128) 0
+23/02/22 - 01:32:34 - GERANDO PARCELAS PARA O PEDIDO (01128)
+23/02/22 - 01:32:34 - Total de parcelas: 3
+23/02/22 - 01:32:34 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:34 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:34 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:34 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:34 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:34 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:34 - ATUALIZANDO dados da REDECARD item(70) ref ped(01129) na nota fisca em bs_notas
+23/02/22 - 01:32:35 - Resultado da atualizacao: (SE PEDIDO = 01129) 0
+23/02/22 - 01:32:35 - GERANDO PARCELAS PARA O PEDIDO (01129)
+23/02/22 - 01:32:35 - Total de parcelas: 3
+23/02/22 - 01:32:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:35 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:35 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:35 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:35 - ATUALIZANDO dados da REDECARD item(71) ref ped(01130) na nota fisca em bs_notas
+23/02/22 - 01:32:36 - Resultado da atualizacao: (SE PEDIDO = 01130) 0
+23/02/22 - 01:32:36 - GERANDO PARCELAS PARA O PEDIDO (01130)
+23/02/22 - 01:32:36 - Total de parcelas: 2
+23/02/22 - 01:32:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:36 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:36 - ATUALIZANDO dados da REDECARD item(72) ref ped(01132) na nota fisca em bs_notas
+23/02/22 - 01:32:37 - Resultado da atualizacao: (SE PEDIDO = 01132) 0
+23/02/22 - 01:32:37 - GERANDO PARCELAS PARA O PEDIDO (01132)
+23/02/22 - 01:32:37 - ATUALIZANDO dados da REDECARD item(73) ref ped(01131) na nota fisca em bs_notas
+23/02/22 - 01:32:38 - Resultado da atualizacao: (SE PEDIDO = 01131) 0
+23/02/22 - 01:32:38 - GERANDO PARCELAS PARA O PEDIDO (01131)
+23/02/22 - 01:32:38 - Total de parcelas: 3
+23/02/22 - 01:32:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:38 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:38 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:38 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:38 - ATUALIZANDO dados da REDECARD item(74) ref ped(01138) na nota fisca em bs_notas
+23/02/22 - 01:32:38 - Resultado da atualizacao: (SE PEDIDO = 01138) 0
+23/02/22 - 01:32:39 - GERANDO PARCELAS PARA O PEDIDO (01138)
+23/02/22 - 01:32:39 - Total de parcelas: 2
+23/02/22 - 01:32:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:39 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:39 - ATUALIZANDO dados da REDECARD item(75) ref ped(01140) na nota fisca em bs_notas
+23/02/22 - 01:32:39 - Resultado da atualizacao: (SE PEDIDO = 01140) 0
+23/02/22 - 01:32:39 - GERANDO PARCELAS PARA O PEDIDO (01140)
+23/02/22 - 01:32:39 - Total de parcelas: 5
+23/02/22 - 01:32:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:39 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:32:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:39 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:32:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:39 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:32:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:39 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:32:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:40 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:32:40 - ATUALIZANDO dados da REDECARD item(76) ref ped(01141) na nota fisca em bs_notas
+23/02/22 - 01:32:40 - Resultado da atualizacao: (SE PEDIDO = 01141) 0
+23/02/22 - 01:32:40 - GERANDO PARCELAS PARA O PEDIDO (01141)
+23/02/22 - 01:32:40 - Total de parcelas: 3
+23/02/22 - 01:32:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:40 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:40 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:40 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:40 - ATUALIZANDO dados da REDECARD item(77) ref ped(01145) na nota fisca em bs_notas
+23/02/22 - 01:32:41 - Resultado da atualizacao: (SE PEDIDO = 01145) 0
+23/02/22 - 01:32:41 - GERANDO PARCELAS PARA O PEDIDO (01145)
+23/02/22 - 01:32:41 - Total de parcelas: 2
+23/02/22 - 01:32:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:41 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:41 - ATUALIZANDO dados da REDECARD item(78) ref ped(01144) na nota fisca em bs_notas
+23/02/22 - 01:32:42 - Resultado da atualizacao: (SE PEDIDO = 01144) 0
+23/02/22 - 01:32:42 - GERANDO PARCELAS PARA O PEDIDO (01144)
+23/02/22 - 01:32:42 - Total de parcelas: 5
+23/02/22 - 01:32:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:42 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:32:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:42 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:32:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:42 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:32:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:42 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:32:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:42 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:32:42 - ATUALIZANDO dados da REDECARD item(79) ref ped(01142) na nota fisca em bs_notas
+23/02/22 - 01:32:43 - Resultado da atualizacao: (SE PEDIDO = 01142) 0
+23/02/22 - 01:32:43 - GERANDO PARCELAS PARA O PEDIDO (01142)
+23/02/22 - 01:32:43 - Total de parcelas: 3
+23/02/22 - 01:32:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:43 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:43 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:43 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:43 - ATUALIZANDO dados da REDECARD item(80) ref ped(01146) na nota fisca em bs_notas
+23/02/22 - 01:32:44 - Resultado da atualizacao: (SE PEDIDO = 01146) 0
+23/02/22 - 01:32:44 - GERANDO PARCELAS PARA O PEDIDO (01146)
+23/02/22 - 01:32:44 - Total de parcelas: 3
+23/02/22 - 01:32:44 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:44 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:44 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:44 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:44 - ATUALIZANDO dados da REDECARD item(81) ref ped(01148) na nota fisca em bs_notas
+23/02/22 - 01:32:45 - Resultado da atualizacao: (SE PEDIDO = 01148) 0
+23/02/22 - 01:32:45 - GERANDO PARCELAS PARA O PEDIDO (01148)
+23/02/22 - 01:32:45 - Total de parcelas: 3
+23/02/22 - 01:32:45 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:45 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:45 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:45 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:45 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:45 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:45 - ATUALIZANDO dados da REDECARD item(82) ref ped(01149) na nota fisca em bs_notas
+23/02/22 - 01:32:46 - Resultado da atualizacao: (SE PEDIDO = 01149) 0
+23/02/22 - 01:32:46 - GERANDO PARCELAS PARA O PEDIDO (01149)
+23/02/22 - 01:32:46 - Total de parcelas: 3
+23/02/22 - 01:32:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:46 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:46 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:46 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:46 - ATUALIZANDO dados da REDECARD item(83) ref ped(01150) na nota fisca em bs_notas
+23/02/22 - 01:32:47 - Resultado da atualizacao: (SE PEDIDO = 01150) 0
+23/02/22 - 01:32:47 - GERANDO PARCELAS PARA O PEDIDO (01150)
+23/02/22 - 01:32:47 - ATUALIZANDO dados da REDECARD item(84) ref ped(01151) na nota fisca em bs_notas
+23/02/22 - 01:32:48 - Resultado da atualizacao: (SE PEDIDO = 01151) 0
+23/02/22 - 01:32:48 - GERANDO PARCELAS PARA O PEDIDO (01151)
+23/02/22 - 01:32:48 - Total de parcelas: 3
+23/02/22 - 01:32:48 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:48 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:48 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:48 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:48 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:48 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:48 - ATUALIZANDO dados da REDECARD item(85) ref ped(01154) na nota fisca em bs_notas
+23/02/22 - 01:32:48 - Resultado da atualizacao: (SE PEDIDO = 01154) 0
+23/02/22 - 01:32:48 - GERANDO PARCELAS PARA O PEDIDO (01154)
+23/02/22 - 01:32:48 - ATUALIZANDO dados da REDECARD item(86) ref ped(01155) na nota fisca em bs_notas
+23/02/22 - 01:32:49 - Resultado da atualizacao: (SE PEDIDO = 01155) 0
+23/02/22 - 01:32:49 - GERANDO PARCELAS PARA O PEDIDO (01155)
+23/02/22 - 01:32:49 - ATUALIZANDO dados da REDECARD item(87) ref ped(01166) na nota fisca em bs_notas
+23/02/22 - 01:32:50 - Resultado da atualizacao: (SE PEDIDO = 01166) 0
+23/02/22 - 01:32:50 - GERANDO PARCELAS PARA O PEDIDO (01166)
+23/02/22 - 01:32:50 - Total de parcelas: 3
+23/02/22 - 01:32:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:50 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:50 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:32:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:50 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:32:50 - ATUALIZANDO dados da REDECARD item(88) ref ped(01168) na nota fisca em bs_notas
+23/02/22 - 01:32:51 - Resultado da atualizacao: (SE PEDIDO = 01168) 0
+23/02/22 - 01:32:51 - GERANDO PARCELAS PARA O PEDIDO (01168)
+23/02/22 - 01:32:51 - Total de parcelas: 2
+23/02/22 - 01:32:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:51 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:51 - ATUALIZANDO dados da REDECARD item(89) ref ped(01173) na nota fisca em bs_notas
+23/02/22 - 01:32:52 - Resultado da atualizacao: (SE PEDIDO = 01173) 0
+23/02/22 - 01:32:52 - GERANDO PARCELAS PARA O PEDIDO (01173)
+23/02/22 - 01:32:52 - Total de parcelas: 2
+23/02/22 - 01:32:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:52 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:52 - ATUALIZANDO dados da REDECARD item(90) ref ped(01172) na nota fisca em bs_notas
+23/02/22 - 01:32:53 - Resultado da atualizacao: (SE PEDIDO = 01172) 0
+23/02/22 - 01:32:53 - GERANDO PARCELAS PARA O PEDIDO (01172)
+23/02/22 - 01:32:53 - Total de parcelas: 2
+23/02/22 - 01:32:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:53 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:53 - ATUALIZANDO dados da REDECARD item(91) ref ped(01169) na nota fisca em bs_notas
+23/02/22 - 01:32:54 - Resultado da atualizacao: (SE PEDIDO = 01169) 0
+23/02/22 - 01:32:54 - GERANDO PARCELAS PARA O PEDIDO (01169)
+23/02/22 - 01:32:54 - Total de parcelas: 3
+23/02/22 - 01:32:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:54 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:32:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:54 - ATUALIZANDO dados da REDECARD item(92) ref ped(01175) na nota fisca em bs_notas
+23/02/22 - 01:32:54 - Resultado da atualizacao: (SE PEDIDO = 01175) 0
+23/02/22 - 01:32:54 - GERANDO PARCELAS PARA O PEDIDO (01175)
+23/02/22 - 01:32:54 - Total de parcelas: 2
+23/02/22 - 01:32:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:54 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:54 - ATUALIZANDO dados da REDECARD item(93) ref ped(01178) na nota fisca em bs_notas
+23/02/22 - 01:32:55 - Resultado da atualizacao: (SE PEDIDO = 01178) 0
+23/02/22 - 01:32:55 - GERANDO PARCELAS PARA O PEDIDO (01178)
+23/02/22 - 01:32:55 - Total de parcelas: 5
+23/02/22 - 01:32:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:55 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:32:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:55 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:32:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:55 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:32:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:55 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:32:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:55 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:32:55 - ATUALIZANDO dados da REDECARD item(94) ref ped(01181) na nota fisca em bs_notas
+23/02/22 - 01:32:56 - Resultado da atualizacao: (SE PEDIDO = 01181) 0
+23/02/22 - 01:32:56 - GERANDO PARCELAS PARA O PEDIDO (01181)
+23/02/22 - 01:32:56 - Total de parcelas: 2
+23/02/22 - 01:32:56 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:56 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:32:56 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:56 - ATUALIZANDO dados da REDECARD item(95) ref ped(01180) na nota fisca em bs_notas
+23/02/22 - 01:32:57 - Resultado da atualizacao: (SE PEDIDO = 01180) 0
+23/02/22 - 01:32:57 - GERANDO PARCELAS PARA O PEDIDO (01180)
+23/02/22 - 01:32:57 - Total de parcelas: 5
+23/02/22 - 01:32:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:57 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:32:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:57 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:32:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:57 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:32:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:57 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:32:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:32:57 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:32:57 - ATUALIZANDO dados da REDECARD item(96) ref ped(01179) na nota fisca em bs_notas
+23/02/22 - 01:32:58 - Resultado da atualizacao: (SE PEDIDO = 01179) 0
+23/02/22 - 01:32:58 - GERANDO PARCELAS PARA O PEDIDO (01179)
+23/02/22 - 01:32:58 - ATUALIZANDO dados da REDECARD item(97) ref ped(01183) na nota fisca em bs_notas
+23/02/22 - 01:32:59 - Resultado da atualizacao: (SE PEDIDO = 01183) 0
+23/02/22 - 01:32:59 - GERANDO PARCELAS PARA O PEDIDO (01183)
+23/02/22 - 01:32:59 - ATUALIZANDO dados da REDECARD item(98) ref ped(01196) na nota fisca em bs_notas
+23/02/22 - 01:33:00 - Resultado da atualizacao: (SE PEDIDO = 01196) 0
+23/02/22 - 01:33:00 - GERANDO PARCELAS PARA O PEDIDO (01196)
+23/02/22 - 01:33:00 - Total de parcelas: 3
+23/02/22 - 01:33:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:00 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:00 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:00 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:00 - ATUALIZANDO dados da REDECARD item(99) ref ped(01193) na nota fisca em bs_notas
+23/02/22 - 01:33:00 - Resultado da atualizacao: (SE PEDIDO = 01193) 0
+23/02/22 - 01:33:00 - GERANDO PARCELAS PARA O PEDIDO (01193)
+23/02/22 - 01:33:00 - Total de parcelas: 3
+23/02/22 - 01:33:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:00 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:01 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:01 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:01 - ATUALIZANDO dados da REDECARD item(100) ref ped(01192) na nota fisca em bs_notas
+23/02/22 - 01:33:01 - Resultado da atualizacao: (SE PEDIDO = 01192) 0
+23/02/22 - 01:33:01 - GERANDO PARCELAS PARA O PEDIDO (01192)
+23/02/22 - 01:33:01 - Total de parcelas: 2
+23/02/22 - 01:33:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:01 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:01 - ATUALIZANDO dados da REDECARD item(101) ref ped(01191) na nota fisca em bs_notas
+23/02/22 - 01:33:02 - Resultado da atualizacao: (SE PEDIDO = 01191) 0
+23/02/22 - 01:33:02 - GERANDO PARCELAS PARA O PEDIDO (01191)
+23/02/22 - 01:33:02 - Total de parcelas: 2
+23/02/22 - 01:33:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:02 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:02 - ATUALIZANDO dados da REDECARD item(102) ref ped(01190) na nota fisca em bs_notas
+23/02/22 - 01:33:03 - Resultado da atualizacao: (SE PEDIDO = 01190) 0
+23/02/22 - 01:33:03 - GERANDO PARCELAS PARA O PEDIDO (01190)
+23/02/22 - 01:33:03 - ATUALIZANDO dados da REDECARD item(103) ref ped(01188) na nota fisca em bs_notas
+23/02/22 - 01:33:04 - Resultado da atualizacao: (SE PEDIDO = 01188) 0
+23/02/22 - 01:33:04 - GERANDO PARCELAS PARA O PEDIDO (01188)
+23/02/22 - 01:33:04 - ATUALIZANDO dados da REDECARD item(104) ref ped(01187) na nota fisca em bs_notas
+23/02/22 - 01:33:05 - Resultado da atualizacao: (SE PEDIDO = 01187) 0
+23/02/22 - 01:33:05 - GERANDO PARCELAS PARA O PEDIDO (01187)
+23/02/22 - 01:33:05 - Total de parcelas: 2
+23/02/22 - 01:33:05 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:05 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:05 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:05 - ATUALIZANDO dados da REDECARD item(105) ref ped(01204) na nota fisca em bs_notas
+23/02/22 - 01:33:06 - Resultado da atualizacao: (SE PEDIDO = 01204) 0
+23/02/22 - 01:33:06 - GERANDO PARCELAS PARA O PEDIDO (01204)
+23/02/22 - 01:33:06 - ATUALIZANDO dados da REDECARD item(106) ref ped(01203) na nota fisca em bs_notas
+23/02/22 - 01:33:07 - Resultado da atualizacao: (SE PEDIDO = 01203) 0
+23/02/22 - 01:33:07 - GERANDO PARCELAS PARA O PEDIDO (01203)
+23/02/22 - 01:33:07 - Total de parcelas: 3
+23/02/22 - 01:33:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:07 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:07 - ATUALIZANDO dados da REDECARD item(107) ref ped(01202) na nota fisca em bs_notas
+23/02/22 - 01:33:08 - Resultado da atualizacao: (SE PEDIDO = 01202) 0
+23/02/22 - 01:33:08 - GERANDO PARCELAS PARA O PEDIDO (01202)
+23/02/22 - 01:33:08 - Total de parcelas: 2
+23/02/22 - 01:33:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:08 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:08 - ATUALIZANDO dados da REDECARD item(108) ref ped(01201) na nota fisca em bs_notas
+23/02/22 - 01:33:08 - Resultado da atualizacao: (SE PEDIDO = 01201) 0
+23/02/22 - 01:33:08 - GERANDO PARCELAS PARA O PEDIDO (01201)
+23/02/22 - 01:33:08 - Total de parcelas: 2
+23/02/22 - 01:33:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:08 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:08 - ATUALIZANDO dados da REDECARD item(109) ref ped(01200) na nota fisca em bs_notas
+23/02/22 - 01:33:09 - Resultado da atualizacao: (SE PEDIDO = 01200) 0
+23/02/22 - 01:33:09 - GERANDO PARCELAS PARA O PEDIDO (01200)
+23/02/22 - 01:33:09 - Total de parcelas: 3
+23/02/22 - 01:33:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:09 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:09 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:09 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:09 - ATUALIZANDO dados da REDECARD item(110) ref ped(01199) na nota fisca em bs_notas
+23/02/22 - 01:33:10 - Resultado da atualizacao: (SE PEDIDO = 01199) 0
+23/02/22 - 01:33:10 - GERANDO PARCELAS PARA O PEDIDO (01199)
+23/02/22 - 01:33:10 - Total de parcelas: 2
+23/02/22 - 01:33:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:10 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:10 - ATUALIZANDO dados da REDECARD item(111) ref ped(01209) na nota fisca em bs_notas
+23/02/22 - 01:33:11 - Resultado da atualizacao: (SE PEDIDO = 01209) 0
+23/02/22 - 01:33:11 - GERANDO PARCELAS PARA O PEDIDO (01209)
+23/02/22 - 01:33:11 - Total de parcelas: 3
+23/02/22 - 01:33:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:11 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:11 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:11 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:11 - ATUALIZANDO dados da REDECARD item(112) ref ped(01208) na nota fisca em bs_notas
+23/02/22 - 01:33:12 - Resultado da atualizacao: (SE PEDIDO = 01208) 0
+23/02/22 - 01:33:12 - GERANDO PARCELAS PARA O PEDIDO (01208)
+23/02/22 - 01:33:12 - Total de parcelas: 2
+23/02/22 - 01:33:12 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:12 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:12 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:12 - ATUALIZANDO dados da REDECARD item(113) ref ped(01210) na nota fisca em bs_notas
+23/02/22 - 01:33:13 - Resultado da atualizacao: (SE PEDIDO = 01210) 0
+23/02/22 - 01:33:13 - GERANDO PARCELAS PARA O PEDIDO (01210)
+23/02/22 - 01:33:13 - Total de parcelas: 3
+23/02/22 - 01:33:13 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:13 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:13 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:13 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:13 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:13 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:13 - ATUALIZANDO dados da REDECARD item(114) ref ped(01211) na nota fisca em bs_notas
+23/02/22 - 01:33:14 - Resultado da atualizacao: (SE PEDIDO = 01211) 0
+23/02/22 - 01:33:14 - GERANDO PARCELAS PARA O PEDIDO (01211)
+23/02/22 - 01:33:14 - ATUALIZANDO dados da REDECARD item(115) ref ped(01213) na nota fisca em bs_notas
+23/02/22 - 01:33:15 - Resultado da atualizacao: (SE PEDIDO = 01213) 0
+23/02/22 - 01:33:15 - GERANDO PARCELAS PARA O PEDIDO (01213)
+23/02/22 - 01:33:15 - ATUALIZANDO dados da REDECARD item(116) ref ped(01215) na nota fisca em bs_notas
+23/02/22 - 01:33:16 - Resultado da atualizacao: (SE PEDIDO = 01215) 0
+23/02/22 - 01:33:16 - GERANDO PARCELAS PARA O PEDIDO (01215)
+23/02/22 - 01:33:16 - Total de parcelas: 4
+23/02/22 - 01:33:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:16 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:33:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:16 - ATUALIZANDO dados da REDECARD item(117) ref ped(01214) na nota fisca em bs_notas
+23/02/22 - 01:33:16 - Resultado da atualizacao: (SE PEDIDO = 01214) 0
+23/02/22 - 01:33:16 - GERANDO PARCELAS PARA O PEDIDO (01214)
+23/02/22 - 01:33:16 - Total de parcelas: 3
+23/02/22 - 01:33:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:16 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:16 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:16 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:16 - ATUALIZANDO dados da REDECARD item(118) ref ped(01218) na nota fisca em bs_notas
+23/02/22 - 01:33:17 - Resultado da atualizacao: (SE PEDIDO = 01218) 0
+23/02/22 - 01:33:17 - GERANDO PARCELAS PARA O PEDIDO (01218)
+23/02/22 - 01:33:17 - ATUALIZANDO dados da REDECARD item(119) ref ped(01217) na nota fisca em bs_notas
+23/02/22 - 01:33:18 - Resultado da atualizacao: (SE PEDIDO = 01217) 0
+23/02/22 - 01:33:18 - GERANDO PARCELAS PARA O PEDIDO (01217)
+23/02/22 - 01:33:18 - Total de parcelas: 5
+23/02/22 - 01:33:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:18 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:33:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:18 - ATUALIZANDO dados da REDECARD item(120) ref ped(01225) na nota fisca em bs_notas
+23/02/22 - 01:33:19 - Resultado da atualizacao: (SE PEDIDO = 01225) 0
+23/02/22 - 01:33:19 - GERANDO PARCELAS PARA O PEDIDO (01225)
+23/02/22 - 01:33:19 - ATUALIZANDO dados da REDECARD item(121) ref ped(01222) na nota fisca em bs_notas
+23/02/22 - 01:33:20 - Resultado da atualizacao: (SE PEDIDO = 01222) 0
+23/02/22 - 01:33:20 - GERANDO PARCELAS PARA O PEDIDO (01222)
+23/02/22 - 01:33:20 - Total de parcelas: 3
+23/02/22 - 01:33:20 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:20 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:20 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:20 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:20 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:20 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:20 - ATUALIZANDO dados da REDECARD item(122) ref ped(01226) na nota fisca em bs_notas
+23/02/22 - 01:33:21 - Resultado da atualizacao: (SE PEDIDO = 01226) 0
+23/02/22 - 01:33:21 - GERANDO PARCELAS PARA O PEDIDO (01226)
+23/02/22 - 01:33:21 - Total de parcelas: 5
+23/02/22 - 01:33:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:21 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:33:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:21 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:33:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:21 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:33:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:21 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:33:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:21 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:33:21 - ATUALIZANDO dados da REDECARD item(123) ref ped(01227) na nota fisca em bs_notas
+23/02/22 - 01:33:22 - Resultado da atualizacao: (SE PEDIDO = 01227) 0
+23/02/22 - 01:33:22 - GERANDO PARCELAS PARA O PEDIDO (01227)
+23/02/22 - 01:33:22 - Total de parcelas: 2
+23/02/22 - 01:33:22 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:22 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:22 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:22 - ATUALIZANDO dados da REDECARD item(124) ref ped(01232) na nota fisca em bs_notas
+23/02/22 - 01:33:22 - Resultado da atualizacao: (SE PEDIDO = 01232) 0
+23/02/22 - 01:33:22 - GERANDO PARCELAS PARA O PEDIDO (01232)
+23/02/22 - 01:33:22 - Total de parcelas: 2
+23/02/22 - 01:33:22 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:22 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:22 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:22 - ATUALIZANDO dados da REDECARD item(125) ref ped(01229) na nota fisca em bs_notas
+23/02/22 - 01:33:23 - Resultado da atualizacao: (SE PEDIDO = 01229) 0
+23/02/22 - 01:33:23 - GERANDO PARCELAS PARA O PEDIDO (01229)
+23/02/22 - 01:33:23 - ATUALIZANDO dados da REDECARD item(126) ref ped(01230) na nota fisca em bs_notas
+23/02/22 - 01:33:24 - Resultado da atualizacao: (SE PEDIDO = 01230) 0
+23/02/22 - 01:33:24 - GERANDO PARCELAS PARA O PEDIDO (01230)
+23/02/22 - 01:33:24 - Total de parcelas: 5
+23/02/22 - 01:33:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:24 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:33:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:24 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:33:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:24 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:33:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:24 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:33:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:24 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:33:24 - ATUALIZANDO dados da REDECARD item(127) ref ped(01231) na nota fisca em bs_notas
+23/02/22 - 01:33:25 - Resultado da atualizacao: (SE PEDIDO = 01231) 0
+23/02/22 - 01:33:25 - GERANDO PARCELAS PARA O PEDIDO (01231)
+23/02/22 - 01:33:25 - Total de parcelas: 3
+23/02/22 - 01:33:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:25 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:25 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:25 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:25 - ATUALIZANDO dados da REDECARD item(128) ref ped(01234) na nota fisca em bs_notas
+23/02/22 - 01:33:26 - Resultado da atualizacao: (SE PEDIDO = 01234) 0
+23/02/22 - 01:33:26 - GERANDO PARCELAS PARA O PEDIDO (01234)
+23/02/22 - 01:33:26 - Total de parcelas: 5
+23/02/22 - 01:33:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:26 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:33:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:26 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:33:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:26 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:33:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:26 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:33:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:26 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:33:26 - ATUALIZANDO dados da REDECARD item(129) ref ped(01235) na nota fisca em bs_notas
+23/02/22 - 01:33:27 - Resultado da atualizacao: (SE PEDIDO = 01235) 0
+23/02/22 - 01:33:27 - GERANDO PARCELAS PARA O PEDIDO (01235)
+23/02/22 - 01:33:27 - Total de parcelas: 5
+23/02/22 - 01:33:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:27 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:33:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:27 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:33:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:27 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:33:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:27 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:33:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:27 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:33:27 - ATUALIZANDO dados da REDECARD item(130) ref ped(01236) na nota fisca em bs_notas
+23/02/22 - 01:33:28 - Resultado da atualizacao: (SE PEDIDO = 01236) 0
+23/02/22 - 01:33:28 - GERANDO PARCELAS PARA O PEDIDO (01236)
+23/02/22 - 01:33:28 - ATUALIZANDO dados da REDECARD item(131) ref ped(01237) na nota fisca em bs_notas
+23/02/22 - 01:33:29 - Resultado da atualizacao: (SE PEDIDO = 01237) 0
+23/02/22 - 01:33:29 - GERANDO PARCELAS PARA O PEDIDO (01237)
+23/02/22 - 01:33:29 - Total de parcelas: 3
+23/02/22 - 01:33:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:29 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:29 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:29 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:29 - ATUALIZANDO dados da REDECARD item(132) ref ped(01238) na nota fisca em bs_notas
+23/02/22 - 01:33:30 - Resultado da atualizacao: (SE PEDIDO = 01238) 0
+23/02/22 - 01:33:30 - GERANDO PARCELAS PARA O PEDIDO (01238)
+23/02/22 - 01:33:30 - Total de parcelas: 3
+23/02/22 - 01:33:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:30 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:30 - ATUALIZANDO dados da REDECARD item(133) ref ped(01233) na nota fisca em bs_notas
+23/02/22 - 01:33:31 - Resultado da atualizacao: (SE PEDIDO = 01233) 0
+23/02/22 - 01:33:31 - GERANDO PARCELAS PARA O PEDIDO (01233)
+23/02/22 - 01:33:31 - Total de parcelas: 5
+23/02/22 - 01:33:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:31 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:33:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:31 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:33:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:31 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:33:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:31 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:33:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:31 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:33:31 - ATUALIZANDO dados da REDECARD item(134) ref ped(01245) na nota fisca em bs_notas
+23/02/22 - 01:33:32 - Resultado da atualizacao: (SE PEDIDO = 01245) 0
+23/02/22 - 01:33:32 - GERANDO PARCELAS PARA O PEDIDO (01245)
+23/02/22 - 01:33:32 - Total de parcelas: 5
+23/02/22 - 01:33:32 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:32 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:33:32 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:32 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:33:32 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:32 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:33:32 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:32 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:33:32 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:32 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:33:32 - ATUALIZANDO dados da REDECARD item(135) ref ped(01243) na nota fisca em bs_notas
+23/02/22 - 01:33:32 - Resultado da atualizacao: (SE PEDIDO = 01243) 0
+23/02/22 - 01:33:33 - GERANDO PARCELAS PARA O PEDIDO (01243)
+23/02/22 - 01:33:33 - Total de parcelas: 2
+23/02/22 - 01:33:33 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:33 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:33 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:33 - ATUALIZANDO dados da REDECARD item(136) ref ped(01242) na nota fisca em bs_notas
+23/02/22 - 01:33:33 - Resultado da atualizacao: (SE PEDIDO = 01242) 0
+23/02/22 - 01:33:33 - GERANDO PARCELAS PARA O PEDIDO (01242)
+23/02/22 - 01:33:33 - ATUALIZANDO dados da REDECARD item(137) ref ped(01241) na nota fisca em bs_notas
+23/02/22 - 01:33:34 - Resultado da atualizacao: (SE PEDIDO = 01241) 0
+23/02/22 - 01:33:34 - GERANDO PARCELAS PARA O PEDIDO (01241)
+23/02/22 - 01:33:34 - ATUALIZANDO dados da REDECARD item(138) ref ped(01240) na nota fisca em bs_notas
+23/02/22 - 01:33:35 - Resultado da atualizacao: (SE PEDIDO = 01240) 0
+23/02/22 - 01:33:35 - GERANDO PARCELAS PARA O PEDIDO (01240)
+23/02/22 - 01:33:35 - Total de parcelas: 2
+23/02/22 - 01:33:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:35 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:35 - ATUALIZANDO dados da REDECARD item(139) ref ped(01249) na nota fisca em bs_notas
+23/02/22 - 01:33:36 - Resultado da atualizacao: (SE PEDIDO = 01249) 0
+23/02/22 - 01:33:36 - GERANDO PARCELAS PARA O PEDIDO (01249)
+23/02/22 - 01:33:36 - Total de parcelas: 3
+23/02/22 - 01:33:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:36 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:36 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:36 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:36 - ATUALIZANDO dados da REDECARD item(140) ref ped(01248) na nota fisca em bs_notas
+23/02/22 - 01:33:37 - Resultado da atualizacao: (SE PEDIDO = 01248) 0
+23/02/22 - 01:33:37 - GERANDO PARCELAS PARA O PEDIDO (01248)
+23/02/22 - 01:33:37 - ATUALIZANDO dados da REDECARD item(141) ref ped(01250) na nota fisca em bs_notas
+23/02/22 - 01:33:38 - Resultado da atualizacao: (SE PEDIDO = 01250) 0
+23/02/22 - 01:33:38 - GERANDO PARCELAS PARA O PEDIDO (01250)
+23/02/22 - 01:33:38 - ATUALIZANDO dados da REDECARD item(142) ref ped(01251) na nota fisca em bs_notas
+23/02/22 - 01:33:38 - Resultado da atualizacao: (SE PEDIDO = 01251) 0
+23/02/22 - 01:33:38 - GERANDO PARCELAS PARA O PEDIDO (01251)
+23/02/22 - 01:33:38 - ATUALIZANDO dados da REDECARD item(143) ref ped(01252) na nota fisca em bs_notas
+23/02/22 - 01:33:39 - Resultado da atualizacao: (SE PEDIDO = 01252) 0
+23/02/22 - 01:33:39 - GERANDO PARCELAS PARA O PEDIDO (01252)
+23/02/22 - 01:33:39 - Total de parcelas: 2
+23/02/22 - 01:33:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:39 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:39 - ATUALIZANDO dados da REDECARD item(144) ref ped(01253) na nota fisca em bs_notas
+23/02/22 - 01:33:40 - Resultado da atualizacao: (SE PEDIDO = 01253) 0
+23/02/22 - 01:33:40 - GERANDO PARCELAS PARA O PEDIDO (01253)
+23/02/22 - 01:33:40 - Total de parcelas: 2
+23/02/22 - 01:33:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:40 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:40 - ATUALIZANDO dados da REDECARD item(145) ref ped(01255) na nota fisca em bs_notas
+23/02/22 - 01:33:41 - Resultado da atualizacao: (SE PEDIDO = 01255) 0
+23/02/22 - 01:33:41 - GERANDO PARCELAS PARA O PEDIDO (01255)
+23/02/22 - 01:33:41 - ATUALIZANDO dados da REDECARD item(146) ref ped(01260) na nota fisca em bs_notas
+23/02/22 - 01:33:42 - Resultado da atualizacao: (SE PEDIDO = 01260) 0
+23/02/22 - 01:33:42 - GERANDO PARCELAS PARA O PEDIDO (01260)
+23/02/22 - 01:33:42 - Total de parcelas: 5
+23/02/22 - 01:33:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:42 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:33:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:42 - ATUALIZANDO dados da REDECARD item(147) ref ped(01262) na nota fisca em bs_notas
+23/02/22 - 01:33:43 - Resultado da atualizacao: (SE PEDIDO = 01262) 0
+23/02/22 - 01:33:43 - GERANDO PARCELAS PARA O PEDIDO (01262)
+23/02/22 - 01:33:43 - Total de parcelas: 5
+23/02/22 - 01:33:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:43 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:33:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:43 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:33:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:43 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:33:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:43 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:33:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:43 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:33:43 - ATUALIZANDO dados da REDECARD item(148) ref ped(01263) na nota fisca em bs_notas
+23/02/22 - 01:33:44 - Resultado da atualizacao: (SE PEDIDO = 01263) 0
+23/02/22 - 01:33:44 - GERANDO PARCELAS PARA O PEDIDO (01263)
+23/02/22 - 01:33:44 - ATUALIZANDO dados da REDECARD item(149) ref ped(01267) na nota fisca em bs_notas
+23/02/22 - 01:33:45 - Resultado da atualizacao: (SE PEDIDO = 01267) 0
+23/02/22 - 01:33:45 - GERANDO PARCELAS PARA O PEDIDO (01267)
+23/02/22 - 01:33:45 - ATUALIZANDO dados da REDECARD item(150) ref ped(01266) na nota fisca em bs_notas
+23/02/22 - 01:33:46 - Resultado da atualizacao: (SE PEDIDO = 01266) 0
+23/02/22 - 01:33:46 - GERANDO PARCELAS PARA O PEDIDO (01266)
+23/02/22 - 01:33:46 - ATUALIZANDO dados da REDECARD item(151) ref ped(01265) na nota fisca em bs_notas
+23/02/22 - 01:33:46 - Resultado da atualizacao: (SE PEDIDO = 01265) 0
+23/02/22 - 01:33:46 - GERANDO PARCELAS PARA O PEDIDO (01265)
+23/02/22 - 01:33:46 - Total de parcelas: 3
+23/02/22 - 01:33:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:46 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:46 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:46 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:46 - ATUALIZANDO dados da REDECARD item(152) ref ped(01270) na nota fisca em bs_notas
+23/02/22 - 01:33:47 - Resultado da atualizacao: (SE PEDIDO = 01270) 0
+23/02/22 - 01:33:47 - GERANDO PARCELAS PARA O PEDIDO (01270)
+23/02/22 - 01:33:47 - Total de parcelas: 3
+23/02/22 - 01:33:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:47 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:47 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:47 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:47 - ATUALIZANDO dados da REDECARD item(153) ref ped(01278) na nota fisca em bs_notas
+23/02/22 - 01:33:48 - Resultado da atualizacao: (SE PEDIDO = 01278) 0
+23/02/22 - 01:33:48 - GERANDO PARCELAS PARA O PEDIDO (01278)
+23/02/22 - 01:33:48 - ATUALIZANDO dados da REDECARD item(154) ref ped(01277) na nota fisca em bs_notas
+23/02/22 - 01:33:49 - Resultado da atualizacao: (SE PEDIDO = 01277) 0
+23/02/22 - 01:33:49 - GERANDO PARCELAS PARA O PEDIDO (01277)
+23/02/22 - 01:33:49 - Total de parcelas: 2
+23/02/22 - 01:33:49 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:49 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:49 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:49 - ATUALIZANDO dados da REDECARD item(155) ref ped(01275) na nota fisca em bs_notas
+23/02/22 - 01:33:50 - Resultado da atualizacao: (SE PEDIDO = 01275) 0
+23/02/22 - 01:33:50 - GERANDO PARCELAS PARA O PEDIDO (01275)
+23/02/22 - 01:33:50 - Total de parcelas: 2
+23/02/22 - 01:33:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:50 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:50 - ATUALIZANDO dados da REDECARD item(156) ref ped(01273) na nota fisca em bs_notas
+23/02/22 - 01:33:51 - Resultado da atualizacao: (SE PEDIDO = 01273) 0
+23/02/22 - 01:33:51 - GERANDO PARCELAS PARA O PEDIDO (01273)
+23/02/22 - 01:33:51 - Total de parcelas: 5
+23/02/22 - 01:33:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:51 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:33:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:51 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:33:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:51 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:33:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:51 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:33:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:51 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:33:51 - ATUALIZANDO dados da REDECARD item(157) ref ped(01279) na nota fisca em bs_notas
+23/02/22 - 01:33:52 - Resultado da atualizacao: (SE PEDIDO = 01279) 0
+23/02/22 - 01:33:52 - GERANDO PARCELAS PARA O PEDIDO (01279)
+23/02/22 - 01:33:52 - Total de parcelas: 4
+23/02/22 - 01:33:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:52 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:33:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:52 - ATUALIZANDO dados da REDECARD item(158) ref ped(01280) na nota fisca em bs_notas
+23/02/22 - 01:33:53 - Resultado da atualizacao: (SE PEDIDO = 01280) 0
+23/02/22 - 01:33:53 - GERANDO PARCELAS PARA O PEDIDO (01280)
+23/02/22 - 01:33:53 - Total de parcelas: 3
+23/02/22 - 01:33:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:53 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:53 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:53 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:53 - ATUALIZANDO dados da REDECARD item(159) ref ped(01282) na nota fisca em bs_notas
+23/02/22 - 01:33:54 - Resultado da atualizacao: (SE PEDIDO = 01282) 0
+23/02/22 - 01:33:54 - GERANDO PARCELAS PARA O PEDIDO (01282)
+23/02/22 - 01:33:54 - Total de parcelas: 3
+23/02/22 - 01:33:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:54 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:54 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:54 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:54 - ATUALIZANDO dados da REDECARD item(160) ref ped(01283) na nota fisca em bs_notas
+23/02/22 - 01:33:55 - Resultado da atualizacao: (SE PEDIDO = 01283) 0
+23/02/22 - 01:33:55 - GERANDO PARCELAS PARA O PEDIDO (01283)
+23/02/22 - 01:33:55 - ATUALIZANDO dados da REDECARD item(161) ref ped(01284) na nota fisca em bs_notas
+23/02/22 - 01:33:56 - Resultado da atualizacao: (SE PEDIDO = 01284) 0
+23/02/22 - 01:33:56 - GERANDO PARCELAS PARA O PEDIDO (01284)
+23/02/22 - 01:33:56 - Total de parcelas: 2
+23/02/22 - 01:33:56 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:56 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:56 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:56 - ATUALIZANDO dados da REDECARD item(162) ref ped(01286) na nota fisca em bs_notas
+23/02/22 - 01:33:57 - Resultado da atualizacao: (SE PEDIDO = 01286) 0
+23/02/22 - 01:33:57 - GERANDO PARCELAS PARA O PEDIDO (01286)
+23/02/22 - 01:33:57 - Total de parcelas: 3
+23/02/22 - 01:33:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:57 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:57 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:57 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:57 - ATUALIZANDO dados da REDECARD item(163) ref ped(01289) na nota fisca em bs_notas
+23/02/22 - 01:33:58 - Resultado da atualizacao: (SE PEDIDO = 01289) 0
+23/02/22 - 01:33:58 - GERANDO PARCELAS PARA O PEDIDO (01289)
+23/02/22 - 01:33:58 - Total de parcelas: 3
+23/02/22 - 01:33:58 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:58 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:33:58 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:58 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:33:58 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:58 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:33:58 - ATUALIZANDO dados da REDECARD item(164) ref ped(01293) na nota fisca em bs_notas
+23/02/22 - 01:33:59 - Resultado da atualizacao: (SE PEDIDO = 01293) 0
+23/02/22 - 01:33:59 - GERANDO PARCELAS PARA O PEDIDO (01293)
+23/02/22 - 01:33:59 - Total de parcelas: 2
+23/02/22 - 01:33:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:59 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:59 - ATUALIZANDO dados da REDECARD item(165) ref ped(01294) na nota fisca em bs_notas
+23/02/22 - 01:33:59 - Resultado da atualizacao: (SE PEDIDO = 01294) 0
+23/02/22 - 01:33:59 - GERANDO PARCELAS PARA O PEDIDO (01294)
+23/02/22 - 01:33:59 - Total de parcelas: 2
+23/02/22 - 01:33:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:59 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:33:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:33:59 - ATUALIZANDO dados da REDECARD item(166) ref ped(01295) na nota fisca em bs_notas
+23/02/22 - 01:34:00 - Resultado da atualizacao: (SE PEDIDO = 01295) 0
+23/02/22 - 01:34:00 - GERANDO PARCELAS PARA O PEDIDO (01295)
+23/02/22 - 01:34:00 - Total de parcelas: 3
+23/02/22 - 01:34:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:00 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:00 - ATUALIZANDO dados da REDECARD item(167) ref ped(01297) na nota fisca em bs_notas
+23/02/22 - 01:34:01 - Resultado da atualizacao: (SE PEDIDO = 01297) 0
+23/02/22 - 01:34:01 - GERANDO PARCELAS PARA O PEDIDO (01297)
+23/02/22 - 01:34:01 - Total de parcelas: 3
+23/02/22 - 01:34:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:01 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:01 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:01 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:01 - ATUALIZANDO dados da REDECARD item(168) ref ped(01298) na nota fisca em bs_notas
+23/02/22 - 01:34:02 - Resultado da atualizacao: (SE PEDIDO = 01298) 0
+23/02/22 - 01:34:02 - GERANDO PARCELAS PARA O PEDIDO (01298)
+23/02/22 - 01:34:02 - Total de parcelas: 5
+23/02/22 - 01:34:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:02 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:34:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:02 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:34:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:02 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:34:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:02 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:34:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:02 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:34:02 - ATUALIZANDO dados da REDECARD item(169) ref ped(01302) na nota fisca em bs_notas
+23/02/22 - 01:34:03 - Resultado da atualizacao: (SE PEDIDO = 01302) 0
+23/02/22 - 01:34:03 - GERANDO PARCELAS PARA O PEDIDO (01302)
+23/02/22 - 01:34:03 - Total de parcelas: 2
+23/02/22 - 01:34:03 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:03 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:03 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:03 - ATUALIZANDO dados da REDECARD item(170) ref ped(01304) na nota fisca em bs_notas
+23/02/22 - 01:34:04 - Resultado da atualizacao: (SE PEDIDO = 01304) 0
+23/02/22 - 01:34:04 - GERANDO PARCELAS PARA O PEDIDO (01304)
+23/02/22 - 01:34:04 - Total de parcelas: 5
+23/02/22 - 01:34:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:04 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:34:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:04 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:34:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:04 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:34:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:04 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:34:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:04 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:34:04 - ATUALIZANDO dados da REDECARD item(171) ref ped(01301) na nota fisca em bs_notas
+23/02/22 - 01:34:05 - Resultado da atualizacao: (SE PEDIDO = 01301) 0
+23/02/22 - 01:34:05 - GERANDO PARCELAS PARA O PEDIDO (01301)
+23/02/22 - 01:34:05 - Total de parcelas: 3
+23/02/22 - 01:34:05 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:05 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:05 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:05 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:05 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:05 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:05 - ATUALIZANDO dados da REDECARD item(172) ref ped(01307) na nota fisca em bs_notas
+23/02/22 - 01:34:06 - Resultado da atualizacao: (SE PEDIDO = 01307) 0
+23/02/22 - 01:34:06 - GERANDO PARCELAS PARA O PEDIDO (01307)
+23/02/22 - 01:34:06 - Total de parcelas: 2
+23/02/22 - 01:34:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:06 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:06 - ATUALIZANDO dados da REDECARD item(173) ref ped(01314) na nota fisca em bs_notas
+23/02/22 - 01:34:07 - Resultado da atualizacao: (SE PEDIDO = 01314) 0
+23/02/22 - 01:34:07 - GERANDO PARCELAS PARA O PEDIDO (01314)
+23/02/22 - 01:34:07 - Total de parcelas: 5
+23/02/22 - 01:34:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:07 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:34:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:07 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:34:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:07 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:34:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:07 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:34:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:07 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:34:07 - ATUALIZANDO dados da REDECARD item(174) ref ped(01315) na nota fisca em bs_notas
+23/02/22 - 01:34:08 - Resultado da atualizacao: (SE PEDIDO = 01315) 0
+23/02/22 - 01:34:08 - GERANDO PARCELAS PARA O PEDIDO (01315)
+23/02/22 - 01:34:08 - Total de parcelas: 2
+23/02/22 - 01:34:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:08 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:08 - ATUALIZANDO dados da REDECARD item(175) ref ped(01318) na nota fisca em bs_notas
+23/02/22 - 01:34:09 - Resultado da atualizacao: (SE PEDIDO = 01318) 0
+23/02/22 - 01:34:09 - GERANDO PARCELAS PARA O PEDIDO (01318)
+23/02/22 - 01:34:09 - Total de parcelas: 3
+23/02/22 - 01:34:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:09 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:09 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:09 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:09 - ATUALIZANDO dados da REDECARD item(176) ref ped(01317) na nota fisca em bs_notas
+23/02/22 - 01:34:09 - Resultado da atualizacao: (SE PEDIDO = 01317) 0
+23/02/22 - 01:34:09 - GERANDO PARCELAS PARA O PEDIDO (01317)
+23/02/22 - 01:34:09 - Total de parcelas: 3
+23/02/22 - 01:34:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:09 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:09 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:09 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:09 - ATUALIZANDO dados da REDECARD item(177) ref ped(01316) na nota fisca em bs_notas
+23/02/22 - 01:34:10 - Resultado da atualizacao: (SE PEDIDO = 01316) 0
+23/02/22 - 01:34:10 - GERANDO PARCELAS PARA O PEDIDO (01316)
+23/02/22 - 01:34:10 - Total de parcelas: 5
+23/02/22 - 01:34:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:10 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:34:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:10 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:34:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:10 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:34:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:10 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:34:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:10 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:34:10 - ATUALIZANDO dados da REDECARD item(178) ref ped(01335) na nota fisca em bs_notas
+23/02/22 - 01:34:11 - Resultado da atualizacao: (SE PEDIDO = 01335) 0
+23/02/22 - 01:34:11 - GERANDO PARCELAS PARA O PEDIDO (01335)
+23/02/22 - 01:34:11 - Total de parcelas: 3
+23/02/22 - 01:34:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:11 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:11 - ATUALIZANDO dados da REDECARD item(179) ref ped(01333) na nota fisca em bs_notas
+23/02/22 - 01:34:12 - Resultado da atualizacao: (SE PEDIDO = 01333) 0
+23/02/22 - 01:34:12 - GERANDO PARCELAS PARA O PEDIDO (01333)
+23/02/22 - 01:34:12 - ATUALIZANDO dados da REDECARD item(180) ref ped(01332) na nota fisca em bs_notas
+23/02/22 - 01:34:13 - Resultado da atualizacao: (SE PEDIDO = 01332) 0
+23/02/22 - 01:34:13 - GERANDO PARCELAS PARA O PEDIDO (01332)
+23/02/22 - 01:34:13 - Total de parcelas: 3
+23/02/22 - 01:34:13 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:13 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:13 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:13 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:13 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:13 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:13 - ATUALIZANDO dados da REDECARD item(181) ref ped(01330) na nota fisca em bs_notas
+23/02/22 - 01:34:14 - Resultado da atualizacao: (SE PEDIDO = 01330) 0
+23/02/22 - 01:34:14 - GERANDO PARCELAS PARA O PEDIDO (01330)
+23/02/22 - 01:34:14 - ATUALIZANDO dados da REDECARD item(182) ref ped(01329) na nota fisca em bs_notas
+23/02/22 - 01:34:15 - Resultado da atualizacao: (SE PEDIDO = 01329) 0
+23/02/22 - 01:34:15 - GERANDO PARCELAS PARA O PEDIDO (01329)
+23/02/22 - 01:34:15 - Total de parcelas: 3
+23/02/22 - 01:34:15 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:15 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:15 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:15 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:15 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:15 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:15 - ATUALIZANDO dados da REDECARD item(183) ref ped(01327) na nota fisca em bs_notas
+23/02/22 - 01:34:16 - Resultado da atualizacao: (SE PEDIDO = 01327) 0
+23/02/22 - 01:34:16 - GERANDO PARCELAS PARA O PEDIDO (01327)
+23/02/22 - 01:34:16 - Total de parcelas: 3
+23/02/22 - 01:34:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:16 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:16 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:16 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:16 - ATUALIZANDO dados da REDECARD item(184) ref ped(01336) na nota fisca em bs_notas
+23/02/22 - 01:34:17 - Resultado da atualizacao: (SE PEDIDO = 01336) 0
+23/02/22 - 01:34:17 - GERANDO PARCELAS PARA O PEDIDO (01336)
+23/02/22 - 01:34:17 - Total de parcelas: 2
+23/02/22 - 01:34:17 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:17 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:17 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:17 - ATUALIZANDO dados da REDECARD item(185) ref ped(01337) na nota fisca em bs_notas
+23/02/22 - 01:34:17 - Resultado da atualizacao: (SE PEDIDO = 01337) 0
+23/02/22 - 01:34:17 - GERANDO PARCELAS PARA O PEDIDO (01337)
+23/02/22 - 01:34:17 - Total de parcelas: 2
+23/02/22 - 01:34:17 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:18 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:18 - ATUALIZANDO dados da REDECARD item(186) ref ped(01338) na nota fisca em bs_notas
+23/02/22 - 01:34:18 - Resultado da atualizacao: (SE PEDIDO = 01338) 0
+23/02/22 - 01:34:18 - GERANDO PARCELAS PARA O PEDIDO (01338)
+23/02/22 - 01:34:18 - Total de parcelas: 3
+23/02/22 - 01:34:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:18 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:18 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:18 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:18 - ATUALIZANDO dados da REDECARD item(187) ref ped(01344) na nota fisca em bs_notas
+23/02/22 - 01:34:19 - Resultado da atualizacao: (SE PEDIDO = 01344) 0
+23/02/22 - 01:34:19 - GERANDO PARCELAS PARA O PEDIDO (01344)
+23/02/22 - 01:34:19 - ATUALIZANDO dados da REDECARD item(188) ref ped(01342) na nota fisca em bs_notas
+23/02/22 - 01:34:20 - Resultado da atualizacao: (SE PEDIDO = 01342) 0
+23/02/22 - 01:34:20 - GERANDO PARCELAS PARA O PEDIDO (01342)
+23/02/22 - 01:34:20 - Total de parcelas: 2
+23/02/22 - 01:34:20 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:20 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:20 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:20 - ATUALIZANDO dados da REDECARD item(189) ref ped(01341) na nota fisca em bs_notas
+23/02/22 - 01:34:21 - Resultado da atualizacao: (SE PEDIDO = 01341) 0
+23/02/22 - 01:34:21 - GERANDO PARCELAS PARA O PEDIDO (01341)
+23/02/22 - 01:34:21 - ATUALIZANDO dados da REDECARD item(190) ref ped(01352) na nota fisca em bs_notas
+23/02/22 - 01:34:22 - Resultado da atualizacao: (SE PEDIDO = 01352) 0
+23/02/22 - 01:34:22 - GERANDO PARCELAS PARA O PEDIDO (01352)
+23/02/22 - 01:34:22 - ATUALIZANDO dados da REDECARD item(191) ref ped(01351) na nota fisca em bs_notas
+23/02/22 - 01:34:23 - Resultado da atualizacao: (SE PEDIDO = 01351) 0
+23/02/22 - 01:34:23 - GERANDO PARCELAS PARA O PEDIDO (01351)
+23/02/22 - 01:34:23 - ATUALIZANDO dados da REDECARD item(192) ref ped(01350) na nota fisca em bs_notas
+23/02/22 - 01:34:23 - Resultado da atualizacao: (SE PEDIDO = 01350) 0
+23/02/22 - 01:34:23 - GERANDO PARCELAS PARA O PEDIDO (01350)
+23/02/22 - 01:34:23 - Total de parcelas: 2
+23/02/22 - 01:34:23 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:23 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:23 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:23 - ATUALIZANDO dados da REDECARD item(193) ref ped(01348) na nota fisca em bs_notas
+23/02/22 - 01:34:24 - Resultado da atualizacao: (SE PEDIDO = 01348) 0
+23/02/22 - 01:34:24 - GERANDO PARCELAS PARA O PEDIDO (01348)
+23/02/22 - 01:34:24 - Total de parcelas: 4
+23/02/22 - 01:34:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:24 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:34:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:24 - ATUALIZANDO dados da REDECARD item(194) ref ped(01347) na nota fisca em bs_notas
+23/02/22 - 01:34:25 - Resultado da atualizacao: (SE PEDIDO = 01347) 0
+23/02/22 - 01:34:25 - GERANDO PARCELAS PARA O PEDIDO (01347)
+23/02/22 - 01:34:25 - Total de parcelas: 5
+23/02/22 - 01:34:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:25 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:34:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:25 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:34:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:25 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:34:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:25 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:34:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:25 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:34:25 - ATUALIZANDO dados da REDECARD item(195) ref ped(01346) na nota fisca em bs_notas
+23/02/22 - 01:34:26 - Resultado da atualizacao: (SE PEDIDO = 01346) 0
+23/02/22 - 01:34:26 - GERANDO PARCELAS PARA O PEDIDO (01346)
+23/02/22 - 01:34:26 - Total de parcelas: 5
+23/02/22 - 01:34:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:26 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:34:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:26 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:34:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:26 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:34:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:26 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:34:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:26 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:34:26 - ATUALIZANDO dados da REDECARD item(196) ref ped(01353) na nota fisca em bs_notas
+23/02/22 - 01:34:27 - Resultado da atualizacao: (SE PEDIDO = 01353) 0
+23/02/22 - 01:34:27 - GERANDO PARCELAS PARA O PEDIDO (01353)
+23/02/22 - 01:34:27 - ATUALIZANDO dados da REDECARD item(197) ref ped(01354) na nota fisca em bs_notas
+23/02/22 - 01:34:28 - Resultado da atualizacao: (SE PEDIDO = 01354) 0
+23/02/22 - 01:34:28 - GERANDO PARCELAS PARA O PEDIDO (01354)
+23/02/22 - 01:34:28 - Total de parcelas: 2
+23/02/22 - 01:34:28 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:28 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:28 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:28 - ATUALIZANDO dados da REDECARD item(198) ref ped(01358) na nota fisca em bs_notas
+23/02/22 - 01:34:29 - Resultado da atualizacao: (SE PEDIDO = 01358) 0
+23/02/22 - 01:34:29 - GERANDO PARCELAS PARA O PEDIDO (01358)
+23/02/22 - 01:34:29 - Total de parcelas: 4
+23/02/22 - 01:34:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:29 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:34:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:29 - ATUALIZANDO dados da REDECARD item(199) ref ped(01357) na nota fisca em bs_notas
+23/02/22 - 01:34:30 - Resultado da atualizacao: (SE PEDIDO = 01357) 0
+23/02/22 - 01:34:30 - GERANDO PARCELAS PARA O PEDIDO (01357)
+23/02/22 - 01:34:30 - Total de parcelas: 3
+23/02/22 - 01:34:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:30 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:30 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:30 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:30 - ATUALIZANDO dados da REDECARD item(200) ref ped(01356) na nota fisca em bs_notas
+23/02/22 - 01:34:30 - Resultado da atualizacao: (SE PEDIDO = 01356) 0
+23/02/22 - 01:34:30 - GERANDO PARCELAS PARA O PEDIDO (01356)
+23/02/22 - 01:34:30 - ATUALIZANDO dados da REDECARD item(201) ref ped(01370) na nota fisca em bs_notas
+23/02/22 - 01:34:31 - Resultado da atualizacao: (SE PEDIDO = 01370) 0
+23/02/22 - 01:34:31 - GERANDO PARCELAS PARA O PEDIDO (01370)
+23/02/22 - 01:34:31 - Total de parcelas: 5
+23/02/22 - 01:34:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:31 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:34:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:31 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:34:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:31 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:34:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:31 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:34:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:31 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:34:31 - ATUALIZANDO dados da REDECARD item(202) ref ped(01369) na nota fisca em bs_notas
+23/02/22 - 01:34:32 - Resultado da atualizacao: (SE PEDIDO = 01369) 0
+23/02/22 - 01:34:32 - GERANDO PARCELAS PARA O PEDIDO (01369)
+23/02/22 - 01:34:32 - ATUALIZANDO dados da REDECARD item(203) ref ped(01368) na nota fisca em bs_notas
+23/02/22 - 01:34:33 - Resultado da atualizacao: (SE PEDIDO = 01368) 0
+23/02/22 - 01:34:33 - GERANDO PARCELAS PARA O PEDIDO (01368)
+23/02/22 - 01:34:33 - Total de parcelas: 5
+23/02/22 - 01:34:33 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:33 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:34:33 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:33 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:34:33 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:33 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:34:33 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:33 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:34:33 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:33 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:34:33 - ATUALIZANDO dados da REDECARD item(204) ref ped(01366) na nota fisca em bs_notas
+23/02/22 - 01:34:34 - Resultado da atualizacao: (SE PEDIDO = 01366) 0
+23/02/22 - 01:34:34 - GERANDO PARCELAS PARA O PEDIDO (01366)
+23/02/22 - 01:34:34 - ATUALIZANDO dados da REDECARD item(205) ref ped(01365) na nota fisca em bs_notas
+23/02/22 - 01:34:35 - Resultado da atualizacao: (SE PEDIDO = 01365) 0
+23/02/22 - 01:34:35 - GERANDO PARCELAS PARA O PEDIDO (01365)
+23/02/22 - 01:34:35 - Total de parcelas: 2
+23/02/22 - 01:34:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:35 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:35 - ATUALIZANDO dados da REDECARD item(206) ref ped(01364) na nota fisca em bs_notas
+23/02/22 - 01:34:36 - Resultado da atualizacao: (SE PEDIDO = 01364) 0
+23/02/22 - 01:34:36 - GERANDO PARCELAS PARA O PEDIDO (01364)
+23/02/22 - 01:34:36 - Total de parcelas: 5
+23/02/22 - 01:34:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:36 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:34:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:36 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:34:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:36 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:34:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:36 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:34:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:36 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:34:36 - ATUALIZANDO dados da REDECARD item(207) ref ped(01361) na nota fisca em bs_notas
+23/02/22 - 01:34:37 - Resultado da atualizacao: (SE PEDIDO = 01361) 0
+23/02/22 - 01:34:37 - GERANDO PARCELAS PARA O PEDIDO (01361)
+23/02/22 - 01:34:37 - Total de parcelas: 3
+23/02/22 - 01:34:37 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:37 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:37 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:37 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:37 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:37 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:37 - ATUALIZANDO dados da REDECARD item(208) ref ped(01371) na nota fisca em bs_notas
+23/02/22 - 01:34:38 - Resultado da atualizacao: (SE PEDIDO = 01371) 0
+23/02/22 - 01:34:38 - GERANDO PARCELAS PARA O PEDIDO (01371)
+23/02/22 - 01:34:38 - Total de parcelas: 4
+23/02/22 - 01:34:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:38 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:34:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:38 - ATUALIZANDO dados da REDECARD item(209) ref ped(01374) na nota fisca em bs_notas
+23/02/22 - 01:34:38 - Resultado da atualizacao: (SE PEDIDO = 01374) 0
+23/02/22 - 01:34:38 - GERANDO PARCELAS PARA O PEDIDO (01374)
+23/02/22 - 01:34:38 - ATUALIZANDO dados da REDECARD item(210) ref ped(01380) na nota fisca em bs_notas
+23/02/22 - 01:34:39 - Resultado da atualizacao: (SE PEDIDO = 01380) 0
+23/02/22 - 01:34:39 - GERANDO PARCELAS PARA O PEDIDO (01380)
+23/02/22 - 01:34:39 - Total de parcelas: 4
+23/02/22 - 01:34:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:39 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:34:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:39 - ATUALIZANDO dados da REDECARD item(211) ref ped(01379) na nota fisca em bs_notas
+23/02/22 - 01:34:40 - Resultado da atualizacao: (SE PEDIDO = 01379) 0
+23/02/22 - 01:34:40 - GERANDO PARCELAS PARA O PEDIDO (01379)
+23/02/22 - 01:34:40 - ATUALIZANDO dados da REDECARD item(212) ref ped(01385) na nota fisca em bs_notas
+23/02/22 - 01:34:41 - Resultado da atualizacao: (SE PEDIDO = 01385) 0
+23/02/22 - 01:34:41 - GERANDO PARCELAS PARA O PEDIDO (01385)
+23/02/22 - 01:34:41 - ATUALIZANDO dados da REDECARD item(213) ref ped(01386) na nota fisca em bs_notas
+23/02/22 - 01:34:42 - Resultado da atualizacao: (SE PEDIDO = 01386) 0
+23/02/22 - 01:34:42 - GERANDO PARCELAS PARA O PEDIDO (01386)
+23/02/22 - 01:34:42 - Total de parcelas: 3
+23/02/22 - 01:34:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:42 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:42 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:42 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:42 - ATUALIZANDO dados da REDECARD item(214) ref ped(01387) na nota fisca em bs_notas
+23/02/22 - 01:34:43 - Resultado da atualizacao: (SE PEDIDO = 01387) 0
+23/02/22 - 01:34:43 - GERANDO PARCELAS PARA O PEDIDO (01387)
+23/02/22 - 01:34:43 - ATUALIZANDO dados da REDECARD item(215) ref ped(01397) na nota fisca em bs_notas
+23/02/22 - 01:34:44 - Resultado da atualizacao: (SE PEDIDO = 01397) 0
+23/02/22 - 01:34:44 - GERANDO PARCELAS PARA O PEDIDO (01397)
+23/02/22 - 01:34:44 - Total de parcelas: 2
+23/02/22 - 01:34:44 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:44 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:44 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:44 - ATUALIZANDO dados da REDECARD item(216) ref ped(01396) na nota fisca em bs_notas
+23/02/22 - 01:34:44 - Resultado da atualizacao: (SE PEDIDO = 01396) 0
+23/02/22 - 01:34:44 - GERANDO PARCELAS PARA O PEDIDO (01396)
+23/02/22 - 01:34:44 - Total de parcelas: 3
+23/02/22 - 01:34:44 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:44 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:44 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:44 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:44 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:44 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:44 - ATUALIZANDO dados da REDECARD item(217) ref ped(01393) na nota fisca em bs_notas
+23/02/22 - 01:34:45 - Resultado da atualizacao: (SE PEDIDO = 01393) 0
+23/02/22 - 01:34:45 - GERANDO PARCELAS PARA O PEDIDO (01393)
+23/02/22 - 01:34:45 - Total de parcelas: 2
+23/02/22 - 01:34:45 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:45 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:45 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:45 - ATUALIZANDO dados da REDECARD item(218) ref ped(01390) na nota fisca em bs_notas
+23/02/22 - 01:34:46 - Resultado da atualizacao: (SE PEDIDO = 01390) 0
+23/02/22 - 01:34:46 - GERANDO PARCELAS PARA O PEDIDO (01390)
+23/02/22 - 01:34:46 - ATUALIZANDO dados da REDECARD item(219) ref ped(01389) na nota fisca em bs_notas
+23/02/22 - 01:34:47 - Resultado da atualizacao: (SE PEDIDO = 01389) 0
+23/02/22 - 01:34:47 - GERANDO PARCELAS PARA O PEDIDO (01389)
+23/02/22 - 01:34:47 - Total de parcelas: 4
+23/02/22 - 01:34:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:47 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:34:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:47 - ATUALIZANDO dados da REDECARD item(220) ref ped(01398) na nota fisca em bs_notas
+23/02/22 - 01:34:48 - Resultado da atualizacao: (SE PEDIDO = 01398) 0
+23/02/22 - 01:34:48 - GERANDO PARCELAS PARA O PEDIDO (01398)
+23/02/22 - 01:34:48 - ATUALIZANDO dados da REDECARD item(221) ref ped(01400) na nota fisca em bs_notas
+23/02/22 - 01:34:49 - Resultado da atualizacao: (SE PEDIDO = 01400) 0
+23/02/22 - 01:34:49 - GERANDO PARCELAS PARA O PEDIDO (01400)
+23/02/22 - 01:34:49 - ATUALIZANDO dados da REDECARD item(222) ref ped(01407) na nota fisca em bs_notas
+23/02/22 - 01:34:50 - Resultado da atualizacao: (SE PEDIDO = 01407) 0
+23/02/22 - 01:34:50 - GERANDO PARCELAS PARA O PEDIDO (01407)
+23/02/22 - 01:34:50 - Total de parcelas: 2
+23/02/22 - 01:34:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:50 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:50 - ATUALIZANDO dados da REDECARD item(223) ref ped(01406) na nota fisca em bs_notas
+23/02/22 - 01:34:51 - Resultado da atualizacao: (SE PEDIDO = 01406) 0
+23/02/22 - 01:34:51 - GERANDO PARCELAS PARA O PEDIDO (01406)
+23/02/22 - 01:34:51 - Total de parcelas: 2
+23/02/22 - 01:34:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:51 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:51 - ATUALIZANDO dados da REDECARD item(224) ref ped(01405) na nota fisca em bs_notas
+23/02/22 - 01:34:51 - Resultado da atualizacao: (SE PEDIDO = 01405) 0
+23/02/22 - 01:34:51 - GERANDO PARCELAS PARA O PEDIDO (01405)
+23/02/22 - 01:34:51 - Total de parcelas: 4
+23/02/22 - 01:34:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:51 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:34:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:51 - ATUALIZANDO dados da REDECARD item(225) ref ped(01404) na nota fisca em bs_notas
+23/02/22 - 01:34:52 - Resultado da atualizacao: (SE PEDIDO = 01404) 0
+23/02/22 - 01:34:52 - GERANDO PARCELAS PARA O PEDIDO (01404)
+23/02/22 - 01:34:52 - Total de parcelas: 3
+23/02/22 - 01:34:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:52 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:52 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:52 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:52 - ATUALIZANDO dados da REDECARD item(226) ref ped(01411) na nota fisca em bs_notas
+23/02/22 - 01:34:53 - Resultado da atualizacao: (SE PEDIDO = 01411) 0
+23/02/22 - 01:34:53 - GERANDO PARCELAS PARA O PEDIDO (01411)
+23/02/22 - 01:34:53 - Total de parcelas: 5
+23/02/22 - 01:34:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:53 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:34:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:53 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:34:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:53 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:34:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:53 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:34:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:53 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:34:53 - ATUALIZANDO dados da REDECARD item(227) ref ped(01417) na nota fisca em bs_notas
+23/02/22 - 01:34:54 - Resultado da atualizacao: (SE PEDIDO = 01417) 0
+23/02/22 - 01:34:54 - GERANDO PARCELAS PARA O PEDIDO (01417)
+23/02/22 - 01:34:54 - Total de parcelas: 2
+23/02/22 - 01:34:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:54 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:54 - ATUALIZANDO dados da REDECARD item(228) ref ped(01416) na nota fisca em bs_notas
+23/02/22 - 01:34:55 - Resultado da atualizacao: (SE PEDIDO = 01416) 0
+23/02/22 - 01:34:55 - GERANDO PARCELAS PARA O PEDIDO (01416)
+23/02/22 - 01:34:55 - Total de parcelas: 2
+23/02/22 - 01:34:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:55 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:55 - ATUALIZANDO dados da REDECARD item(229) ref ped(01412) na nota fisca em bs_notas
+23/02/22 - 01:34:56 - Resultado da atualizacao: (SE PEDIDO = 01412) 0
+23/02/22 - 01:34:56 - GERANDO PARCELAS PARA O PEDIDO (01412)
+23/02/22 - 01:34:56 - Total de parcelas: 5
+23/02/22 - 01:34:56 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:56 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:34:56 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:56 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:34:56 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:56 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:34:56 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:56 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:34:56 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:56 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:34:56 - ATUALIZANDO dados da REDECARD item(230) ref ped(01419) na nota fisca em bs_notas
+23/02/22 - 01:34:57 - Resultado da atualizacao: (SE PEDIDO = 01419) 0
+23/02/22 - 01:34:57 - GERANDO PARCELAS PARA O PEDIDO (01419)
+23/02/22 - 01:34:57 - Total de parcelas: 2
+23/02/22 - 01:34:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:57 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:57 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:57 - ATUALIZANDO dados da REDECARD item(231) ref ped(01422) na nota fisca em bs_notas
+23/02/22 - 01:34:58 - Resultado da atualizacao: (SE PEDIDO = 01422) 0
+23/02/22 - 01:34:58 - GERANDO PARCELAS PARA O PEDIDO (01422)
+23/02/22 - 01:34:58 - ATUALIZANDO dados da REDECARD item(232) ref ped(01421) na nota fisca em bs_notas
+23/02/22 - 01:34:59 - Resultado da atualizacao: (SE PEDIDO = 01421) 0
+23/02/22 - 01:34:59 - GERANDO PARCELAS PARA O PEDIDO (01421)
+23/02/22 - 01:34:59 - Total de parcelas: 3
+23/02/22 - 01:34:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:59 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:34:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:59 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:34:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:59 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:34:59 - ATUALIZANDO dados da REDECARD item(233) ref ped(01429) na nota fisca em bs_notas
+23/02/22 - 01:34:59 - Resultado da atualizacao: (SE PEDIDO = 01429) 0
+23/02/22 - 01:34:59 - GERANDO PARCELAS PARA O PEDIDO (01429)
+23/02/22 - 01:34:59 - Total de parcelas: 2
+23/02/22 - 01:34:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:59 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:34:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:34:59 - ATUALIZANDO dados da REDECARD item(234) ref ped(01425) na nota fisca em bs_notas
+23/02/22 - 01:35:00 - Resultado da atualizacao: (SE PEDIDO = 01425) 0
+23/02/22 - 01:35:00 - GERANDO PARCELAS PARA O PEDIDO (01425)
+23/02/22 - 01:35:00 - Total de parcelas: 4
+23/02/22 - 01:35:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:00 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:35:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:00 - ATUALIZANDO dados da REDECARD item(235) ref ped(01426) na nota fisca em bs_notas
+23/02/22 - 01:35:01 - Resultado da atualizacao: (SE PEDIDO = 01426) 0
+23/02/22 - 01:35:01 - GERANDO PARCELAS PARA O PEDIDO (01426)
+23/02/22 - 01:35:01 - ATUALIZANDO dados da REDECARD item(236) ref ped(01427) na nota fisca em bs_notas
+23/02/22 - 01:35:02 - Resultado da atualizacao: (SE PEDIDO = 01427) 0
+23/02/22 - 01:35:02 - GERANDO PARCELAS PARA O PEDIDO (01427)
+23/02/22 - 01:35:02 - Total de parcelas: 3
+23/02/22 - 01:35:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:02 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:02 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:35:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:02 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:35:02 - ATUALIZANDO dados da REDECARD item(237) ref ped(01428) na nota fisca em bs_notas
+23/02/22 - 01:35:03 - Resultado da atualizacao: (SE PEDIDO = 01428) 0
+23/02/22 - 01:35:03 - GERANDO PARCELAS PARA O PEDIDO (01428)
+23/02/22 - 01:35:03 - ATUALIZANDO dados da REDECARD item(238) ref ped(01424) na nota fisca em bs_notas
+23/02/22 - 01:35:04 - Resultado da atualizacao: (SE PEDIDO = 01424) 0
+23/02/22 - 01:35:04 - GERANDO PARCELAS PARA O PEDIDO (01424)
+23/02/22 - 01:35:04 - Total de parcelas: 3
+23/02/22 - 01:35:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:04 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:04 - ATUALIZANDO dados da REDECARD item(239) ref ped(01433) na nota fisca em bs_notas
+23/02/22 - 01:35:05 - Resultado da atualizacao: (SE PEDIDO = 01433) 0
+23/02/22 - 01:35:05 - GERANDO PARCELAS PARA O PEDIDO (01433)
+23/02/22 - 01:35:05 - Total de parcelas: 2
+23/02/22 - 01:35:05 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:05 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:05 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:05 - ATUALIZANDO dados da REDECARD item(240) ref ped(01431) na nota fisca em bs_notas
+23/02/22 - 01:35:06 - Resultado da atualizacao: (SE PEDIDO = 01431) 0
+23/02/22 - 01:35:06 - GERANDO PARCELAS PARA O PEDIDO (01431)
+23/02/22 - 01:35:06 - Total de parcelas: 3
+23/02/22 - 01:35:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:06 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:06 - ATUALIZANDO dados da REDECARD item(241) ref ped(01434) na nota fisca em bs_notas
+23/02/22 - 01:35:06 - Resultado da atualizacao: (SE PEDIDO = 01434) 0
+23/02/22 - 01:35:06 - GERANDO PARCELAS PARA O PEDIDO (01434)
+23/02/22 - 01:35:06 - Total de parcelas: 3
+23/02/22 - 01:35:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:06 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:06 - ATUALIZANDO dados da REDECARD item(242) ref ped(01438) na nota fisca em bs_notas
+23/02/22 - 01:35:07 - Resultado da atualizacao: (SE PEDIDO = 01438) 0
+23/02/22 - 01:35:07 - GERANDO PARCELAS PARA O PEDIDO (01438)
+23/02/22 - 01:35:07 - ATUALIZANDO dados da REDECARD item(243) ref ped(01436) na nota fisca em bs_notas
+23/02/22 - 01:35:08 - Resultado da atualizacao: (SE PEDIDO = 01436) 0
+23/02/22 - 01:35:08 - GERANDO PARCELAS PARA O PEDIDO (01436)
+23/02/22 - 01:35:08 - ATUALIZANDO dados da REDECARD item(244) ref ped(01443) na nota fisca em bs_notas
+23/02/22 - 01:35:09 - Resultado da atualizacao: (SE PEDIDO = 01443) 0
+23/02/22 - 01:35:09 - GERANDO PARCELAS PARA O PEDIDO (01443)
+23/02/22 - 01:35:09 - Total de parcelas: 2
+23/02/22 - 01:35:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:09 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:09 - ATUALIZANDO dados da REDECARD item(245) ref ped(01446) na nota fisca em bs_notas
+23/02/22 - 01:35:10 - Resultado da atualizacao: (SE PEDIDO = 01446) 0
+23/02/22 - 01:35:10 - GERANDO PARCELAS PARA O PEDIDO (01446)
+23/02/22 - 01:35:10 - Total de parcelas: 3
+23/02/22 - 01:35:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:10 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:10 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:35:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:10 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:35:10 - ATUALIZANDO dados da REDECARD item(246) ref ped(01448) na nota fisca em bs_notas
+23/02/22 - 01:35:11 - Resultado da atualizacao: (SE PEDIDO = 01448) 0
+23/02/22 - 01:35:11 - GERANDO PARCELAS PARA O PEDIDO (01448)
+23/02/22 - 01:35:11 - ATUALIZANDO dados da REDECARD item(247) ref ped(01451) na nota fisca em bs_notas
+23/02/22 - 01:35:11 - Resultado da atualizacao: (SE PEDIDO = 01451) 0
+23/02/22 - 01:35:11 - GERANDO PARCELAS PARA O PEDIDO (01451)
+23/02/22 - 01:35:11 - Total de parcelas: 2
+23/02/22 - 01:35:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:11 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:12 - ATUALIZANDO dados da REDECARD item(248) ref ped(01453) na nota fisca em bs_notas
+23/02/22 - 01:35:12 - Resultado da atualizacao: (SE PEDIDO = 01453) 0
+23/02/22 - 01:35:12 - GERANDO PARCELAS PARA O PEDIDO (01453)
+23/02/22 - 01:35:12 - ATUALIZANDO dados da REDECARD item(249) ref ped(01468) na nota fisca em bs_notas
+23/02/22 - 01:35:13 - Resultado da atualizacao: (SE PEDIDO = 01468) 0
+23/02/22 - 01:35:13 - GERANDO PARCELAS PARA O PEDIDO (01468)
+23/02/22 - 01:35:13 - ATUALIZANDO dados da REDECARD item(250) ref ped(01467) na nota fisca em bs_notas
+23/02/22 - 01:35:14 - Resultado da atualizacao: (SE PEDIDO = 01467) 0
+23/02/22 - 01:35:14 - GERANDO PARCELAS PARA O PEDIDO (01467)
+23/02/22 - 01:35:14 - Total de parcelas: 4
+23/02/22 - 01:35:14 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:14 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:35:14 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:14 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:14 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:14 - ATUALIZANDO dados da REDECARD item(251) ref ped(01466) na nota fisca em bs_notas
+23/02/22 - 01:35:15 - Resultado da atualizacao: (SE PEDIDO = 01466) 0
+23/02/22 - 01:35:15 - GERANDO PARCELAS PARA O PEDIDO (01466)
+23/02/22 - 01:35:15 - Total de parcelas: 2
+23/02/22 - 01:35:15 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:15 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:15 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:15 - ATUALIZANDO dados da REDECARD item(252) ref ped(01465) na nota fisca em bs_notas
+23/02/22 - 01:35:16 - Resultado da atualizacao: (SE PEDIDO = 01465) 0
+23/02/22 - 01:35:16 - GERANDO PARCELAS PARA O PEDIDO (01465)
+23/02/22 - 01:35:16 - ATUALIZANDO dados da REDECARD item(253) ref ped(01463) na nota fisca em bs_notas
+23/02/22 - 01:35:16 - Resultado da atualizacao: (SE PEDIDO = 01463) 0
+23/02/22 - 01:35:16 - GERANDO PARCELAS PARA O PEDIDO (01463)
+23/02/22 - 01:35:16 - Total de parcelas: 2
+23/02/22 - 01:35:16 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:17 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:17 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:17 - ATUALIZANDO dados da REDECARD item(254) ref ped(01457) na nota fisca em bs_notas
+23/02/22 - 01:35:17 - Resultado da atualizacao: (SE PEDIDO = 01457) 0
+23/02/22 - 01:35:17 - GERANDO PARCELAS PARA O PEDIDO (01457)
+23/02/22 - 01:35:17 - Total de parcelas: 2
+23/02/22 - 01:35:17 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:17 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:17 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:17 - ATUALIZANDO dados da REDECARD item(255) ref ped(01481) na nota fisca em bs_notas
+23/02/22 - 01:35:18 - Resultado da atualizacao: (SE PEDIDO = 01481) 0
+23/02/22 - 01:35:18 - GERANDO PARCELAS PARA O PEDIDO (01481)
+23/02/22 - 01:35:18 - ATUALIZANDO dados da REDECARD item(256) ref ped(01480) na nota fisca em bs_notas
+23/02/22 - 01:35:19 - Resultado da atualizacao: (SE PEDIDO = 01480) 0
+23/02/22 - 01:35:19 - GERANDO PARCELAS PARA O PEDIDO (01480)
+23/02/22 - 01:35:19 - Total de parcelas: 2
+23/02/22 - 01:35:19 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:19 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:19 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:19 - ATUALIZANDO dados da REDECARD item(257) ref ped(01477) na nota fisca em bs_notas
+23/02/22 - 01:35:20 - Resultado da atualizacao: (SE PEDIDO = 01477) 0
+23/02/22 - 01:35:20 - GERANDO PARCELAS PARA O PEDIDO (01477)
+23/02/22 - 01:35:20 - Total de parcelas: 2
+23/02/22 - 01:35:20 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:20 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:20 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:20 - ATUALIZANDO dados da REDECARD item(258) ref ped(01476) na nota fisca em bs_notas
+23/02/22 - 01:35:21 - Resultado da atualizacao: (SE PEDIDO = 01476) 0
+23/02/22 - 01:35:21 - GERANDO PARCELAS PARA O PEDIDO (01476)
+23/02/22 - 01:35:21 - Total de parcelas: 3
+23/02/22 - 01:35:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:21 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:21 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:35:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:21 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:35:21 - ATUALIZANDO dados da REDECARD item(259) ref ped(01475) na nota fisca em bs_notas
+23/02/22 - 01:35:22 - Resultado da atualizacao: (SE PEDIDO = 01475) 0
+23/02/22 - 01:35:22 - GERANDO PARCELAS PARA O PEDIDO (01475)
+23/02/22 - 01:35:22 - Total de parcelas: 2
+23/02/22 - 01:35:22 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:22 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:22 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:22 - ATUALIZANDO dados da REDECARD item(260) ref ped(01474) na nota fisca em bs_notas
+23/02/22 - 01:35:23 - Resultado da atualizacao: (SE PEDIDO = 01474) 0
+23/02/22 - 01:35:23 - GERANDO PARCELAS PARA O PEDIDO (01474)
+23/02/22 - 01:35:23 - ATUALIZANDO dados da REDECARD item(261) ref ped(01472) na nota fisca em bs_notas
+23/02/22 - 01:35:23 - Resultado da atualizacao: (SE PEDIDO = 01472) 0
+23/02/22 - 01:35:23 - GERANDO PARCELAS PARA O PEDIDO (01472)
+23/02/22 - 01:35:23 - Total de parcelas: 2
+23/02/22 - 01:35:23 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:23 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:23 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:23 - ATUALIZANDO dados da REDECARD item(262) ref ped(01470) na nota fisca em bs_notas
+23/02/22 - 01:35:24 - Resultado da atualizacao: (SE PEDIDO = 01470) 0
+23/02/22 - 01:35:24 - GERANDO PARCELAS PARA O PEDIDO (01470)
+23/02/22 - 01:35:24 - Total de parcelas: 5
+23/02/22 - 01:35:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:24 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:35:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:24 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:35:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:24 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:35:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:24 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:35:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:24 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:35:24 - ATUALIZANDO dados da REDECARD item(263) ref ped(01469) na nota fisca em bs_notas
+23/02/22 - 01:35:25 - Resultado da atualizacao: (SE PEDIDO = 01469) 0
+23/02/22 - 01:35:25 - GERANDO PARCELAS PARA O PEDIDO (01469)
+23/02/22 - 01:35:25 - Total de parcelas: 3
+23/02/22 - 01:35:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:25 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:25 - ATUALIZANDO dados da REDECARD item(264) ref ped(01496) na nota fisca em bs_notas
+23/02/22 - 01:35:26 - Resultado da atualizacao: (SE PEDIDO = 01496) 0
+23/02/22 - 01:35:26 - GERANDO PARCELAS PARA O PEDIDO (01496)
+23/02/22 - 01:35:26 - ATUALIZANDO dados da REDECARD item(265) ref ped(01495) na nota fisca em bs_notas
+23/02/22 - 01:35:27 - Resultado da atualizacao: (SE PEDIDO = 01495) 0
+23/02/22 - 01:35:27 - GERANDO PARCELAS PARA O PEDIDO (01495)
+23/02/22 - 01:35:27 - Total de parcelas: 3
+23/02/22 - 01:35:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:27 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:27 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:35:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:27 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:35:27 - ATUALIZANDO dados da REDECARD item(266) ref ped(01494) na nota fisca em bs_notas
+23/02/22 - 01:35:28 - Resultado da atualizacao: (SE PEDIDO = 01494) 0
+23/02/22 - 01:35:28 - GERANDO PARCELAS PARA O PEDIDO (01494)
+23/02/22 - 01:35:28 - Total de parcelas: 5
+23/02/22 - 01:35:28 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:28 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:35:28 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:28 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:35:28 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:28 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:35:28 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:28 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:35:28 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:28 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:35:28 - ATUALIZANDO dados da REDECARD item(267) ref ped(01493) na nota fisca em bs_notas
+23/02/22 - 01:35:29 - Resultado da atualizacao: (SE PEDIDO = 01493) 0
+23/02/22 - 01:35:29 - GERANDO PARCELAS PARA O PEDIDO (01493)
+23/02/22 - 01:35:29 - ATUALIZANDO dados da REDECARD item(268) ref ped(01491) na nota fisca em bs_notas
+23/02/22 - 01:35:29 - Resultado da atualizacao: (SE PEDIDO = 01491) 0
+23/02/22 - 01:35:29 - GERANDO PARCELAS PARA O PEDIDO (01491)
+23/02/22 - 01:35:29 - ATUALIZANDO dados da REDECARD item(269) ref ped(01490) na nota fisca em bs_notas
+23/02/22 - 01:35:30 - Resultado da atualizacao: (SE PEDIDO = 01490) 0
+23/02/22 - 01:35:30 - GERANDO PARCELAS PARA O PEDIDO (01490)
+23/02/22 - 01:35:30 - Total de parcelas: 5
+23/02/22 - 01:35:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:30 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:35:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:30 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:35:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:30 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:35:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:30 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:35:30 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:30 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:35:30 - ATUALIZANDO dados da REDECARD item(270) ref ped(01489) na nota fisca em bs_notas
+23/02/22 - 01:35:31 - Resultado da atualizacao: (SE PEDIDO = 01489) 0
+23/02/22 - 01:35:31 - GERANDO PARCELAS PARA O PEDIDO (01489)
+23/02/22 - 01:35:31 - Total de parcelas: 4
+23/02/22 - 01:35:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:31 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:35:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:31 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:31 - ATUALIZANDO dados da REDECARD item(271) ref ped(01487) na nota fisca em bs_notas
+23/02/22 - 01:35:32 - Resultado da atualizacao: (SE PEDIDO = 01487) 0
+23/02/22 - 01:35:32 - GERANDO PARCELAS PARA O PEDIDO (01487)
+23/02/22 - 01:35:32 - ATUALIZANDO dados da REDECARD item(272) ref ped(01486) na nota fisca em bs_notas
+23/02/22 - 01:35:33 - Resultado da atualizacao: (SE PEDIDO = 01486) 0
+23/02/22 - 01:35:33 - GERANDO PARCELAS PARA O PEDIDO (01486)
+23/02/22 - 01:35:33 - ATUALIZANDO dados da REDECARD item(273) ref ped(01484) na nota fisca em bs_notas
+23/02/22 - 01:35:34 - Resultado da atualizacao: (SE PEDIDO = 01484) 0
+23/02/22 - 01:35:34 - GERANDO PARCELAS PARA O PEDIDO (01484)
+23/02/22 - 01:35:34 - Total de parcelas: 2
+23/02/22 - 01:35:34 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:34 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:34 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:34 - ATUALIZANDO dados da REDECARD item(274) ref ped(01485) na nota fisca em bs_notas
+23/02/22 - 01:35:35 - Resultado da atualizacao: (SE PEDIDO = 01485) 0
+23/02/22 - 01:35:35 - GERANDO PARCELAS PARA O PEDIDO (01485)
+23/02/22 - 01:35:35 - Total de parcelas: 4
+23/02/22 - 01:35:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:35 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:35:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:35 - ATUALIZANDO dados da REDECARD item(275) ref ped(01507) na nota fisca em bs_notas
+23/02/22 - 01:35:36 - Resultado da atualizacao: (SE PEDIDO = 01507) 0
+23/02/22 - 01:35:36 - GERANDO PARCELAS PARA O PEDIDO (01507)
+23/02/22 - 01:35:36 - Total de parcelas: 2
+23/02/22 - 01:35:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:36 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:36 - ATUALIZANDO dados da REDECARD item(276) ref ped(01504) na nota fisca em bs_notas
+23/02/22 - 01:35:37 - Resultado da atualizacao: (SE PEDIDO = 01504) 0
+23/02/22 - 01:35:37 - GERANDO PARCELAS PARA O PEDIDO (01504)
+23/02/22 - 01:35:37 - Total de parcelas: 2
+23/02/22 - 01:35:37 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:37 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:37 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:37 - ATUALIZANDO dados da REDECARD item(277) ref ped(01501) na nota fisca em bs_notas
+23/02/22 - 01:35:38 - Resultado da atualizacao: (SE PEDIDO = 01501) 0
+23/02/22 - 01:35:38 - GERANDO PARCELAS PARA O PEDIDO (01501)
+23/02/22 - 01:35:38 - Total de parcelas: 5
+23/02/22 - 01:35:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:38 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:35:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:38 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:35:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:38 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:35:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:38 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:35:38 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:38 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:35:38 - ATUALIZANDO dados da REDECARD item(278) ref ped(01500) na nota fisca em bs_notas
+23/02/22 - 01:35:38 - Resultado da atualizacao: (SE PEDIDO = 01500) 0
+23/02/22 - 01:35:38 - GERANDO PARCELAS PARA O PEDIDO (01500)
+23/02/22 - 01:35:38 - ATUALIZANDO dados da REDECARD item(279) ref ped(01498) na nota fisca em bs_notas
+23/02/22 - 01:35:39 - Resultado da atualizacao: (SE PEDIDO = 01498) 0
+23/02/22 - 01:35:39 - GERANDO PARCELAS PARA O PEDIDO (01498)
+23/02/22 - 01:35:39 - Total de parcelas: 5
+23/02/22 - 01:35:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:39 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:35:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:39 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:35:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:39 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:35:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:39 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:35:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:39 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:35:39 - ATUALIZANDO dados da REDECARD item(280) ref ped(01502) na nota fisca em bs_notas
+23/02/22 - 01:35:40 - Resultado da atualizacao: (SE PEDIDO = 01502) 0
+23/02/22 - 01:35:40 - GERANDO PARCELAS PARA O PEDIDO (01502)
+23/02/22 - 01:35:40 - Total de parcelas: 2
+23/02/22 - 01:35:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:40 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:40 - ATUALIZANDO dados da REDECARD item(281) ref ped(01515) na nota fisca em bs_notas
+23/02/22 - 01:35:41 - Resultado da atualizacao: (SE PEDIDO = 01515) 0
+23/02/22 - 01:35:41 - GERANDO PARCELAS PARA O PEDIDO (01515)
+23/02/22 - 01:35:41 - Total de parcelas: 3
+23/02/22 - 01:35:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:41 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:41 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:35:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:41 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:35:41 - ATUALIZANDO dados da REDECARD item(282) ref ped(01513) na nota fisca em bs_notas
+23/02/22 - 01:35:42 - Resultado da atualizacao: (SE PEDIDO = 01513) 0
+23/02/22 - 01:35:42 - GERANDO PARCELAS PARA O PEDIDO (01513)
+23/02/22 - 01:35:42 - Total de parcelas: 2
+23/02/22 - 01:35:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:42 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:42 - ATUALIZANDO dados da REDECARD item(283) ref ped(01512) na nota fisca em bs_notas
+23/02/22 - 01:35:43 - Resultado da atualizacao: (SE PEDIDO = 01512) 0
+23/02/22 - 01:35:43 - GERANDO PARCELAS PARA O PEDIDO (01512)
+23/02/22 - 01:35:43 - Total de parcelas: 5
+23/02/22 - 01:35:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:43 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:35:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:43 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:35:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:43 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:35:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:43 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:35:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:43 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:35:43 - ATUALIZANDO dados da REDECARD item(284) ref ped(01511) na nota fisca em bs_notas
+23/02/22 - 01:35:44 - Resultado da atualizacao: (SE PEDIDO = 01511) 0
+23/02/22 - 01:35:44 - GERANDO PARCELAS PARA O PEDIDO (01511)
+23/02/22 - 01:35:44 - Total de parcelas: 2
+23/02/22 - 01:35:44 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:44 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:44 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:44 - ATUALIZANDO dados da REDECARD item(285) ref ped(01510) na nota fisca em bs_notas
+23/02/22 - 01:35:45 - Resultado da atualizacao: (SE PEDIDO = 01510) 0
+23/02/22 - 01:35:45 - GERANDO PARCELAS PARA O PEDIDO (01510)
+23/02/22 - 01:35:45 - Total de parcelas: 2
+23/02/22 - 01:35:45 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:45 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:45 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:45 - ATUALIZANDO dados da REDECARD item(286) ref ped(01509) na nota fisca em bs_notas
+23/02/22 - 01:35:46 - Resultado da atualizacao: (SE PEDIDO = 01509) 0
+23/02/22 - 01:35:46 - GERANDO PARCELAS PARA O PEDIDO (01509)
+23/02/22 - 01:35:46 - ATUALIZANDO dados da REDECARD item(287) ref ped(01524) na nota fisca em bs_notas
+23/02/22 - 01:35:47 - Resultado da atualizacao: (SE PEDIDO = 01524) 0
+23/02/22 - 01:35:47 - GERANDO PARCELAS PARA O PEDIDO (01524)
+23/02/22 - 01:35:47 - Total de parcelas: 2
+23/02/22 - 01:35:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:47 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:47 - ATUALIZANDO dados da REDECARD item(288) ref ped(01523) na nota fisca em bs_notas
+23/02/22 - 01:35:47 - Resultado da atualizacao: (SE PEDIDO = 01523) 0
+23/02/22 - 01:35:47 - GERANDO PARCELAS PARA O PEDIDO (01523)
+23/02/22 - 01:35:47 - ATUALIZANDO dados da REDECARD item(289) ref ped(01518) na nota fisca em bs_notas
+23/02/22 - 01:35:48 - Resultado da atualizacao: (SE PEDIDO = 01518) 0
+23/02/22 - 01:35:48 - GERANDO PARCELAS PARA O PEDIDO (01518)
+23/02/22 - 01:35:48 - Total de parcelas: 2
+23/02/22 - 01:35:48 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:48 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:48 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:48 - ATUALIZANDO dados da REDECARD item(290) ref ped(01525) na nota fisca em bs_notas
+23/02/22 - 01:35:49 - Resultado da atualizacao: (SE PEDIDO = 01525) 0
+23/02/22 - 01:35:49 - GERANDO PARCELAS PARA O PEDIDO (01525)
+23/02/22 - 01:35:49 - ATUALIZANDO dados da REDECARD item(291) ref ped(01527) na nota fisca em bs_notas
+23/02/22 - 01:35:50 - Resultado da atualizacao: (SE PEDIDO = 01527) 0
+23/02/22 - 01:35:50 - GERANDO PARCELAS PARA O PEDIDO (01527)
+23/02/22 - 01:35:50 - Total de parcelas: 2
+23/02/22 - 01:35:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:50 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:35:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:50 - ATUALIZANDO dados da REDECARD item(292) ref ped(01531) na nota fisca em bs_notas
+23/02/22 - 01:35:51 - Resultado da atualizacao: (SE PEDIDO = 01531) 0
+23/02/22 - 01:35:51 - GERANDO PARCELAS PARA O PEDIDO (01531)
+23/02/22 - 01:35:51 - Total de parcelas: 3
+23/02/22 - 01:35:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:51 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:51 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:35:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:51 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:35:51 - ATUALIZANDO dados da REDECARD item(293) ref ped(01537) na nota fisca em bs_notas
+23/02/22 - 01:35:52 - Resultado da atualizacao: (SE PEDIDO = 01537) 0
+23/02/22 - 01:35:52 - GERANDO PARCELAS PARA O PEDIDO (01537)
+23/02/22 - 01:35:52 - Total de parcelas: 3
+23/02/22 - 01:35:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:52 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:52 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:35:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:52 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:35:52 - ATUALIZANDO dados da REDECARD item(294) ref ped(01536) na nota fisca em bs_notas
+23/02/22 - 01:35:53 - Resultado da atualizacao: (SE PEDIDO = 01536) 0
+23/02/22 - 01:35:53 - GERANDO PARCELAS PARA O PEDIDO (01536)
+23/02/22 - 01:35:53 - Total de parcelas: 5
+23/02/22 - 01:35:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:53 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:35:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:53 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:35:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:53 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:35:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:53 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:35:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:53 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:35:53 - ATUALIZANDO dados da REDECARD item(295) ref ped(01535) na nota fisca em bs_notas
+23/02/22 - 01:35:54 - Resultado da atualizacao: (SE PEDIDO = 01535) 0
+23/02/22 - 01:35:54 - GERANDO PARCELAS PARA O PEDIDO (01535)
+23/02/22 - 01:35:54 - Total de parcelas: 3
+23/02/22 - 01:35:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:54 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:54 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:35:54 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:54 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:35:54 - ATUALIZANDO dados da REDECARD item(296) ref ped(01534) na nota fisca em bs_notas
+23/02/22 - 01:35:55 - Resultado da atualizacao: (SE PEDIDO = 01534) 0
+23/02/22 - 01:35:55 - GERANDO PARCELAS PARA O PEDIDO (01534)
+23/02/22 - 01:35:55 - Total de parcelas: 5
+23/02/22 - 01:35:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:55 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:35:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:55 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:35:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:55 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:35:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:55 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:35:55 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:55 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:35:55 - ATUALIZANDO dados da REDECARD item(297) ref ped(01539) na nota fisca em bs_notas
+23/02/22 - 01:35:56 - Resultado da atualizacao: (SE PEDIDO = 01539) 0
+23/02/22 - 01:35:56 - GERANDO PARCELAS PARA O PEDIDO (01539)
+23/02/22 - 01:35:56 - ATUALIZANDO dados da REDECARD item(298) ref ped(01541) na nota fisca em bs_notas
+23/02/22 - 01:35:57 - Resultado da atualizacao: (SE PEDIDO = 01541) 0
+23/02/22 - 01:35:57 - GERANDO PARCELAS PARA O PEDIDO (01541)
+23/02/22 - 01:35:57 - ATUALIZANDO dados da REDECARD item(299) ref ped(01542) na nota fisca em bs_notas
+23/02/22 - 01:35:58 - Resultado da atualizacao: (SE PEDIDO = 01542) 0
+23/02/22 - 01:35:58 - GERANDO PARCELAS PARA O PEDIDO (01542)
+23/02/22 - 01:35:58 - Total de parcelas: 3
+23/02/22 - 01:35:58 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:58 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:58 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:58 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:58 - ATUALIZANDO dados da REDECARD item(300) ref ped(01543) na nota fisca em bs_notas
+23/02/22 - 01:35:58 - Resultado da atualizacao: (SE PEDIDO = 01543) 0
+23/02/22 - 01:35:58 - GERANDO PARCELAS PARA O PEDIDO (01543)
+23/02/22 - 01:35:58 - ATUALIZANDO dados da REDECARD item(301) ref ped(01544) na nota fisca em bs_notas
+23/02/22 - 01:35:59 - Resultado da atualizacao: (SE PEDIDO = 01544) 0
+23/02/22 - 01:35:59 - GERANDO PARCELAS PARA O PEDIDO (01544)
+23/02/22 - 01:35:59 - Total de parcelas: 3
+23/02/22 - 01:35:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:59 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:35:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:59 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:35:59 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:35:59 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:35:59 - ATUALIZANDO dados da REDECARD item(302) ref ped(01545) na nota fisca em bs_notas
+23/02/22 - 01:36:00 - Resultado da atualizacao: (SE PEDIDO = 01545) 0
+23/02/22 - 01:36:00 - GERANDO PARCELAS PARA O PEDIDO (01545)
+23/02/22 - 01:36:00 - Total de parcelas: 2
+23/02/22 - 01:36:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:00 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:00 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:00 - ATUALIZANDO dados da REDECARD item(303) ref ped(01547) na nota fisca em bs_notas
+23/02/22 - 01:36:01 - Resultado da atualizacao: (SE PEDIDO = 01547) 0
+23/02/22 - 01:36:01 - GERANDO PARCELAS PARA O PEDIDO (01547)
+23/02/22 - 01:36:01 - Total de parcelas: 4
+23/02/22 - 01:36:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:01 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:36:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:01 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:01 - ATUALIZANDO dados da REDECARD item(304) ref ped(01546) na nota fisca em bs_notas
+23/02/22 - 01:36:02 - Resultado da atualizacao: (SE PEDIDO = 01546) 0
+23/02/22 - 01:36:02 - GERANDO PARCELAS PARA O PEDIDO (01546)
+23/02/22 - 01:36:02 - Total de parcelas: 5
+23/02/22 - 01:36:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:02 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:02 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:02 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:02 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:02 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:02 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:02 - ATUALIZANDO dados da REDECARD item(305) ref ped(01548) na nota fisca em bs_notas
+23/02/22 - 01:36:03 - Resultado da atualizacao: (SE PEDIDO = 01548) 0
+23/02/22 - 01:36:03 - GERANDO PARCELAS PARA O PEDIDO (01548)
+23/02/22 - 01:36:03 - Total de parcelas: 5
+23/02/22 - 01:36:03 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:03 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:03 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:03 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:03 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:03 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:03 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:03 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:03 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:03 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:03 - ATUALIZANDO dados da REDECARD item(306) ref ped(01552) na nota fisca em bs_notas
+23/02/22 - 01:36:04 - Resultado da atualizacao: (SE PEDIDO = 01552) 0
+23/02/22 - 01:36:04 - GERANDO PARCELAS PARA O PEDIDO (01552)
+23/02/22 - 01:36:04 - Total de parcelas: 5
+23/02/22 - 01:36:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:04 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:04 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:04 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:04 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:04 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:04 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:04 - ATUALIZANDO dados da REDECARD item(307) ref ped(01553) na nota fisca em bs_notas
+23/02/22 - 01:36:05 - Resultado da atualizacao: (SE PEDIDO = 01553) 0
+23/02/22 - 01:36:05 - GERANDO PARCELAS PARA O PEDIDO (01553)
+23/02/22 - 01:36:05 - Total de parcelas: 2
+23/02/22 - 01:36:05 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:05 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:05 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:05 - ATUALIZANDO dados da REDECARD item(308) ref ped(01554) na nota fisca em bs_notas
+23/02/22 - 01:36:06 - Resultado da atualizacao: (SE PEDIDO = 01554) 0
+23/02/22 - 01:36:06 - GERANDO PARCELAS PARA O PEDIDO (01554)
+23/02/22 - 01:36:06 - Total de parcelas: 5
+23/02/22 - 01:36:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:06 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:06 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:06 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:06 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:06 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:06 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:06 - ATUALIZANDO dados da REDECARD item(309) ref ped(01556) na nota fisca em bs_notas
+23/02/22 - 01:36:07 - Resultado da atualizacao: (SE PEDIDO = 01556) 0
+23/02/22 - 01:36:07 - GERANDO PARCELAS PARA O PEDIDO (01556)
+23/02/22 - 01:36:07 - Total de parcelas: 3
+23/02/22 - 01:36:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:07 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:36:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:07 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:36:07 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:07 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:36:07 - ATUALIZANDO dados da REDECARD item(310) ref ped(01561) na nota fisca em bs_notas
+23/02/22 - 01:36:08 - Resultado da atualizacao: (SE PEDIDO = 01561) 0
+23/02/22 - 01:36:08 - GERANDO PARCELAS PARA O PEDIDO (01561)
+23/02/22 - 01:36:08 - Total de parcelas: 5
+23/02/22 - 01:36:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:08 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:08 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:08 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:08 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:08 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:08 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:08 - ATUALIZANDO dados da REDECARD item(311) ref ped(01563) na nota fisca em bs_notas
+23/02/22 - 01:36:09 - Resultado da atualizacao: (SE PEDIDO = 01563) 0
+23/02/22 - 01:36:09 - GERANDO PARCELAS PARA O PEDIDO (01563)
+23/02/22 - 01:36:09 - Total de parcelas: 2
+23/02/22 - 01:36:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:09 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:09 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:09 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:09 - ATUALIZANDO dados da REDECARD item(312) ref ped(01562) na nota fisca em bs_notas
+23/02/22 - 01:36:10 - Resultado da atualizacao: (SE PEDIDO = 01562) 0
+23/02/22 - 01:36:10 - GERANDO PARCELAS PARA O PEDIDO (01562)
+23/02/22 - 01:36:10 - Total de parcelas: 2
+23/02/22 - 01:36:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:10 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:10 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:10 - ATUALIZANDO dados da REDECARD item(313) ref ped(01560) na nota fisca em bs_notas
+23/02/22 - 01:36:10 - Resultado da atualizacao: (SE PEDIDO = 01560) 0
+23/02/22 - 01:36:10 - GERANDO PARCELAS PARA O PEDIDO (01560)
+23/02/22 - 01:36:10 - ATUALIZANDO dados da REDECARD item(314) ref ped(01567) na nota fisca em bs_notas
+23/02/22 - 01:36:11 - Resultado da atualizacao: (SE PEDIDO = 01567) 0
+23/02/22 - 01:36:11 - GERANDO PARCELAS PARA O PEDIDO (01567)
+23/02/22 - 01:36:11 - Total de parcelas: 5
+23/02/22 - 01:36:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:11 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:11 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:11 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:11 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:11 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:11 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:11 - ATUALIZANDO dados da REDECARD item(315) ref ped(01568) na nota fisca em bs_notas
+23/02/22 - 01:36:12 - Resultado da atualizacao: (SE PEDIDO = 01568) 0
+23/02/22 - 01:36:12 - GERANDO PARCELAS PARA O PEDIDO (01568)
+23/02/22 - 01:36:12 - ATUALIZANDO dados da REDECARD item(316) ref ped(01565) na nota fisca em bs_notas
+23/02/22 - 01:36:13 - Resultado da atualizacao: (SE PEDIDO = 01565) 0
+23/02/22 - 01:36:13 - GERANDO PARCELAS PARA O PEDIDO (01565)
+23/02/22 - 01:36:13 - ATUALIZANDO dados da REDECARD item(317) ref ped(01578) na nota fisca em bs_notas
+23/02/22 - 01:36:14 - Resultado da atualizacao: (SE PEDIDO = 01578) 0
+23/02/22 - 01:36:14 - GERANDO PARCELAS PARA O PEDIDO (01578)
+23/02/22 - 01:36:14 - Total de parcelas: 2
+23/02/22 - 01:36:14 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:14 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:14 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:14 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:14 - ATUALIZANDO dados da REDECARD item(318) ref ped(01577) na nota fisca em bs_notas
+23/02/22 - 01:36:15 - Resultado da atualizacao: (SE PEDIDO = 01577) 0
+23/02/22 - 01:36:15 - GERANDO PARCELAS PARA O PEDIDO (01577)
+23/02/22 - 01:36:15 - Total de parcelas: 3
+23/02/22 - 01:36:15 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:15 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:36:15 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:15 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:36:15 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:15 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:36:15 - ATUALIZANDO dados da REDECARD item(319) ref ped(01574) na nota fisca em bs_notas
+23/02/22 - 01:36:16 - Resultado da atualizacao: (SE PEDIDO = 01574) 0
+23/02/22 - 01:36:16 - GERANDO PARCELAS PARA O PEDIDO (01574)
+23/02/22 - 01:36:16 - ATUALIZANDO dados da REDECARD item(320) ref ped(01572) na nota fisca em bs_notas
+23/02/22 - 01:36:17 - Resultado da atualizacao: (SE PEDIDO = 01572) 0
+23/02/22 - 01:36:17 - GERANDO PARCELAS PARA O PEDIDO (01572)
+23/02/22 - 01:36:17 - Total de parcelas: 2
+23/02/22 - 01:36:17 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:17 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:17 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:17 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:17 - ATUALIZANDO dados da REDECARD item(321) ref ped(01571) na nota fisca em bs_notas
+23/02/22 - 01:36:18 - Resultado da atualizacao: (SE PEDIDO = 01571) 0
+23/02/22 - 01:36:18 - GERANDO PARCELAS PARA O PEDIDO (01571)
+23/02/22 - 01:36:18 - Total de parcelas: 4
+23/02/22 - 01:36:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:18 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:36:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:18 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:18 - ATUALIZANDO dados da REDECARD item(322) ref ped(01573) na nota fisca em bs_notas
+23/02/22 - 01:36:19 - Resultado da atualizacao: (SE PEDIDO = 01573) 0
+23/02/22 - 01:36:19 - GERANDO PARCELAS PARA O PEDIDO (01573)
+23/02/22 - 01:36:19 - Total de parcelas: 2
+23/02/22 - 01:36:19 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:19 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:19 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:19 - ATUALIZANDO dados da REDECARD item(323) ref ped(01580) na nota fisca em bs_notas
+23/02/22 - 01:36:20 - Resultado da atualizacao: (SE PEDIDO = 01580) 0
+23/02/22 - 01:36:20 - GERANDO PARCELAS PARA O PEDIDO (01580)
+23/02/22 - 01:36:20 - Total de parcelas: 2
+23/02/22 - 01:36:20 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:20 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:20 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:20 - ATUALIZANDO dados da REDECARD item(324) ref ped(01581) na nota fisca em bs_notas
+23/02/22 - 01:36:21 - Resultado da atualizacao: (SE PEDIDO = 01581) 0
+23/02/22 - 01:36:21 - GERANDO PARCELAS PARA O PEDIDO (01581)
+23/02/22 - 01:36:21 - ATUALIZANDO dados da REDECARD item(325) ref ped(01583) na nota fisca em bs_notas
+23/02/22 - 01:36:21 - Resultado da atualizacao: (SE PEDIDO = 01583) 0
+23/02/22 - 01:36:21 - GERANDO PARCELAS PARA O PEDIDO (01583)
+23/02/22 - 01:36:21 - Total de parcelas: 3
+23/02/22 - 01:36:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:21 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:36:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:21 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:36:21 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:21 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:36:21 - ATUALIZANDO dados da REDECARD item(326) ref ped(01591) na nota fisca em bs_notas
+23/02/22 - 01:36:22 - Resultado da atualizacao: (SE PEDIDO = 01591) 0
+23/02/22 - 01:36:22 - GERANDO PARCELAS PARA O PEDIDO (01591)
+23/02/22 - 01:36:22 - Total de parcelas: 2
+23/02/22 - 01:36:22 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:22 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:22 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:22 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:22 - ATUALIZANDO dados da REDECARD item(327) ref ped(01590) na nota fisca em bs_notas
+23/02/22 - 01:36:23 - Resultado da atualizacao: (SE PEDIDO = 01590) 0
+23/02/22 - 01:36:23 - GERANDO PARCELAS PARA O PEDIDO (01590)
+23/02/22 - 01:36:23 - Total de parcelas: 3
+23/02/22 - 01:36:23 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:23 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:36:23 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:23 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:36:23 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:23 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:36:23 - ATUALIZANDO dados da REDECARD item(328) ref ped(01589) na nota fisca em bs_notas
+23/02/22 - 01:36:24 - Resultado da atualizacao: (SE PEDIDO = 01589) 0
+23/02/22 - 01:36:24 - GERANDO PARCELAS PARA O PEDIDO (01589)
+23/02/22 - 01:36:24 - Total de parcelas: 5
+23/02/22 - 01:36:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:24 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:24 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:24 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:24 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:24 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:24 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:24 - ATUALIZANDO dados da REDECARD item(329) ref ped(01585) na nota fisca em bs_notas
+23/02/22 - 01:36:25 - Resultado da atualizacao: (SE PEDIDO = 01585) 0
+23/02/22 - 01:36:25 - GERANDO PARCELAS PARA O PEDIDO (01585)
+23/02/22 - 01:36:25 - Total de parcelas: 2
+23/02/22 - 01:36:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:25 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:25 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:25 - ATUALIZANDO dados da REDECARD item(330) ref ped(01592) na nota fisca em bs_notas
+23/02/22 - 01:36:26 - Resultado da atualizacao: (SE PEDIDO = 01592) 0
+23/02/22 - 01:36:26 - GERANDO PARCELAS PARA O PEDIDO (01592)
+23/02/22 - 01:36:26 - Total de parcelas: 5
+23/02/22 - 01:36:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:26 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:26 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:26 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:26 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:26 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:26 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:26 - ATUALIZANDO dados da REDECARD item(331) ref ped(01595) na nota fisca em bs_notas
+23/02/22 - 01:36:27 - Resultado da atualizacao: (SE PEDIDO = 01595) 0
+23/02/22 - 01:36:27 - GERANDO PARCELAS PARA O PEDIDO (01595)
+23/02/22 - 01:36:27 - Total de parcelas: 2
+23/02/22 - 01:36:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:27 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:27 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:27 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:27 - ATUALIZANDO dados da REDECARD item(332) ref ped(01596) na nota fisca em bs_notas
+23/02/22 - 01:36:28 - Resultado da atualizacao: (SE PEDIDO = 01596) 0
+23/02/22 - 01:36:28 - GERANDO PARCELAS PARA O PEDIDO (01596)
+23/02/22 - 01:36:28 - Total de parcelas: 3
+23/02/22 - 01:36:28 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:28 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:36:28 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:28 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:28 - ATUALIZANDO dados da REDECARD item(333) ref ped(01597) na nota fisca em bs_notas
+23/02/22 - 01:36:29 - Resultado da atualizacao: (SE PEDIDO = 01597) 0
+23/02/22 - 01:36:29 - GERANDO PARCELAS PARA O PEDIDO (01597)
+23/02/22 - 01:36:29 - Total de parcelas: 2
+23/02/22 - 01:36:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:29 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:29 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:29 - ATUALIZANDO dados da REDECARD item(334) ref ped(01598) na nota fisca em bs_notas
+23/02/22 - 01:36:29 - Resultado da atualizacao: (SE PEDIDO = 01598) 0
+23/02/22 - 01:36:29 - GERANDO PARCELAS PARA O PEDIDO (01598)
+23/02/22 - 01:36:29 - ATUALIZANDO dados da REDECARD item(335) ref ped(01594) na nota fisca em bs_notas
+23/02/22 - 01:36:30 - Resultado da atualizacao: (SE PEDIDO = 01594) 0
+23/02/22 - 01:36:30 - GERANDO PARCELAS PARA O PEDIDO (01594)
+23/02/22 - 01:36:30 - ATUALIZANDO dados da REDECARD item(336) ref ped(01600) na nota fisca em bs_notas
+23/02/22 - 01:36:31 - Resultado da atualizacao: (SE PEDIDO = 01600) 0
+23/02/22 - 01:36:31 - GERANDO PARCELAS PARA O PEDIDO (01600)
+23/02/22 - 01:36:31 - ATUALIZANDO dados da REDECARD item(337) ref ped(01601) na nota fisca em bs_notas
+23/02/22 - 01:36:32 - Resultado da atualizacao: (SE PEDIDO = 01601) 0
+23/02/22 - 01:36:32 - GERANDO PARCELAS PARA O PEDIDO (01601)
+23/02/22 - 01:36:32 - ATUALIZANDO dados da REDECARD item(338) ref ped(01603) na nota fisca em bs_notas
+23/02/22 - 01:36:33 - Resultado da atualizacao: (SE PEDIDO = 01603) 0
+23/02/22 - 01:36:33 - GERANDO PARCELAS PARA O PEDIDO (01603)
+23/02/22 - 01:36:33 - ATUALIZANDO dados da REDECARD item(339) ref ped(01606) na nota fisca em bs_notas
+23/02/22 - 01:36:34 - Resultado da atualizacao: (SE PEDIDO = 01606) 0
+23/02/22 - 01:36:34 - GERANDO PARCELAS PARA O PEDIDO (01606)
+23/02/22 - 01:36:34 - ATUALIZANDO dados da REDECARD item(340) ref ped(01607) na nota fisca em bs_notas
+23/02/22 - 01:36:34 - Resultado da atualizacao: (SE PEDIDO = 01607) 0
+23/02/22 - 01:36:34 - GERANDO PARCELAS PARA O PEDIDO (01607)
+23/02/22 - 01:36:34 - Total de parcelas: 2
+23/02/22 - 01:36:34 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:34 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:35 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:35 - ATUALIZANDO dados da REDECARD item(341) ref ped(01615) na nota fisca em bs_notas
+23/02/22 - 01:36:35 - Resultado da atualizacao: (SE PEDIDO = 01615) 0
+23/02/22 - 01:36:35 - GERANDO PARCELAS PARA O PEDIDO (01615)
+23/02/22 - 01:36:35 - Total de parcelas: 2
+23/02/22 - 01:36:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:35 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:35 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:35 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:35 - ATUALIZANDO dados da REDECARD item(342) ref ped(01614) na nota fisca em bs_notas
+23/02/22 - 01:36:36 - Resultado da atualizacao: (SE PEDIDO = 01614) 0
+23/02/22 - 01:36:36 - GERANDO PARCELAS PARA O PEDIDO (01614)
+23/02/22 - 01:36:36 - Total de parcelas: 3
+23/02/22 - 01:36:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:36 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:36:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:36 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:36:36 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:36 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:36:36 - ATUALIZANDO dados da REDECARD item(343) ref ped(01613) na nota fisca em bs_notas
+23/02/22 - 01:36:37 - Resultado da atualizacao: (SE PEDIDO = 01613) 0
+23/02/22 - 01:36:37 - GERANDO PARCELAS PARA O PEDIDO (01613)
+23/02/22 - 01:36:37 - Total de parcelas: 2
+23/02/22 - 01:36:37 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:37 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:37 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:37 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:37 - ATUALIZANDO dados da REDECARD item(344) ref ped(01609) na nota fisca em bs_notas
+23/02/22 - 01:36:38 - Resultado da atualizacao: (SE PEDIDO = 01609) 0
+23/02/22 - 01:36:38 - GERANDO PARCELAS PARA O PEDIDO (01609)
+23/02/22 - 01:36:38 - ATUALIZANDO dados da REDECARD item(345) ref ped(01612) na nota fisca em bs_notas
+23/02/22 - 01:36:39 - Resultado da atualizacao: (SE PEDIDO = 01612) 0
+23/02/22 - 01:36:39 - GERANDO PARCELAS PARA O PEDIDO (01612)
+23/02/22 - 01:36:39 - Total de parcelas: 2
+23/02/22 - 01:36:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:39 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:39 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:39 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:39 - ATUALIZANDO dados da REDECARD item(346) ref ped(01611) na nota fisca em bs_notas
+23/02/22 - 01:36:40 - Resultado da atualizacao: (SE PEDIDO = 01611) 0
+23/02/22 - 01:36:40 - GERANDO PARCELAS PARA O PEDIDO (01611)
+23/02/22 - 01:36:40 - Total de parcelas: 4
+23/02/22 - 01:36:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:40 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:36:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:40 - Parcela nao existe ...inserindo parcela: 2/4
+23/02/22 - 01:36:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:40 - Parcela nao existe ...inserindo parcela: 3/4
+23/02/22 - 01:36:40 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:40 - Parcela nao existe ...inserindo parcela: 4/4
+23/02/22 - 01:36:40 - ATUALIZANDO dados da REDECARD item(347) ref ped(01610) na nota fisca em bs_notas
+23/02/22 - 01:36:41 - Resultado da atualizacao: (SE PEDIDO = 01610) 0
+23/02/22 - 01:36:41 - GERANDO PARCELAS PARA O PEDIDO (01610)
+23/02/22 - 01:36:41 - Total de parcelas: 5
+23/02/22 - 01:36:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:41 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:41 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:41 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:41 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:41 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:41 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:41 - ATUALIZANDO dados da REDECARD item(348) ref ped(01619) na nota fisca em bs_notas
+23/02/22 - 01:36:42 - Resultado da atualizacao: (SE PEDIDO = 01619) 0
+23/02/22 - 01:36:42 - GERANDO PARCELAS PARA O PEDIDO (01619)
+23/02/22 - 01:36:42 - Total de parcelas: 2
+23/02/22 - 01:36:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:42 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:42 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:42 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:42 - ATUALIZANDO dados da REDECARD item(349) ref ped(01620) na nota fisca em bs_notas
+23/02/22 - 01:36:43 - Resultado da atualizacao: (SE PEDIDO = 01620) 0
+23/02/22 - 01:36:43 - GERANDO PARCELAS PARA O PEDIDO (01620)
+23/02/22 - 01:36:43 - Total de parcelas: 2
+23/02/22 - 01:36:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:43 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:43 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:43 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:43 - ATUALIZANDO dados da REDECARD item(350) ref ped(01622) na nota fisca em bs_notas
+23/02/22 - 01:36:44 - Resultado da atualizacao: (SE PEDIDO = 01622) 0
+23/02/22 - 01:36:44 - GERANDO PARCELAS PARA O PEDIDO (01622)
+23/02/22 - 01:36:44 - ATUALIZANDO dados da REDECARD item(351) ref ped(01630) na nota fisca em bs_notas
+23/02/22 - 01:36:45 - Resultado da atualizacao: (SE PEDIDO = 01630) 0
+23/02/22 - 01:36:45 - GERANDO PARCELAS PARA O PEDIDO (01630)
+23/02/22 - 01:36:45 - Total de parcelas: 3
+23/02/22 - 01:36:45 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:45 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:36:45 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:45 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:36:45 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:45 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:36:45 - ATUALIZANDO dados da REDECARD item(352) ref ped(01624) na nota fisca em bs_notas
+23/02/22 - 01:36:46 - Resultado da atualizacao: (SE PEDIDO = 01624) 0
+23/02/22 - 01:36:46 - GERANDO PARCELAS PARA O PEDIDO (01624)
+23/02/22 - 01:36:46 - Total de parcelas: 3
+23/02/22 - 01:36:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:46 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:36:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:46 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:36:46 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:46 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:36:46 - ATUALIZANDO dados da REDECARD item(353) ref ped(01627) na nota fisca em bs_notas
+23/02/22 - 01:36:47 - Resultado da atualizacao: (SE PEDIDO = 01627) 0
+23/02/22 - 01:36:47 - GERANDO PARCELAS PARA O PEDIDO (01627)
+23/02/22 - 01:36:47 - Total de parcelas: 3
+23/02/22 - 01:36:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:47 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:36:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:47 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:36:47 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:47 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:36:47 - ATUALIZANDO dados da REDECARD item(354) ref ped(01628) na nota fisca em bs_notas
+23/02/22 - 01:36:48 - Resultado da atualizacao: (SE PEDIDO = 01628) 0
+23/02/22 - 01:36:48 - GERANDO PARCELAS PARA O PEDIDO (01628)
+23/02/22 - 01:36:48 - Total de parcelas: 4
+23/02/22 - 01:36:48 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:48 - Parcela nao existe ...inserindo parcela: 1/4
+23/02/22 - 01:36:48 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:48 - Parcela nao existe ...inserindo parcela: 2/4
+23/02/22 - 01:36:48 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:48 - Parcela nao existe ...inserindo parcela: 3/4
+23/02/22 - 01:36:48 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:48 - Parcela nao existe ...inserindo parcela: 4/4
+23/02/22 - 01:36:48 - ATUALIZANDO dados da REDECARD item(355) ref ped(01629) na nota fisca em bs_notas
+23/02/22 - 01:36:49 - Resultado da atualizacao: (SE PEDIDO = 01629) 0
+23/02/22 - 01:36:49 - GERANDO PARCELAS PARA O PEDIDO (01629)
+23/02/22 - 01:36:49 - Total de parcelas: 5
+23/02/22 - 01:36:49 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:49 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:49 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:49 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:49 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:49 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:49 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:49 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:49 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:49 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:49 - ATUALIZANDO dados da REDECARD item(356) ref ped(01635) na nota fisca em bs_notas
+23/02/22 - 01:36:49 - Resultado da atualizacao: (SE PEDIDO = 01635) 0
+23/02/22 - 01:36:49 - GERANDO PARCELAS PARA O PEDIDO (01635)
+23/02/22 - 01:36:49 - Total de parcelas: 3
+23/02/22 - 01:36:49 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:49 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:36:49 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:49 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:36:49 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:49 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:36:49 - ATUALIZANDO dados da REDECARD item(357) ref ped(01639) na nota fisca em bs_notas
+23/02/22 - 01:36:50 - Resultado da atualizacao: (SE PEDIDO = 01639) 0
+23/02/22 - 01:36:50 - GERANDO PARCELAS PARA O PEDIDO (01639)
+23/02/22 - 01:36:50 - Total de parcelas: 3
+23/02/22 - 01:36:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:50 - Parcela nao existe ...inserindo parcela: 1/3
+23/02/22 - 01:36:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:50 - Parcela nao existe ...inserindo parcela: 2/3
+23/02/22 - 01:36:50 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:50 - Parcela nao existe ...inserindo parcela: 3/3
+23/02/22 - 01:36:50 - ATUALIZANDO dados da REDECARD item(358) ref ped(01640) na nota fisca em bs_notas
+23/02/22 - 01:36:51 - Resultado da atualizacao: (SE PEDIDO = 01640) 0
+23/02/22 - 01:36:51 - GERANDO PARCELAS PARA O PEDIDO (01640)
+23/02/22 - 01:36:51 - Total de parcelas: 2
+23/02/22 - 01:36:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:51 - Parcela nao existe ...inserindo parcela: 1/2
+23/02/22 - 01:36:51 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:51 - Parcela nao existe ...inserindo parcela: 2/2
+23/02/22 - 01:36:51 - ATUALIZANDO dados da REDECARD item(359) ref ped(01641) na nota fisca em bs_notas
+23/02/22 - 01:36:52 - Resultado da atualizacao: (SE PEDIDO = 01641) 0
+23/02/22 - 01:36:52 - GERANDO PARCELAS PARA O PEDIDO (01641)
+23/02/22 - 01:36:52 - Total de parcelas: 5
+23/02/22 - 01:36:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:52 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:52 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:52 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:52 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:52 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:52 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:52 - ATUALIZANDO dados da REDECARD item(360) ref ped(01636) na nota fisca em bs_notas
+23/02/22 - 01:36:53 - Resultado da atualizacao: (SE PEDIDO = 01636) 0
+23/02/22 - 01:36:53 - GERANDO PARCELAS PARA O PEDIDO (01636)
+23/02/22 - 01:36:53 - Total de parcelas: 5
+23/02/22 - 01:36:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:53 - Parcela nao existe ...inserindo parcela: 1/5
+23/02/22 - 01:36:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:53 - Parcela nao existe ...inserindo parcela: 2/5
+23/02/22 - 01:36:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:53 - Parcela nao existe ...inserindo parcela: 3/5
+23/02/22 - 01:36:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:53 - Parcela nao existe ...inserindo parcela: 4/5
+23/02/22 - 01:36:53 - Conferindo se parcela nao esta cadastrada
+23/02/22 - 01:36:53 - Parcela nao existe ...inserindo parcela: 5/5
+23/02/22 - 01:36:53 - Encerrando atualizacao da tabela da REDECARD

@@ -8,13 +8,7 @@
 </head>
 <body>
 
-<a href="#">Sincronizar Notas</a><br>
-<a href="#">Sincronizar Pedidos</a><br>
-<a href="#">Sincronizar Produtos</a><br>
-<a href="#">Sincronizar Clientes</a><br>
-<a href="sandbox.php">SandBox</a><br>
-
-
+<a href="sinc-rede.php">Sinc Rede</a><br>
 
 </body>
 </html>

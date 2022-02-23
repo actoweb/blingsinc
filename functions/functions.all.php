@@ -251,20 +251,20 @@ function dt2my($str){
 
 $saveLogs=true;
 //funcao para anotar no log de atividades
-function logsys($str,$reset=false,$dir='logs'){
+function logsys($str,$reset=false,$dir='logs',$logFile='sys.log.txt'){
   global $saveLogs;
   if($saveLogs){
-    $fp = fopen($dir.'/sys.log.txt', 'a');
+    $fp = fopen($dir.'/'.$logFile, 'a');
     fwrite($fp, date('d/m/y - H:i:s').' - '.$str."\n");
     fclose($fp);
   }
   if($reset==true){
-    $fp = fopen($dir.'/sys.log.txt', 'w');
+    $fp = fopen($dir.'/'.$logFile, 'w');
     fwrite($fp, 'ZERANDO O ARQUIVO: '.date('d/m/y - H:i:s').' - '.$str."\n");
     fclose($fp);
   }
   if(isSet($_GET['logclear']) && $_GET['logclear']=='clearll'){
-    $fp = fopen($dir.'/sys.log.txt', 'w');
+    $fp = fopen($dir.'/'.$logFile, 'w');
     fwrite($fp, 'ZERANDO O ARQUIVO: '.date('d/m/y - H:i:s').' - '.$str."\n");
     fclose($fp);
   }

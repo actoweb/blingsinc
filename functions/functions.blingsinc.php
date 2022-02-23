@@ -151,6 +151,15 @@ function str2int($str=''){
   return $int;
 }
 
+//converte monetario BR para float
+function real2float($string=''){
+$string = str_replace('.','',$string);
+$string = str_replace(',','.',$string);
+$string = str_replace('%','',$string);
+$string = str_ireplace('r$','',$string);
+return $string;
+}
+
 function sincNotasFiscais($args=array()){
 
     $pendentes    = 0;
@@ -610,4 +619,256 @@ function processaItensNotas($tipoNota='S'){
   }
 }
 
+function epoch2Date($str){
+  $str = str_replace("/Date(",'',$str);
+  $str = str_replace(")/",'',$str);
+  $str = date("Y-m-d H:i:s", substr($str, 0, 10));
+  return $str;
+}
+
+function consultaPedidoPlataforma($numPed=''){
+  $dadosPedido='';
+  if($numPed!=''){
+    $url = 'https://laccord.layer.core.dcg.com.br/v1/Sales/API.svc/web/GetOrderByNumber';
+    //$url = 'https://laccord.layer.core.dcg.com.br/v1/Sales/API.svc/web/UpdateOrder';
+
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+      'Content-Type: application/json',
+      'Accept: application/json',
+      'Authorization: Basic aW50ZWdyYWNhby5taWxsZW5uaXVtOmludEBnckBjYW8xMjM=')
+    );
+    curl_setopt($ch, CURLOPT_POSTFIELDS, "$numPed");
+    # Return response instead of printing.
+    curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true );
+    # Send request.
+    $result = curl_exec($ch);
+    curl_close($ch);
+    $dadosPedido = json_decode($result,true);
+  }
+  return $dadosPedido;
+}
+
+function calcVctosParcelas($dataVenda,$parcelas,$intervalo=30){
+  $vencimentos=array();
+  if(strstr($dataVenda,' ')){
+  $a          = explode(' ',$dataVenda);
+  $vendidoEm  = $a[0];
+  }else{
+  $vendidoEm  = $dataVenda;
+  }
+
+  for ($i = 1; $i <= $parcelas; $i++)
+  {
+    if($i==1){
+    $vcto = date('Y-m-d', strtotime( $vendidoEm . '+30 days'));
+    }else{
+    $vcto = date('Y-m-d', strtotime( $vcto . '+30 days'));
+    }
+    $vencimentos[$i]  = $vcto;
+  }
+  return $vencimentos;
+}
+
+function getDataVendaFromRede($numPed=''){
+  if($numPed!=''){
+    $res        = dbf('SELECT * FROM bs_redecard WHERE numero_pedido = :numero_pedido',array(
+                      ':numero_pedido'=>$numPed),'fetch');
+    if(count($res)>0){
+      $dataVenda =  $res[0]['dataVenda'];
+      return $dataVenda;
+    }else{
+      return false;
+    }
+  }else{
+    return false;
+  }
+}
+
+
+function sincCSV_relatorioRedeCard($arquivo){
+  logsys('Iniciando atualizacao relatorios REDECARD',true,'logs','log-rede.txt');
+  $row = 1;
+  if (($handle = fopen($arquivo, "r")) !== FALSE) {
+      while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+          $num = count($data);
+          $row++;
+
+          $dataVenda          = swdata($data[0]);
+          $valorOriginal      = real2float($data[2]);
+          $numParcelas        = $data[4];
+          $modalidade         = $data[5];
+          $tipo               = $data[6];
+          $bandeira           = $data[7];
+          $tarifa_percentual  = real2float($data[8]);
+          $tarifa_valor       = real2float($data[12]);
+          $valorLiquido       = real2float($data[13]);
+          $numeroPedido       = $data[26];
+          $cancelada          = $data[28];
+          if(strlen($data[29])>1){
+          $dataCancelamento   = swdata($data[29]);
+          }else{
+          $dataCancelamento   = '';
+          }
+          $cartao_tipo        = $data[35];
+
+          if($dataVenda!='')          {$arrr['dataVenda']         = $dataVenda;}
+          if($valorOriginal!='')      {$arrr['valorOriginal']     = $valorOriginal;}
+          if($numParcelas!='')        {$arrr['numParcelas']       = $numParcelas;}
+          if($modalidade!='')         {$arrr['modalidade']        = $modalidade;}
+          if($tipo!='')               {$arrr['tipo']              = $tipo;}
+          if($bandeira!='')           {$arrr['bandeira']          = $bandeira;}
+          if($tarifa_percentual!='')  {$arrr['tarifa_percentual'] = $tarifa_percentual;}
+          if($tarifa_valor!='')       {$arrr['tarifa_valor']      = $tarifa_valor;}
+          if($valorLiquido!='')       {$arrr['valorLiquido']      = $valorLiquido;}
+          if($numeroPedido!='')       {$arrr['numero_pedido']     = $numeroPedido;}
+          if($cancelada!='')          {$arrr['cancelada_na_loja'] = $cancelada;}
+          if($dataCancelamento!='')   {$arrr['dataCancelamento']  = $dataCancelamento;}
+          if($cartao_tipo!='')        {$arrr['cartao_tipo']       = $cartao_tipo;}
+
+
+          foreach($arrr as $key => $val){
+            $caddata[$key] = $val;
+          }
+
+          logsys("Consultando se pedido($numeroPedido) item ja consta na tabela atual",false,'logs','log-rede.txt');
+          //consulta se este item ja foi registrado na tabela de dados da rede
+          $ch_rede = dbf('SELECT * FROM bs_redecard WHERE numero_pedido = :numero_pedido',
+                        array(':numero_pedido'=>$numeroPedido),'num');
+
+          if($ch_rede==1){//se item ja existe atualiza ele na tabela
+            logsys("Pedido($numeroPedido) existe, atualizacao necessaria",false,'logs','log-rede.txt');
+            $upd = updateDB('bs_redecard',$caddata,' WHERE numero_pedido = :numero_pedido');
+            //echo "atualizando ($numeroPedido)= $upd<br />\n";
+          }else{
+            logsys("Pedido($numeroPedido) NAO EXISTE, CADASTRO necessario",false,'logs','log-rede.txt');
+            $ins = insertDB('bs_redecard',$caddata);
+            //echo "cadastrando ($numeroPedido)= $ins<br />\n";
+          }
+
+
+      }//end loop if(count($resRede)>0)
+
+
+          //le toda a tabela bs_rede e copia valores dela para a tabela bs_notas
+          $resRedeDB = dbf('SELECT * FROM bs_redecard ORDER BY dataVenda ASC','','fetch');
+
+          if(count($resRedeDB)>0){
+
+          for ($r = 0; $r < count($resRedeDB); $r++)
+          {
+              $resRede = $resRedeDB[$r];
+
+              logsys("ATUALIZANDO dados da REDECARD item($r) ref ped($resRede[numero_pedido]) na nota fisca em bs_notas",false,'logs','log-rede.txt');
+              $arUpdNFE=array();
+              $arUpdNFE[':numero_pedido']                 = $resRede['numero_pedido'];
+
+              $dadosVendaPlat                             = consultaPedidoPlataforma($resRede['numero_pedido']);
+              $resRede['dataVenda']                       = epoch2Date($dadosVendaPlat['AcquiredDate']);
+
+              if(!isSet($resRede['dataVenda'])||$resRede['dataVenda']==''){
+              $arUpdNFE[':nfe_rede_dataVenda']            = $resRede['dataVenda'];
+              }else{
+              $arUpdNFE[':nfe_rede_dataVenda']            = null;
+              }
+              $arUpdNFE[':nfe_rede_valorOriginal']        = $resRede['valorOriginal'];
+              $arUpdNFE[':nfe_rede_numParcelas']          = $resRede['numParcelas'];
+              $arUpdNFE[':nfe_rede_modalidade']           = $resRede['modalidade'];
+              $arUpdNFE[':nfe_rede_tipo']                 = $resRede['tipo'];
+              $arUpdNFE[':nfe_rede_bandeira']             = $resRede['bandeira'];
+              $arUpdNFE[':nfe_rede_ptarifa']              = $resRede['tarifa_percentual'];
+              $arUpdNFE[':nfe_rede_vtarifa']              = $resRede['tarifa_valor'];
+              $arUpdNFE[':nfe_rede_valorLiquido']         = $resRede['valorLiquido'];
+              $arUpdNFE[':nfe_cancelada_na_loja']         = $resRede['cancelada_na_loja'];
+              if(isSet($resRede['dataCancelamento']) && $resRede['dataCancelamento']!=null && $resRede['dataCancelamento']!=''){
+              $arUpdNFE[':nfe_dataCancelamento']          = $resRede['dataCancelamento'];
+              }else{
+              $arUpdNFE[':nfe_dataCancelamento']          = null;
+              }
+
+
+              $upd_bsNotas = dbf('UPDATE bs_notas SET
+                                nfe_rede_dataVenda        = :nfe_rede_dataVenda,
+                                nfe_rede_valorOriginal		= :nfe_rede_valorOriginal,
+                                nfe_rede_numParcelas			= :nfe_rede_numParcelas,
+                                nfe_rede_modalidade			  = :nfe_rede_modalidade,
+                                nfe_rede_tipo					    = :nfe_rede_tipo,
+                                nfe_rede_bandeira				  = :nfe_rede_bandeira,
+                                nfe_rede_ptarifa				  = :nfe_rede_ptarifa,
+                                nfe_rede_vtarifa				  = :nfe_rede_vtarifa,
+                                nfe_rede_valorLiquido			= :nfe_rede_valorLiquido,
+                                nfe_cancelada_na_loja			= :nfe_cancelada_na_loja,
+                                nfe_dataCancelamento			= :nfe_dataCancelamento
+                                WHERE nfe_numeroPedidoLoja= :numero_pedido',$arUpdNFE);
+
+              logsys("Resultado da atualizacao: (SE PEDIDO = $resRede[numero_pedido]) $upd_bsNotas",false,'logs','log-rede.txt');
+
+              //localiza o numero da nota
+              $chkNNota = dbf('SELECT * FROM bs_notas_itens WHERE item_pedidoLoja = :item_pedidoLoja',array(
+              'item_pedidoLoja'=>$resRede['numero_pedido']
+              ),'fetch');
+
+              $numNotaDoPedido = $chkNNota[0]['item_numeroNota'];
+
+              //depois de atualizar bs_nota entao gera as parcelas bs_parcelas
+              logsys("GERANDO PARCELAS PARA O PEDIDO ($resRede[numero_pedido])",false,'logs','log-rede.txt');
+              $tot_parcelas = (int) $resRede['numParcelas'];
+              $dta_venda    = $resRede['dataVenda'];
+
+
+              if($tot_parcelas>0){
+                logsys("Total de parcelas: $tot_parcelas",false,'logs','log-rede.txt');
+
+                $parcVctos = calcVctosParcelas($dta_venda,$tot_parcelas,30);
+
+                for ($k = 1; $k <= $tot_parcelas; $k++)
+                {
+                    $num_notasPed   = $numNotaDoPedido;
+                    $ordem_parcela  = "$k/$tot_parcelas";
+                    $valor_parcela  = round(($resRede['valorOriginal'] / $tot_parcelas),2);
+
+                    //dados das parcelas a serem cadastradas
+                    $parcPed[':numeroNota']       = $numNotaDoPedido;
+                    $vlrPARCELA                   = round(($resRede['valorOriginal'] / $tot_parcelas),2);
+                    $parcPed[':vlr_parcela']      = $vlrPARCELA;
+                    $parcPed[':vcto_parcela']     = $parcVctos[$k];
+                    $parcPed[':ordem_parcela']    = "$k/$tot_parcelas";
+                    $parcPed[':status_parcela']   = 0;
+
+
+                    logsys("Conferindo se parcela nao esta cadastrada",false,'logs','log-rede.txt');
+                    $chkParc = dbf('SELECT * FROM bs_parcelas WHERE
+                                  numeroNota  = :numeroNota AND
+                                  vlr_parcela = :vlr_parcela',array(':numeroNota'=>$numNotaDoPedido,':vlr_parcela'=>$vlrPARCELA),'fetch');
+
+                    if(count($chkParc)==0){
+                    logsys("Parcela nao existe ...inserindo parcela: ".$parcPed[':ordem_parcela']."",false,'logs','log-rede.txt');
+                    //insere parcelas na tabela bs_parcela
+                    $insParcela = dbf('INSERT bs_parcelas SET
+                                    numeroNota      = :numeroNota,
+                                    vlr_parcela     = :vlr_parcela,
+                                    vcto_parcela    = :vcto_parcela,
+                                    ordem_parcela   = :ordem_parcela,
+                                    status_parcela  = :status_parcela',$parcPed);
+
+                    }//endif if count($chkParc)==0
+
+                }//end loopfor $tot_parcelas
+
+              }//end id $tot_parcelas>1
+              else{//caso contrario e uma PARCELA UNICA
+                logsys("Parcela nao existe ...inserindo parcela: ".$parcPed[':ordem_parcela']."",false,'logs','log-rede.txt');
+
+              }
+
+          }//end loop for $resRede
+
+      }
+      logsys("Encerrando atualizacao da tabela da REDECARD",false,'logs','log-rede.txt');
+      fclose($handle);
+  }
+
+}
 ?>
